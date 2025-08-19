@@ -1,7 +1,13 @@
-# Leis estatísticas, modelagem baseada em agentes e econofísica
-Minha intenção nesta sessão é apenas fazer um apanhado geral de como a pesquisa funciona nessa área e, em parte, o que motiva sua existência. Para quem estiver mais interessado, além das leituras já indicadas na página inicial, praticamente qualquer livro da área começa buscando oferecer uma contextualização histórica do desenvolvimento do campo.
+# Statistical Laws, Agent-Based Modeling, and Econophysics
+My intention in this section is to provide a general overview of how research in this field is conducted and, to some extent, what motivates its existence. For those who wish to delve deeper, virtually every book in the area begins by offering a historical contextualization of the field’s development. Below, I highlight three works that I consider particularly useful for those seeking an introduction to the subject:
 
-Podemos citar obras conhecidas, como por exemplo *Essentials of Econophysics Modelling* (Slanina) e *Econophysics: An Introduction* (Sinha, Chatterjee, Chakraborti e Chakrabarti), além da obra brasileira escrita por um economista: *[Economia da complexidade: Econofísica](https://fernandonogueiracosta.wordpress.com/wp-content/uploads/2024/09/fernando-nogueira-da-costa-economia-da-complexidade-ou-econofisica-ago-2024.pdf)* (Fernando Nogueira da Costa)[^1].
+- **Classical Econophysics** (Cottrell, Cockshott, Michaelson, and Wright): An introduction to econophysics itself, with an emphasis on the attempt to reconcile classical physics methods with economic theory.  
+- **Statistical Laws in Complex Systems** (Altmann): Discusses how research is conducted in complex systems that exhibit statistical laws as emergent properties — a typical feature of studies in econophysics.  
+- **An Introduction to Agent-Based Modeling** (Wilensky and Rand): Presents the fundamentals of agent-based modeling, the primary computational approach used to construct microscopic models aimed at reproducing the statistical laws observed in the complex systems under investigation.  
+
+Other readings I consider useful include *Laws of Chaos: A Probabilistic Approach to Political Economy* (Farjoun and Machover), *How Labor Powers the Global Economy* (Farjoun, Machover, and Zchariah), and *Agent-Based Models, Macroeconomic Scaling Laws and Sentiment Dynamics* (Lin Lin).
+
+We can also mention other well-known works, such as *Essentials of Econophysics Modelling* (Slanina) and *Econophysics: An Introduction* (Sinha, Chatterjee, Chakraborti, and Chakrabarti), as well as a Brazilian work authored by an economist: *[Economia da complexidade: Econofísica](https://fernandonogueiracosta.wordpress.com/wp-content/uploads/2024/09/fernando-nogueira-da-costa-economia-da-complexidade-ou-econofisica-ago-2024.pdf)* (Fernando Nogueira da Costa)[^1].
 
 ## Leis estatísticas
 
