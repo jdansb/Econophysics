@@ -1,5 +1,8 @@
 
 . [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Marxist-Econophysics/blob/main/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb) 
+. [Statistical approximation of the law of value (EBM)]
+. Social architecture model
+. The labor content
 
 ----
 
