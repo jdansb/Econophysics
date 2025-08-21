@@ -94,7 +94,6 @@ namespace ConsoleApp2
                             trocas[j].Add(preco);
 
                         }
-                        else { falhas[j]++; }
                     }
 
                 }
