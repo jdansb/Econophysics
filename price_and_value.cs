@@ -17,7 +17,6 @@ namespace ConsoleApp2
             double[,] D = new double[N, L];
             var m = new double[N];
             double[] l = { 1.0 / 1.0, 1.0 / 1.2, 1.0 / 1.4, 1.0 / 1.6, 1.0 / 1.8, 1.0 / 2.0, 1.0 / 2.2, 1.0 / 2.4, 1.0 / 2.6, 1.0 / 3.8 };
-            Console.WriteLine(string.Join(", ", l));
             double[] c = { 1.0 / 20, 1.0 / 20, 1.0 / 20, 1.0 / 20, 1.0 / 20, 1.0 / 20, 1.0 / 20, 1.0 / 20, 1.0 / 20, 1.0 / 20 }; 
             List<double>[] trocas = new List<double>[L];
             for (int i = 0; i < trocas.Length; i++)
