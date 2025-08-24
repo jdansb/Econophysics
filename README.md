@@ -1,7 +1,7 @@
 
 1. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Marxist-Econophysics/blob/main/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb) 
 2. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/Statistical_approximation_of_the_law_of_value_(EBM).ipynb) 
-3. [Social architecture model](https://github.com/jdansb/Econophysics/blob/main/social_architecture.ipynb) *in progress*
+3. [Social architecture model](https://github.com/jdansb/Econophysics/blob/main/social_architecture.ipynb) 
 4. The labor content
 5. Economic calculation
 6. Yard-sale model
