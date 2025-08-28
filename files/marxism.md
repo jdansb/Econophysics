@@ -43,9 +43,20 @@ In Sison, we can read at the beginning of each chapter:
 > 2. **Political Economy** is the study of the fundamental laws of motion of the entire economy of a society.
 > 3. **Scientific Socialism** is the theory and practice of the modern industrial proletariat for revolutionary class struggle to emancipate itself, together with other oppressed people... to bring about and develop a society in which the means of production are under public ownership and planned production is for the good of the people rather than for the private profit of a few.
 
-One important observation is that, in Marxist terms, revolution is a change in the social relations of production. In other words, it is a change in how different classes relate to each other and to the production and distribution of goods. That said, each of these topics will require its own in-depth exploration, but I believe what has been presented so far is sufficient to spark the reader's curiosity. To conclude, a final remark is that I believe at the root of all Marxism lies materialism (dialectical) and dialectics (materialist)[^4], so I recommend that interested readers begin their studies there, if they wish.
+One important observation is that, in Marxist terms, revolution is a change in the social relations of production. In other words, it is a change in how different classes relate to each other and to the production and distribution of goods. That said, each of these topics will require its own in-depth exploration, but I believe what has been presented so far is sufficient to spark the reader's curiosity. To conclude, a final remark is that I believe at the root of all Marxism lies materialism (dialectical) and dialectics (materialist)[^4], so I recommend that interested readers begin their studies there, if they wish. In short, as stated in the Vietnamese book:
+
+> **Dialectical Materialism** is the most advanced form of Materialism, and serves as
+the theoretical core of a scientific worldview...Materialism is the belief that the nature of the world is matter; that matter comes first; and that matter determines consciousness.
+> **Materialist dialectics** is one of the basic theoretical parts that form the worldview and
+philosophical methodology of Marxism-Leninism. It is the “science of common relations” and also the “science of common rules of motion and development of nature, society, and human thoughts. . . Dialectics, as understood by Marx, and also in conformity with Hegel, includes what is now called the theory of knowledge, or epistemology.”.
+
+To conclude:
+
+> ...the materialist dialectics of Marxism-Leninism unifies dialectical materialist viewpoints and materialist dialectical methodology, so it not only explains the world, but is also a tool
+humans can use to perceive and improve the world.
 
 [^1]: In Portuguese, I really like the Boitempo edition because of the notes written by José Paulo Netto.  
-[^2]: And the dialectical method, which for me is an inseparable part of this worldview, not something independent, so for convenience I will refer only to the communist worldview.  
+[^2]: And the dialectical method, which for me is an inseparable part of this worldview, not something independent, In the words of the book translated by Luna: "*...dialectics of Marxism-Leninism is a system of dialectics that is based on the foundation of the scientific materialist viewpoint.*"
+so for convenience I will refer only to the communist worldview.  
 [^3]: An additional recommendation I make is the small book *"Ludwig Feuerbach and the End of Classical German Philosophy"* by Engels, Friedrich Engels.
 [^4]: Using the nomenclature adopted in "*The Worldview and Philosophical Methodology of Marxism-Leninism*".
