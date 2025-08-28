@@ -13,8 +13,38 @@ For those interested in learning more about Marxism, I have three main recommend
 
 > As a result, my negative criticism became positive, the polemic was transformed into a more or less connected exposition of the dialectical method and of the communist world outlook championed by Marx and myself — an exposition covering a fairly comprehensive range of subjects (Preface to Anti-Dühring).
 
-Começo com esta citação, e eu poderia encerrar aqui. Marxismo, para mim, em poucas palavras se refere a método dialético e a concepção de mundo proposta por Marx e Engels. Todos os trabalhos seguintes se propõe a aprofundar e expandir este conjunto de ideias propostas por estes dois pensadores. Alguns decidiram chamar este conjunto de ideias como "filosofia" marxista, não é por coincidiência que Spirkin, em Dialectical Materialism diz "Philosophy is thus a unity of world-view and methodology", esta é a forma de definir filosofia de forma que a teoria marxista possa ser caracterizada como filosofia.
+I begin with this quotation, and I could end here. Marxism, for me, in a few words refers to the dialectical method and the world outlook proposed by Marx and Engels. All the subsequent works aim to deepen and expand this set of ideas put forward by these two thinkers. Some have decided to call this set of ideas the Marxist "philosophy"; it is no coincidence that Spirkin, in *Dialectical Materialism*, says *"Philosophy is thus a unity of world-view and methodology"*. This is the way to define philosophy so that Marxist theory can be characterized as philosophy. 
+
+Another popular way of designating Marxism is as a science, but it is necessary to clarify that this definition comes from a broader use of the term. As well explained in the book translated by Luna: 
+
+> The word 'science,' and, by extension, “scientific” in Marxism-Leninism has specific meaning. Friedrich Engels was the first to describe the philosophy which he developed with Marx as “Scientific Socialism” in his book Socialism: Utopian and Scientific. However, it should be noted that the English phrase “scientific socialism” comes from Engels’ use of the German phrase “wissenschaftlich sozialismus.” “Wissenschaft” is a word which can be directly translated as “knowledge craft” in German, and this word encompasses a much more broad and general concept than the
+word “science” as it’s usually used in English... “wissenschaft” refers to a systematic pursuit of knowledge, research, theory, and understanding. “Wissenschaft” is used in any study that involves systematic investigation.
+
+Nildo Viana, in *"Introduction to the Critique of Hegel's Philosophy of Right, the Inaugural Manifesto of Historical Materialism"*, comments on Marx's use of the word philosophy to describe his set of ideas: "...*later it would also become the target of Marx's critique and would be replaced by theory, among other occasional terms, such as 'scientific socialism', 'science', and, after him, it would be called Marxism or theory).*" As we can see, many names have been used to designate what, in general, I call here simply 'Marxism'. But regardless of the name, I hold that Marxism is, returning to Engels, this worldview developed by him together with Marx.  
+
+It is worth noting that the communist worldview involves reflection on the world and our place in it. It also demands action aimed at transforming the world. These ideas are expressed by Marx, for example, in the famous Thesis 11 on Feuerbach: *"The philosophers have only interpreted the world in various ways; the point, however, is to change it."* Or even in the manuscripts of *The German Ideology*: *"Communism is for us not a state of affairs which is to be established, an ideal to which reality [will] have to adjust itself. We call communism the real movement which abolishes the present state of things."*  
+
+At this point, I suppose it is clear that when I define myself as a Marxist, the central issue of my statement is not about supporting any specific party or personality, but about incorporating the worldview[^2] developed and initially presented by the duo of thinkers Marx and Engels. So, what are the ideas that make up Marxism? I do not intend to go into details or provide a complete explanation; for that, I recommend the books listed at the beginning[^3].  
+
+But I want to make a brief comment. Sison stated: "*In summarizing Marxism, Lenin cited philosophy, political economy, and socialism as its three basic components.*" Lenin's most well-known quote can be found in his short text *"The Three Sources and Three Component Parts of Marxism"*, where he writes: *"Marxism is the legitimate successor to the best that humanity created in the 19th century: German philosophy, English political economy, and French socialism."*
+
+It was no accident that I opened my text with a quotation from *Anti-Dühring*; this way of dividing Marxism is the very division adopted by the book. *Anti-Dühring* is frequently recognized as one of the 'founding' books of Marxism, whether by its supporters or its critics. Ingo Elbe (an author I disagree with) in *"Between Marx, Marxism, and Marxisms: Readings of Marx's Theory"* states: *"The birth of a 'Marxist school,' however, is unanimously dated from the publication of Anti-Dühring by Friedrich Engels in the year 1878."*
+
+Just as Marx's main book (*Capital: A Critique of Political Economy*) is a critique of political economy, I assess that Marxism initially emerges as a general critique of the three components listed earlier: philosophy (German), political economy (English), and socialism (French). However, not limited to critique, Marxism advances in formulating a response to each of these components, which. 
+
+According to Luna:
+> According to Lenin, the three component parts of Marxism (and, by extension, of Marxism-Leninism) are:
+> 1. The Philosophy of Marxism: Including Dialectical Materialism and Historical Materialism
+> 2. The Political Economy of Marxism: A system of knowledge and laws that define the production process and commodity exchange in human society.
+> 3. Scientific Socialism: The system of thought pertaining to the establishment of the communist social economy form.
+
+In Sison, we can read at the beginning of each chapter:
+> 1. **Marxist philosophy** is also known as dialectical materialism... **Historical materialism** can be briefly defined as the application of dialectical materialism in the study of the various forms of society and their development from one form to another.
+> 2. **Political Economy** is the study of the fundamental laws of motion of the entire economy of a society.
+> 3. **Scientific Socialism** is the theory and practice of the modern industrial proletariat for revolutionary class struggle to emancipate itself, together with other oppressed people... to bring about and develop a society in which the means of production are under public ownership and planned production is for the good of the people rather than for the private profit of a few.
 
 
 
-[^1]: Em português eu gosto muito da versão da boitempo por causa das notas escritas pelo José Paulo Netto.
+[^1]: In Portuguese, I really like the Boitempo edition because of the notes written by José Paulo Netto.  
+[^2]: And the dialectical method, which for me is an inseparable part of this worldview, not something independent, so for convenience I will refer only to the communist worldview.  
+[^3]: An additional recommendation I make is the small book *"Ludwig Feuerbach and the End of Classical German Philosophy"* by Engels, Friedrich Engels.
