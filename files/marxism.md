@@ -7,12 +7,14 @@ So the question remains: what about the other approach? If the marginalist theor
 What I can do is recommend a book: *Curso de introdução à economia política* (Paul Singer). Marxist economics is part of a broader theoretical framework—Marxism itself—and it is this framework that I would like to briefly comment on. If I am openly defining myself as a Marxist, what do I mean by this? What do I understand it to mean to be a Marxist? Or, even better: what is Marxism? This is what I want to comment on.    
 
 For those interested in learning more about Marxism, I have three main recommendations:  
-- [The Worldview and Philosophical Methodology of Marxism-Leninism (Traduzido por Luna Nguyen)](https://foreignlanguages.press/product/basic-principles-of-marxism-leninism-a-primer-jose-maria-sison/)
+- [The Worldview and Philosophical Methodology of Marxism-Leninism (Translated by Luna Nguyen)](https://foreignlanguages.press/product/basic-principles-of-marxism-leninism-a-primer-jose-maria-sison/)
 - [Basic Principles of Marxism-Leninism: A Primer (Jose Maria Sison)](https://foreignlanguages.press/product/basic-principles-of-marxism-leninism-a-primer-jose-maria-sison/)
 - [Anti-Dühring (Friedrich Engels)](https://www.marxists.org/archive/marx/works/1877/anti-duhring/)[^1]
 
+> As a result, my negative criticism became positive, the polemic was transformed into a more or less connected exposition of the dialectical method and of the communist world outlook championed by Marx and myself — an exposition covering a fairly comprehensive range of subjects (Preface to Anti-Dühring).
+
+Começo com esta citação, e eu poderia encerrar aqui. Marxismo, para mim, em poucas palavras se refere a método dialético e a concepção de mundo proposta por Marx e Engels. Todos os trabalhos seguintes se propõe a aprofundar e expandir este conjunto de ideias propostas por estes dois pensadores. Alguns decidiram chamar este conjunto de ideias como "filosofia" marxista, não é por coincidiência que Spirkin, em Dialectical Materialism diz "Philosophy is thus a unity of world-view and methodology", esta é a forma de definir filosofia de forma que a teoria marxista possa ser caracterizada como filosofia.
 
 
-ideologia alemã, prefácio do anti-duhring, descrição do sison e o da luna
 
 [^1]: Em português eu gosto muito da versão da boitempo por causa das notas escritas pelo José Paulo Netto.
