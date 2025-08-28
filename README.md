@@ -1,8 +1,7 @@
-1. Marxism
-2. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Marxist-Econophysics/blob/main/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb) 
-3. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/Statistical_approximation_of_the_law_of_value_(EBM).ipynb) 
-4. [Social architecture model](https://github.com/jdansb/Econophysics/blob/main/social_architecture.ipynb) 
-5. The labor content
+1. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Marxist-Econophysics/blob/main/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb) 
+2. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/Statistical_approximation_of_the_law_of_value_(EBM).ipynb) 
+3. [Social architecture model](https://github.com/jdansb/Econophysics/blob/main/social_architecture.ipynb) 
+4. The labor content
 
 ----
 
@@ -159,6 +158,8 @@ Traditionally, econophysics has focused on issues such as the flow of money and 
 Furthermore, it can be noted that interdisciplinary endeavors of this nature contribute to bridging the natural sciences and the human sciences. As Karl Marx[^9] stated:
 
 > “We know only one science, the science of history. History can be examined from two sides, divided into the history of nature and the history of humanity. The two sides, however, cannot be separated; as long as humanity exists, the history of nature and the history of humanity will condition each other.”
+
+Bonus: If you want to know more about Marxism and why I consider myself a Marxist, read [here](https://github.com/jdansb/Econophysics/blob/main/files/marxism.md).
 
 [^1]: There is also an interesting popular science article entitled *[The Physics of Human Particles](https://cienciahoje.periodicos.capes.gov.br/storage/acervo/ch/ch_342.pdf)* (Celia Anteneodo).  
 [^2]: The full discussion can be found in the book [*Statistical Laws in Complex Systems*](https://arxiv.org/abs/2407.19874) (Altmann).  
