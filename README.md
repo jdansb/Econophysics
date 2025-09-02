@@ -2,7 +2,7 @@
 2. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/Statistical_approximation_of_the_law_of_value_(EBM).ipynb) 
 3. [Social architecture model](https://github.com/jdansb/Econophysics/blob/main/social_architecture.ipynb) 
 4. [Measure of labor content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-5. Probabilistic Framework
+5. [Probabilistic Framework](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
 6. Labor Content — Properties and Postulates
 
 ----
