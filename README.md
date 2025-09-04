@@ -1,7 +1,7 @@
 1. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Marxist-Econophysics/blob/main/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb) 
 2. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/Statistical_approximation_of_the_law_of_value_(EBM).ipynb) 
 3. [Possible Measure of L-Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-4. [Distribution of Wage Rates](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
+4. [Probabilistic Framework](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
 5. Labor Content — Properties and Postulates
 
 ----
