@@ -1,5 +1,7 @@
 # Marxism
 
+## As a worldview
+
 Economy (and politics) is quite a controversial subject, one that inflames both mind and heart. Since I am entering this field without any formal study in either economics or politics, my first idea was to adopt a relatively neutral position; however, real neutrality is impossible, and the effort to please everyone can be counterproductive, culminating in a sterile work that pleases no one.  
 
 There are at least two distinct approaches to studying economics. These differ in the most basic assumptions about the very object of study of this science, so that—whether we are aware of it or not—we end up adopting a stance that turns out to be incompatible with another. It is not a great secret that econophysics has traditionally been critical of the marginalist approach to economics. A discussion of this can be found in the text by the Brazilian economist recommended on the home page: *Economia da complexidade: Econofísica* (Fernando Nogueira da Costa).  
