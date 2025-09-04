@@ -1,6 +1,6 @@
 # Marxism
 
-## As a worldview
+## As a Worldview
 
 Economy (and politics) is quite a controversial subject, one that inflames both mind and heart. Since I am entering this field without any formal study in either economics or politics, my first idea was to adopt a relatively neutral position; however, real neutrality is impossible, and the effort to please everyone can be counterproductive, culminating in a sterile work that pleases no one.  
 
