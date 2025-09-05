@@ -24,7 +24,7 @@ Some call it a philosophy, others a science. The important thing is that it comb
 Vladimir Lenin, a Russian revolutionary, summarized Marxism into three basic components, which were deeply developed by Marx and Engels:
 
 1.  **Marxist Philosophy (Dialectical Materialism):**
-    *   **Materialism:** The idea that the material world (nature, the economy, our bodies) exists independently of our consciousness and is the basis of everything. Simply put: objective reality comes first; our ideas are a reflection of it.
+    *   **Materialism:** The idea that the material world exists independently of our consciousness and is the basis of everything. Simply put: objective reality comes first; our ideas are a reflection of it.
     *   **Dialectics:** The idea that everything is interconnected, in constant change, and that this change is driven by internal contradictions. Nothing is static forever.
     *   The application of this philosophy to the study of history is called **Historical Materialism**.
 
