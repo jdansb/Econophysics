@@ -160,7 +160,6 @@ In conclusion, based on everything studied and discussed so far, econophysics ca
 
 > “We know only one science, the science of history. History can be examined from two sides, divided into the history of nature and the history of humanity. The two sides, however, cannot be separated; as long as humanity exists, the history of nature and the history of humanity will condition each other.”
 
-Bonus: If you want to know more about Marxism and why I consider myself a Marxist, read [here](https://github.com/jdansb/Econophysics/blob/main/files/marxism.md).
 
 [^1]: There is also an interesting popular science article entitled *[The Physics of Human Particles](https://cienciahoje.periodicos.capes.gov.br/storage/acervo/ch/ch_342.pdf)* (Celia Anteneodo).  
 [^2]: The full discussion can be found in the book [*Statistical Laws in Complex Systems*](https://arxiv.org/abs/2407.19874) (Altmann).  
