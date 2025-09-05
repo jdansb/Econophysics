@@ -1,102 +1,95 @@
 # Marxism
 
-## As a Worldview
+## As a Worldview: An Introduction for Non-Specialists
 
-Economy (and politics) is quite a controversial subject, one that inflames both mind and heart. Since I am entering this field without any formal study in either economics or politics, my first idea was to adopt a relatively neutral position; however, real neutrality is impossible, and the effort to please everyone can be counterproductive, culminating in a sterile work that pleases no one.  
+Economy and politics are subjects that ignite fierce debate. As I am not a formal expert in the field, my first idea was to remain neutral. But true neutrality is impossible. Trying to please everyone often results in a text without personality that pleases no one.
 
-There are at least two distinct approaches to studying economics. These differ in the most basic assumptions about the very object of study of this science, so that—whether we are aware of it or not—we end up adopting a stance that turns out to be incompatible with another. It is not a great secret that econophysics has traditionally been critical of the marginalist approach to economics. A discussion of this can be found in the text by the Brazilian economist recommended on the home page: *Economia da complexidade: Econofísica* (Fernando Nogueira da Costa).  
+There are at least two major approaches to studying economics, which start from completely different basic premises. One is marginalist theory (which understands the value of a good by its utility). The other is the labor theory of value from the Marxist approach. It is this second one that, in my view, is more compatible with the sciences that study real, complex systems.
 
-So the question remains: what about the other approach? If the marginalist theory of value by utility does not seem naturally compatible with econophysics, what is the situation of the labor theory of value from the Marxist approach? Well, it is precisely this approach that I believe is naturally more compatible with econophysics and with the description of real systems. But I do not want to discuss economics itself—I leave that to the specialists.  
+But I don't want to discuss technical economics here. I'll leave that to the experts. What interests me is that Marxist economics is part of a much larger theoretical framework: **Marxism**. And it is about this framework that I want to comment.
 
-What I can do is recommend a book: *Curso de introdução à economia política* (Paul Singer). Marxist economics is part of a broader theoretical framework—Marxism itself—and it is this framework that I would like to briefly comment on. If I am openly defining myself as a Marxist, what do I mean by this? What do I understand it to mean to be a Marxist? Or, even better: what is Marxism? This is what I want to comment on.    
+If I define myself as a Marxist, what do I mean by that? What is Marxism?
 
-For those interested in learning more about Marxism, I have three main recommendations that will explain it much better than I could:
-- [The Worldview and Philosophical Methodology of Marxism-Leninism (Translated by Luna Nguyen)](https://foreignlanguages.press/product/basic-principles-of-marxism-leninism-a-primer-jose-maria-sison/)
-- [Basic Principles of Marxism-Leninism: A Primer (Jose Maria Sison)](https://foreignlanguages.press/product/basic-principles-of-marxism-leninism-a-primer-jose-maria-sison/)
-- [Anti-Dühring (Friedrich Engels)](https://www.marxists.org/archive/marx/works/1877/anti-duhring/)[^1]
+### A Simple Definition: Worldview and Method
 
-> As a result, my negative criticism became positive, the polemic was transformed into a more or less connected exposition of the dialectical method and of the communist world outlook championed by Marx and myself — an exposition covering a fairly comprehensive range of subjects (Preface to Anti-Dühring).
+For me, in a few words, Marxism refers to the **dialectical method** and the **worldview** developed by Karl Marx and Friedrich Engels. It is a lens for understanding the world and, simultaneously, a guide for acting to transform it.
 
-I begin with this quotation, and I could end here. Marxism, for me, in a few words, refers to the dialectical method and the world outlook proposed by Marx and Engels. All the subsequent works aim to deepen and expand this set of ideas. Some have decided to call this set of ideas the Marxist "philosophy"; it is no coincidence that Spirkin, in *Dialectical Materialism*, says *"Philosophy is thus a unity of world-view and methodology"*. This is the way to define philosophy so that Marxist theory can be characterized as philosophy. 
+Some call it a philosophy, others a science. The important thing is that it combines a way of thinking (method) with a way of seeing the world (vision).
 
-Another popular way of designating Marxism is as a science, but it is necessary to clarify that this definition comes from a broader use of the term. As well explained in the book translated by Luna: 
+> **Key Concept: Worldview**
+> It is the set of fundamental beliefs and ideas we use to understand reality, answer life's big questions, and guide our actions. Marxism offers a specific worldview.
 
-> The word 'science,' and, by extension, “scientific” in Marxism-Leninism has specific meaning. Friedrich Engels was the first to describe the philosophy which he developed with Marx as “Scientific Socialism” in his book Socialism: Utopian and Scientific. However, it should be noted that the English phrase “scientific socialism” comes from Engels’ use of the German phrase “wissenschaftlich sozialismus.” “Wissenschaft” is a word which can be directly translated as “knowledge craft” in German, and this word encompasses a much broader and more general concept than the word “science” as it’s usually used in English... “wissenschaft” refers to a systematic pursuit of knowledge, research, theory, and understanding. “Wissenschaft” is used in any study that involves systematic investigation.
+### The Three Parts of Marxism
 
-Nildo Viana, in *"Introduction to the Critique of Hegel's Philosophy of Right, the Inaugural Manifesto of Historical Materialism"*, comments on Marx's use of the word philosophy to describe his set of ideas: "...*later it would also become the target of Marx's critique and would be replaced by theory, among other occasional terms, such as 'scientific socialism', 'science', and, after him, it would be called Marxism or theory).*" As we can see, many names have been used to designate what, in general, I call here simply 'Marxism'. Regardless of the name, I believe that Marxism is this communist worldview, as Engels defined it.
+Vladimir Lenin, a Russian revolutionary, summarized Marxism into three basic components, which were deeply developed by Marx and Engels:
 
-It is worth noting that the communist worldview involves more than just reflecting on the world and our place in it. It also requires action to transform the world. These ideas are expressed by Marx, for example, in the famous Thesis 11 on Feuerbach: *"The philosophers have only interpreted the world in various ways; the point, however, is to change it."* Or even in the manuscripts of *The German Ideology*: *"Communism is for us not a state of affairs which is to be established, an ideal to which reality [will] have to adjust itself. We call communism the real movement which abolishes the present state of things."*  
+1.  **Marxist Philosophy (Dialectical Materialism):**
+    *   **Materialism:** The idea that the material world (nature, the economy, our bodies) exists independently of our consciousness and is the basis of everything. Simply put: objective reality comes first; our ideas are a reflection of it.
+    *   **Dialectics:** The idea that everything is interconnected, in constant change, and that this change is driven by internal contradictions. Nothing is static forever.
+    *   The application of this philosophy to the study of history is called **Historical Materialism**.
 
-At this point, I suppose it's clear that when I say I'm a Marxist, I'm not supporting a specific party or personality. I'm talking about adopting this specific worldview.[^2] So, what are the ideas that make up Marxism? Sison stated: "*In summarizing Marxism, Lenin cited philosophy, political economy, and socialism as its three basic components.*" Lenin's most well-known quote can be found in his short text *"The Three Sources and Three Component Parts of Marxism"*, where he writes: *"Marxism is the legitimate successor to the best that humanity created in the 19th century: German philosophy, English political economy, and French socialism."*
+2.  **Marxist Political Economy:**
+    *   It is the study of the laws that govern the production and distribution of goods in a society.
+    *   Its main book is *Capital*, where Marx offers a profound critique of the capitalist system. The central concept here is the **Labor Theory of Value**.
 
-It was no accident that I opened my text with a quotation from *Anti-Dühring*; this way of dividing Marxism is the very division adopted by the book. *Anti-Dühring* is frequently recognized as one of the 'founding' books of Marxism, whether by its supporters or its critics. Ingo Elbe (an author with whom I disagree on many points) in *"Between Marx, Marxism, and Marxisms: Readings of Marx's Theory"* states: *"The birth of a 'Marxist school,' however, is unanimously dated from the publication of Anti-Dühring by Friedrich Engels in the year 1878."*
+> **Key Concept: Labor Theory of Value (Simplified)**
+> In broad terms, Marx argues that the real value of a commodity is determined by the amount of socially necessary labor time required to produce it. Its market price fluctuates around this value.
 
-Just as Marx's main book (*Capital: A Critique of Political Economy*) is a critique of political economy, I assess that Marxism initially emerges as a general critique of the three components listed earlier: philosophy (German), political economy (English), and socialism (French). However, Marxism is not limited to critique. It also advances by formulating a response to each of these components. Once again, I would like to quote Luna:
+3.  **Scientific Socialism:**
+    *   This is the theory and practice of the struggle to overcome capitalism and build a new society.
+    *   Unlike utopian dreams, scientific socialism is based on the analysis of the real contradictions of capitalism and identifies the working class (the **proletariat**) as the social force capable of leading this transformation.
 
-> According to Lenin, the three component parts of Marxism (and, by extension, of Marxism-Leninism) are:
-> 1. The **Philosophy of Marxism**: Including Dialectical Materialism and Historical Materialism
-> 2. **The Political Economy of Marxism**: A system of knowledge and laws that define the production process and commodity exchange in human society.
-> 3. **Scientific Socialism**: The system of thought pertaining to the establishment of the communist social economy form.
+> **Key Concept: Proletariat**
+> The social class that, to survive, must sell its labor power to the owners of factories, land, and businesses (the **bourgeoisie**), as it does not own its own means of production.
 
-In Sison, we can read at the beginning of each chapter:
-> 1. **Marxist philosophy** is also known as dialectical materialism... **Historical materialism** can be briefly defined as the application of dialectical materialism in the study of the various forms of society and their development from one form to another.
-> 2. **Political Economy** is the study of the fundamental laws of motion of the entire economy of a society.
-> 3. **Scientific Socialism** is the theory and practice of the modern industrial proletariat for revolutionary class struggle to emancipate itself, together with other oppressed people... to bring about and develop a society in which the means of production are under public ownership and planned production is for the good of the people rather than for the private profit of a few.
+### More than Interpretation, it's about Transformation
 
-One important observation is that, in Marxist terms, revolution is a change in the social relations of production. In other words, it is a change in how different classes relate to each other and to the production and distribution of goods. I do not intend to go into details or provide a complete explanation, each of these topics will require its own in-depth exploration, but I believe what has been presented so far is sufficient to spark the reader's curiosity.As we approach the conclusion, I would like to state that I believe that at the root of all Marxism lies (dialectical) materialism and (materialist) dialectics [^4]. In a way, political economy, historical materialism, and scientific socialism emerge from the communist worldview, which is founded on materialism and dialectics. On materialism, Luna writes:
+A crucial point is that Marxism is not just for contemplation. It demands action. Marx's famous phrase is: *"The philosophers have only interpreted the world, in various ways; the point is to change it."*
 
-> Materialism is the belief that the nature of the world is matter; that matter comes first; and that matter determines consciousness... **Dialectical Materialism** is the most advanced form of Materialism, and serves as the theoretical core of a scientific worldview.
+Therefore, being a Marxist, in my definition, means:
+1.  Adopting this **materialist and dialectical worldview**.
+2.  Understanding the economy and history through this lens.
+3.  **Acting** in accordance with the struggle for the emancipation of the working class, understanding that its liberation is the key to the liberation of all humanity.
 
+---
 
-And about dialectics:
-> Engels defined materialist dialectics as: “nothing more than the science of the general laws of motion and development of nature, human society, and thought.. **Materialist dialectics** is one of the basic theoretical parts that form the worldview and philosophical methodology of Marxism-Leninism... includes what is now called the theory of knowledge, or epistemology.
+## As a Path to Overcoming Capitalism
 
-To conclude:
-> ...the materialist dialectics of Marxism-Leninism unifies dialectical materialist viewpoints and materialist dialectical methodology, so it not only explains the world, but is also a tool humans can use to perceive and improve the world.
+As we have seen, Marxism is not passive. It makes us reflect on our place in the world and, consequently, on how we should act. For this reason, it has a class character: it sides with the proletariat in the struggle to overcome capitalism.
 
-In conclusion, I understand that being a Marxist means adopting the communist worldview, grounded in the principles of materialism (the idea that the material world follows objective and impersonal laws, from which consciousness arises) and dialectics (which entails the notion that everything is interconnected, in constant flux, and shaped by intrinsic contradictions within the natural world), and embracing the struggle for the emancipation of the proletariat, as the class whose liberation entails the liberation of humanity as a whole. Through the development and application of these principles across different areas, we arrive at Marxist theory in its most comprehensive form. And because I hold that this theory best describes the real world, I therefore identify myself as a Marxist.
+But what does "overcoming capitalism" mean?
 
-## As a Way of Overcoming Capitalism
+### What is a Revolution?
 
-I had already written the previous section a few days ago about Marxism as a worldview. As I mentioned earlier, it is not a mere philosophy of contemplation; rather, by making us reflect on our position in the world, it also makes us reflect on how we should act in the world. In this sense, Marxism has a class character, since the struggle for the emancipation of all humanity through the overcoming of capitalism is central to it. Today, I was reflecting on what I understand by “overcoming capitalism,” and I decided I would like to complement this section by briefly describing the general concepts of what I mean when I defend Marxism as the movement to overcome capitalism. What do I want to overcome? Why do I want it to be overcome? These are the main questions I raise.
+The common idea is of seizing state power through an armed struggle. But for Marxism, **revolution** primarily means a change in the **relations of production** – that is, in the way classes relate to each other and how goods are produced and distributed.
 
-There is a common perception that the communist revolution necessarily involves the seizure of the state through an armed movement, but this is not, by definition, true. By “revolution,” what we mainly mean is a change in capitalist relations of production. That is, how classes relate to each other and to the production and distribution of commodities in capitalist society. Broadly speaking, the mode of production is the combination of the forces of production and the relations of production. The forces of production are things like the materials and knowledge used to produce, which do not necessarily define whether the mode of production is capitalist or socialist. What truly defines a different mode of production are the relations of production. Some of the main characteristics of capitalist relations of production, and consequently of the capitalist mode of production, are the existence of the capitalist class and the proletariat class, where the capitalist owns the means of production, and the proletariat must sell its labor power to survive.
+What defines capitalism are relations of production based on:
+*   A class that owns the means of production (bourgeoisie).
+*   A class that sells its labor power to survive (proletariat).
+*   The production of commodities not for direct use, but for sale on the market, aiming for profit.
 
-One central point, is the notion that the continuous development of the forces of production will eventually reach a point where the current relations of production are no longer compatible with the current stage of the forces of production, thereby becoming an obstacle to their development. In this scenario, a qualitative change in the relations of production may occur—a revolution in the mode of production—so that the forces of production can once again be freed to produce and develop to their full potential.
+### The Goal: Overcoming the Law of Value
 
-I understand that it is from this scenario that the idea arises that capitalism itself harbors the contradictions that will lead to its own overcoming. Socialism, in this sense, is nothing more than a movement to overcome capitalism through the resolution of the intrinsic problems that exist within it. Understanding socialism as a transitional stage between capitalism and communism, what is the goal of a socialist experiment? This brings us to the issue of the law of value. One way some Marxist authors have put it—here I owe citations—is that the goal of socialism is to overcome the law of value.
+The central goal of socialism (as a transitional stage) is to overcome the **law of value**. Since capitalist production is for exchange on the market, the value of a commodity is an abstract social relation. The goal is to organize a society that produces **directly for consumption and the well-being of the population**, not for the profit of a few.
 
-Briefly, the law of value is the idea that the quantitative aspect of a commodity’s value is related to the socially necessary average labor time required to produce it. This law can only exist as long as production is aimed at exchange, because it concerns the exchange value of commodities—that is, how they relate to one another in the market. Thus, it arises from social relations of production and distribution, not being an intrinsic property of the commodity—it is possible to calculate the average production time without this representing social value. Therefore, the law of value is characteristic of capitalism, whose core is the production of commodities for exchange. A concise way to define the goal of socialism is to overcome the law of value, moving toward a society that produces for consumption and the well-being of the population, rather than for profit.
+This does not happen overnight. It requires using tools (like the state) to plan the economy and create the conditions for the market and production for exchange to become unnecessary. Some countries, like Vietnam, define their economy as a "socialist-oriented market economy," meaning they use the market while consciously working to create the conditions to overcome it in the long run.
 
-We can advance the discussion with a more controversial, but established, idea in the Marxist tradition: that in order to achieve this goal, we need to use the state as a tool of class. Exactly how this is done, and the degree of economic planning, is a matter of debate. The government of Vietnam, for example, defines its economy as a socialist-oriented market, emphasizing that, despite the current existence of the market, the state intentionally works to create conditions for the capitalist mode of production to be overcome. This stage of a market with socialist orientation exists to prepare society to take this step toward abolishing the law of value and, consequently, the market itself.
+### A Modern Example: The Law of Value and Software
 
-### Probabilistic Interpretation of the Law of Value
+The **law of value** manifests as an **average tendency**, visible only when looking at production on a large scale and over time. The equilibrium price of a commodity tends to reflect the average labor time required to produce it.
 
-> *For prices at which commodities are exchanged to approximately correspond to their values, nothing more is necessary than 1) for the exchange of the various commodities to cease being purely accidental or only occasional; 2) so far as direct exchange of commodities is concerned, for these commodities to be produced on both sides in approximately sufficient quantities to meet mutual requirements, something learned from mutual experience in trading and therefore a natural outgrowth of continued trading; and 3) so far as selling is concerned, for no natural or artificial monopoly to enable either of the contracting sides to sell commodities above their value or to compel them to undersell. By accidental monopoly we mean a monopoly which a buyer or seller acquires through an accidental state of supply or demand.*
->
-> *The assumption that the commodities of the various spheres of production are sold at their value merely implies, of course, that their value is the centre of gravity around which their prices fluctuate, and their continual rises and drops tend to equalise.*
->
-> (Marx. Capital, Vol 3. 1971: 178)
+Think of a digital game. Once developed, it can be copied infinitely at almost zero cost. In a market without barriers, competition would drive the price toward zero, reflecting the very low labor time per copy. This would show the law of value in action.
 
-Since the discussion of the value of a commodity is a central pillar of any economic approach, I would like to comment on what I call a statistical interpretation of the law of value, to which I adhere. By this I do not mean that value itself is statistical, but rather that the way in which value manifests in prices can only be grasped as a statistical tendency: it becomes visible in averages, across large-scale production and over time. I am aware that this is a far-from-consensus topic, and I do not seek to settle this debate here—only to share a reflection.
+But this doesn't happen. Why? Because companies use **intellectual property** (a social rule, a relation of production) to create an artificial monopoly and prevent competition, distorting the law of value and keeping prices high.
 
-The law of value, tells us that at equilibrium, the average price of a commodity -the monetary expression of this law- tends to correlate with its value, expressed quantitatively through the average number of hours required for its production. That is, if society produces enough of a given commodity to meet demand, the average price of that commodity will relate to the average time needed for its production. Comparing with other commodities at equilibrium, the longer the production time, the higher the price. Evidently, an individual unit of a commodity may be sold above or below this price. And since it is an average, it also requires that the commodity be produced on a large scale for the law of value to emerge. Therefore, the law of value tells us nothing about the price at which Michael Jackson’s autographed shirt was sold at an auction—this is a unique good, not a commodity produced on a large scale. Thus, the price serves as a signal of the relation between demand and supply. For example, if a commodity is not being produced in sufficient quantity to meet demand, this will cause a price distortion, making it sell far above its average equilibrium price. Conversely, overproduction will lead to selling below the average.
+This is an example of how the development of the productive forces (the ability to copy software perfectly) comes into conflict with the current relations of production (private property and monopoly). Marxism predicts that for society to continue to develop, these relations will have to be overcome.
 
-Another way to see the law of value is to think of digital products. For the average price of a commodity to tend toward its value, as described by Marx, competition is necessary. Where competition is restricted—such as under monopoly—the monetary expression of the law of value does not disappear, but becomes distorted. A digital game, once produced, can be copied infinitely at zero cost. Naturally, if Company A produces Game X and sells it at any initial price, Company B could copy it and sell it cheaper. I could even copy and distribute it freely to friends. In this scenario, where the law of value could operate without barriers, the price would tend toward zero, consistent with the fact that the average production time per copy would also tend toward zero. However, this does not happen in reality. Far from denying the law of value, what happens is that game companies legally prevent this scenario. Through intellectual property, obstacles are created that prevent other companies from selling the game, this guarantees a monopoly and distorts the law of value.
+### Final Conclusion
 
-Moreover, this seems like a good illustration of the claim that the development of the productive forces leads to a change in the relations of production once they become a constraint. It was during capitalism that we developed the productive forces to a level where we can develop complex software, achieving unprecedented levels of automation and data integration in human history. We are discussing issues like Industry 4.0 and even 5.0. We can distribute these software products infinitely at virtually zero cost. Distribution can be free and open, allowing everyone not only to access the most advanced tools, but also to contribute to further development. But this does not interest the class that holds political power; it uses its privileged position in the relations of production to create bureaucratic constraints that hinder development and usage of these tools, and consequently negatively affect production. 
+Marxism offers a robust framework for understanding the world we live in – its crises, inequalities, and contradictions. It combines a practical philosophy, a critical economic analysis, and a political project for a more just society. As a worldview, it helps decipher reality; as a guide to action, it inspires its transformation.
 
-The discussion about the automation of the production process and its relationship to value theory is nothing new. In 1967, Ernest Mandel wrote in [An Introduction to Marxist Economic Theory](https://www.marxists.org/archive/mandel/1967/intromet/index.htm):
+**To Dive Deeper (Recommended Reading):**
 
-> A third and final proof of the correctness of the labor theory of value is the proof by reduction to the absurd. It is, moreover, the most elegant and most “modern” of the proofs.
-> 
-> Imagine for a moment a society in which living human labor has completely disappeared, that is to say, a society in which all production has been 100 per cent automated... But let us imagine that this development has been pushed to its extreme and human labor has been completely eliminated from all forms of production and services. Can value continue to exist under these conditions? Can there be a society where nobody has an income but commodities continue to have a value and to be sold? Obviously such a situation would be absurd. A huge mass of products would be produced without this production creating any income, since no human being would be involved in this production. But someone would want to “sell” these products for which there were no longer any buyers!
-> 
-> It is obvious that the distribution of products in such a society would no longer be effected in the form of a sale of commodities and as a matter of fact selling would become all the more absurd because of the abundance produced by general automation. Expressed another way, a society in which human labor would be totally eliminated from production, in the most general sense of the term, with services included, would be a society in which exchange value had also been eliminated. This proves the validity of the theory, for at the moment human labor disappears from production, value, too, disappears with it.
-
-And I would add that along with the law of value, the exchange of goods itself has also disappeared. The only way to continue developing productive forces free from these constraints is through the very overcoming of the relations of production: revolution.
-
-[^1]: In Portuguese, I really like the Boitempo edition because of the notes written by José Paulo Netto.  
-[^2]: And the dialectical method, which for me is an inseparable part of this worldview, not something independent. In the words of the book translated by Luna: "*...dialectics of Marxism-Leninism is a system of dialectics that is based on the foundation of the scientific materialist viewpoint.*" so for convenience I will refer only to the communist worldview.  
-[^3]: An additional recommendation I make is the small book *"Ludwig Feuerbach and the End of Classical German Philosophy"* by Engels.
-[^4]: Using the nomenclature adopted in "*The Worldview and Philosophical Methodology of Marxism-Leninism*".
+*   **Beginner:** *Curso de introdução à economia política* by Paul Singer (Portuguese, but a classic intro).
+*   **On the Philosophy:** *Anti-Dühring* by Friedrich Engels and *[The Worldview and Philosophical Methodology of Marxism-Leninism](https://www.banyanhouse.org/product/ebook-the-worldview-and-philosophical-methodology-of-marxism-leninism/)* translated by Luna.
+*   **General Overview:** *[Basic Principles of Marxism-Leninism: A Primer](https://foreignlanguages.press/product/basic-principles-of-marxism-leninism-a-primer-jose-maria-sison/)* by Jose Maria Sison.
