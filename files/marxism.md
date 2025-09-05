@@ -91,5 +91,5 @@ Marxism offers a robust framework for understanding the world we live in – its
 **To Dive Deeper (Recommended Reading):**
 
 *   **Beginner:** *Curso de introdução à economia política* by Paul Singer (Portuguese, but a classic intro).
-*   **On the Philosophy:** *Anti-Dühring* by Friedrich Engels and *[The Worldview and Philosophical Methodology of Marxism-Leninism](https://www.banyanhouse.org/product/ebook-the-worldview-and-philosophical-methodology-of-marxism-leninism/)* translated by Luna.
+*   **On the Philosophy:** *[Anti-Dühring](https://www.marxists.org/archive/marx/works/1877/anti-duhring/)* by Friedrich Engels and *[The Worldview and Philosophical Methodology of Marxism-Leninism](https://www.banyanhouse.org/product/ebook-the-worldview-and-philosophical-methodology-of-marxism-leninism/)* translated by Luna.
 *   **General Overview:** *[Basic Principles of Marxism-Leninism: A Primer](https://foreignlanguages.press/product/basic-principles-of-marxism-leninism-a-primer-jose-maria-sison/)* by Jose Maria Sison.
