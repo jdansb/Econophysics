@@ -1,8 +1,9 @@
-1. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Marxist-Econophysics/blob/main/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb) 
-2. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/Statistical_approximation_of_the_law_of_value_(EBM).ipynb) 
-3. [Possible Measure of L-Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-4. [Probabilistic Framework](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
-5. Labor Content — Properties and Postulates
+1. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb) 
+2. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
+3. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb) *in progress*
+4. [Possible Measure of L-Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
+5. [Probabilistic Framework](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
+6. Labor Content — Properties and Postulates
 
 ----
 
