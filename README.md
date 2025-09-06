@@ -6,6 +6,7 @@
 6. Labor Content: Properties and Postulates
 7. Some Universal Patterns in Income Distribution: An Econophysics Approach
 8. On the Statistical Physics of Wealth Distribution
+9. ??
 ----
 
 # Statistical Laws, Agent-Based Modeling, and Econophysics
