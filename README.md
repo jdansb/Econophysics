@@ -4,7 +4,8 @@
 4. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
 5. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
 6. Labor Content: Properties and Postulates
-
+7. Anwar
+8. On the Statistical Physics of Wealth Distribution
 ----
 
 # Statistical Laws, Agent-Based Modeling, and Econophysics
