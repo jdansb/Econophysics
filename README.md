@@ -4,9 +4,11 @@
 4. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
 5. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
 6. Labor Content: Properties and Postulates
-7. Some Universal Patterns in Income Distribution: An Econophysics Approach
-8. On the Statistical Physics of Wealth Distribution
-9. ??
+7. Ciber-communism??
+8. Some Universal Patterns in Income Distribution: An Econophysics Approach??
+9. On the Statistical Physics of Wealth Distribution??
+10. Laws of Chaos: A Probabilistic Approach to Political Economy??
+11. ??
 ----
 
 # Statistical Laws, Agent-Based Modeling, and Econophysics
