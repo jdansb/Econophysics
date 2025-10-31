@@ -1,14 +1,15 @@
-1. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb) 
-2. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
-3. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb)
-4. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-5. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
-6. Labor Content: Properties and Postulates
-7. Ciber-communism??
-8. Some Universal Patterns in Income Distribution: An Econophysics Approach??
-9. On the Statistical Physics of Wealth Distribution??
-10. Laws of Chaos: A Probabilistic Approach to Political Economy??
-11. ??
+1. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
+2. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
+3. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
+4. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb)
+5. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
+6. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
+7. Labor Content: Properties and Postulates
+8. Ciber-communism??
+9. Some Universal Patterns in Income Distribution: An Econophysics Approach??
+10. On the Statistical Physics of Wealth Distribution??
+11. Laws of Chaos: A Probabilistic Approach to Political Economy??
+12. ??
 ----
 
 # Statistical Laws, Agent-Based Modeling, and Econophysics
