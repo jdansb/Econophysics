@@ -1,0 +1,31 @@
+# Philosophy of Econophysics
+
+Before creating this repository on GitHub, I had already read some articles and texts about econophysics, as well as tried to study economics. Part of that material is summarized on the main page. The truth is that there is no consensus on what econophysics actually is. Intentionally, I focused the discussion on a subset of the field that emphasizes the investigation of the economy rather than finance, and that prioritizes a methodology based on Agent-Based Modeling in the creation of microscopic models. However, this is not the only possible way to approach the field.
+
+I am not particularly interested in the history of the field, but I thought it might be worthwhile to discuss some papers that deal specifically with this topic ("What is econophysics?"). That is how I decided to include a brief discussion of the [philosophy of econophysics](https://www.rep.routledge.com/articles/thematic/philosophy-of-econophysics/v-1/bibliography/philosophy-of-econophysics-bib#Q143BIBENT3), which is essentially a summary of the text written by Dean Rickles for the *Routledge Encyclopedia of Philosophy*.
+
+Physics is often presented as a universal science, providing the ontological[^1] roots of all other sciences that grow from these roots. On this view, any apparent separation between the world of physics and the rest of the world is attributed to the complexity of systems; features of such complex systems (including their own higher-level laws) will be ‘emergent’ properties of the physical systems realizing them.
+
+If we agree that economic systems are complex systems, then a natural task for a physicist is to try to adapt the techniques of statistical physics (the complex systems theory *par excellence*) to the description and prediction of economic phenomena.
+
+We can, in fact, discern several layers in the definition and understanding of econophysics:
+1. *Concept-oriented*: econophysics involves a kind of statistical mechanics of the economy.  
+2. *Methodology-oriented*: econophysics is the proper empirical study of economics, using a data-first approach.  
+3. *Ontology-oriented*: econophysics involves viewing economic systems as complex systems with interacting economic agents as parts, such that economic systems more generally follow similar laws as ‘natural’ systems.  
+4. *Heuristics-oriented*: econophysics involves finding analogies between financial/socio-economic and physical (natural) systems.
+
+At its core is a postulated mapping between a framework from physics and the behaviors of economic agents. This mapping lies at the heart of the idea that econophysics provides a more realistic approach to economics than orthodox economics, since the structural relationship between the mathematical structure and the physical target system is considered to be closer than in standard axiomatic formulations of economics.
+
+Econophysicists build their theories around the replication of a set of economic facts—properties that are common across many financial objects, markets, and time periods. These so-called *stylized facts*, derived from the manipulation of empirical data to abstract generalizations that can function as explananda[^2] in theory-building, constitute the phenomena that must be saved (according to econophysics). The standard model of economics is not capable of mapping onto economic reality in the case of these features. Econophysicists claim to be closer to reality in this respect and, in fact, claim to offer explanations for why such events occur in the proportions they do.
+
+These stylized facts mark a methodological battle line between orthodox economists and econophysicists, supplying prescriptive as well as descriptive information used to justify and construct theories and models. Econophysicists view these facts as their raw data, untainted by idealized models. They then build models using them as targets, and in doing so ensure that such models are more empirically sound. The models then built to account for them are constructed using the concepts from statistical physics, motivated by the parallels between the stylized facts and the behaviors of other complex systems well known in the physics of collective systems, as mentioned above.  
+
+These then provide an added element of realism — in this case, a kind of microscopic realism in which the phenomenon in question (the stylized fact) can be constructed from the ground up, thus providing understanding of its constitution, in stark contrast to the top-down, principle-based approaches of orthodox economics.
+
+One of the curiosities of econophysics is that the data seem to reveal lawlike behavior even in human-driven systems. It is not that particular events are predictable, but that the frequency distribution of events is. For technical reasons, microscopically very different systems (i.e., made of different parts) can nonetheless display qualitatively identical macroscopic properties for a certain class of 
+properties, including those comprising the stylized facts.
+
+
+
+[^1]: According to the Merriam-Webster dictionary, [ontology](https://www.merriam-webster.com/dictionary/ontology) is “a particular theory about the nature of being or the kinds of things that have existence.”  
+[^2]: According to the Oxford Dictionary, [explanandum](https://www.oed.com/dictionary/explanandum_n?tab=meaning_and_use) is “the thing to be explained.”
