@@ -1,5 +1,5 @@
 1. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
-2. [Monetary economics from econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/Economia%20Monetaria) (*In progress*)
+2. [Monetary economics from econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/Economia%20Monetaria.md) (*In progress*)
 3. Economia da Complexidade.
 4. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
 5. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
