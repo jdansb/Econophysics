@@ -5,7 +5,7 @@
 5. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
 6. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb)
 7. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-8. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) *in progress*
+8. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*in progress*)
 9. Labor Content: Properties and Postulates
 10. Ciber-communism??
 11. Some Universal Patterns in Income Distribution: An Econophysics Approach??
