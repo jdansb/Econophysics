@@ -1,4 +1,4 @@
-1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)(*In progress*)
+1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md) (*In progress*)
 2. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
 3. [Monetary economics from econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/Economia%20Monetaria.md) (*In progress*)
 4. Economia da Complexidade.
