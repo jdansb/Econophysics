@@ -1,4 +1,4 @@
-Como grande parte da pesquisa que realizo diz respeito a investigação da desigualdade da disitribuição de renda e riqueza no capitalismo, acredito que pode ser interessante fazer uma rápida discussão sobre o assunto. Para isso eu trago dois relatórios, o [Sutainable Development Outlook 2019]([https://www.un.org/development/desa/dpad/2019/sustainable-development-outlook-2019-gathering-storms-and-silver-linings/](https://digitallibrary.un.org/record/3841597?v=pdf)) produzido pela ONU e o [Global Wealth Report 2022](https://www.ubs.com/us/en/wealth-management/insights/global-wealth-report.html) produzido pelo UBS.
+Como grande parte da pesquisa que realizo diz respeito a investigação da desigualdade da disitribuição de renda e riqueza no capitalismo, acredito que pode ser interessante fazer uma rápida discussão sobre o assunto. Para isso eu trago dois relatórios, o [Sutainable Development Outlook 2019](https://digitallibrary.un.org/record/3841597?v=pdf) produzido pela ONU e o [Global Wealth Report 2022](https://www.ubs.com/us/en/wealth-management/insights/global-wealth-report.html) produzido pelo UBS.
 
 # Sutainable Development Outlook 2019
 
@@ -12,99 +12,21 @@ O enfraquecimento do crescimento econômico global e o aumento da desigualdade e
 
 Em países em desenvolvimento, a população gastam 80% do salário total para atender recursos básicos (comida, casa, saúde, energia). Uma em 5 pesoas no mundo vive em uma casa inadequada. Um bilhão ainda vive em casa informais. Para combater esta situação necessário agir em todas dimensões fortificando as medidas de proteção social e gerando redistribuição de riqueza, renda e oportunidades. 
 
-2.1.1 Panorama econômico global
+É nítido que o mundo tolerou um crescimento da desigualdade por tempo demais e agora precisa lidar com as consequencias desta desigualdade, que mina  a solidariedade e a coesão social, esforços nacionais e internacionais devem ser efeitos para  domar a desigualdade e reduzi-lá. Isso só é possíveo através de medidas regulatórias. Uma coisa é clara: crescimento econômico sozinho não vai tirar todas pessoas da pobreza, e politicas devem olhar além do crescimento PIB. Os melhores resultados até o momento tendo por objetivo o desenvolvimento são frutos de uma combinação de políticas nacionais como políticas de mercado de trabalho e de redistribuição que protegem os mais vulnerávels e marginalizados.
 
-• Os objetivos de desenvolvimento sustentáveis reconhecem e promovem a importância do crescimento equitável: sustentável e que ninguém fica para trás. Crescente desigualdade e insegurança no trabalho estão contra as conquistas destes objetivos.
 
-• Os problemas para a implementação dos obejtivos são: desigualdade econômica, conflitos e riscos climáticos.
+Na maior parte dos países o crescimento do salário não acompanhou o da produtivodade, entre outros motivos, devido a ausência de políticas proativas. O salário permaneceu estagnado para os 50% na base da sociedade, mas cresceu substancialmente para os 10% e 1%. Enquanto isso o custo de vida aumentou afetando principalmente a base da pirâmide social. Alguns dados levantados em 2019: mos EUA 15% vivem em alto e 25% em moderado insegurança financeira. Já neste relatório apontava para a o fato de que a insegurança financeira influencia votação na extrema direita.
 
-• O mundo tolerou um rescimento da desigualdade por tempo demais. Ela está agora minando a solidariedade e a coesão social, esforços nacionais e internacionais devem domar a desigualdade e reduzi-lá.
+ Quanto ao resto do mundo, mais de 2/3 do mundo está experimentando um crescimento na desigualdade de renda e riqueza. Existe um mecanismo de reinforço entre empregos vulneráveis[^1] e os índices de desigualdade. Por um lado, altos níveis de emprego vulnerável reforça a persistente deisgualdade, e por outro lado, alta desigualdade contribui para o aumento de trabalho vulnerável.
 
-• É necessária medidas regulatórias.
+Diante deste cenário, não podemos excluir do debate o poder público, pois é um fato observado que a concentrazação de riqueza também resulta em uma concentração de poder político. Nos EUA, o serviço público age de forma conivente com uma política no qual privilegia uma pequena fração rica da população em detrimento da maioria, pois esta alta concentração de poder político permite aos ricos impor uma política que lhe interesse, ainda que não seja do interesse do grande público. Dessa fomra, esta concentração de poder no topo da pirâmida permite um processo de decisão que não eleva em conta e não satisfaz as necessidades das pessoas fora destsa fatia. Por exemplo, maiores índices de desigualdade também estão associados a uma menor densidade de sindicatos e políticas públicas de proteção ao trabalhador. 
 
-• Nos objetivos MDG uma coisa é clara: crescimento econômico sozinho não vai tirar todas pessoas da pobreza, e politicas devem olhar além do crescimento PIB.
+Outra consequência da desigualdade está no seu impacto de restrição quanto a ascenção social, a alta desigualdade esta intimamente relacionada com baixa mobilidade social, minando o discurso meritocrático do capitalismo. A população mais pobre enfrenta limitações financeiras no investimento dos filhos para que consigam ascender.
 
-– Paises atingir grande progresso em educação e expectativa de vida sem ter um desenvolvimento econômico espetacular. E há o inverso.
+Se olharmos os dados globais, pode-se constatar que a desigualdade medida pelo Gini entre países diinuiu. Porém esre resultado deve-se a enorme população de países asiáticos e o fato da riqueza e renda média per capita destes paíes estarem predominantemente abaixo da média mundial, de forma que quando países como a China e a Índia se aproximam das médias mundias, resulta em uma queda no Gini. Já a idesigualdade medida no interior dos países, também medida pelo gini, aumentou nos países que abrigam mais de 2/3 da população mundial. Ainda deve-se olhar criticamente a desigualdade medida pelo Gini, muitos países que apresentaram queda no Gini apresentaram um aumento na riqueza nos 10% mais ricos, pois o Gini é menos sensível a variação nos extremos. O relatório ainda aponta que mesmo países que apresentaram uma queda na desigualade em diferentes índices, apresentaram um crescimento de salário e criação de empregos que não tem sido rápido o suficiente para as pessoas na parte mais baixa do espectro de renda escapar da pobreza.
 
-– A combinação de oolíticas nacionais como políticas de mercado de trabalho e de redistribuição que protegem os mais vulnerávels e marginalizados teve o papel mais importante em traduzir crecimento humano e desenvolvimento humano, 
 
-Crescimento lento
-
-• Ainda que crescimento com ausência de políticas sustentáveis não leve a um progresso sustentável, a vitalidade da economia é crucial. A estagnação do crescimento da aeconomia ecomércio internacional agrava riscos e ameaça reverter ganhos, e também reduzir de empergos
-
-• BRICS tem ocupado um importante papel na economia internacional enquanto países ricos tem diminuido em proporção. Isso representa uma mudança na dinâmica global e centros de produção.
-
-Tensões de comércio persistentes
-
-• Aumento na desigualdade de riqueza e renda tem geraod um sentimento anti-troca. Desde a crise, 800 novas medidsa protetivas foram introduzidas por ano. O conflito EUA-CHIA foi listado como o conflito com maior risco em intensidade e probiabilidade.
-
-• Pesquisas economicas indicam o alto custo da guerra de trafoas pro PIB do mundo.
-
-• O relatório afirma que as tensões podem criar oportunidades para os outros países, mas que o efeito final na economia global seria negativo devido ao alto custo de ajuse e transição.
-
-• Enfraquecimento do sistema atual
-
-Crescendo as incertezas de emprego e salário
-
-• Políticas que promovam trabalho de qualidade e não apenas quantidade de emprego são críticos pra combater a desigualdade e insegurança econômica.
-
-• 61% da força de trabalho informal ou parcial, ou contratual.
-
-• Maior parte dos países o crescimento do salário não acompanhou o da produtivodade, entre outros motivos, devido a ausência de políticas proativas.
-
-• O salário permaneceu estagnado para os 50% na base da sociedade, mas cresceu substancialmente para os 10% e 1%. Enquanto isso o custo de vida aumentou
-
-• 1% de mudança no índice dé suficiente para promover mudanças no índice de agitação social
-
-– Nos EUA 15% vivem em alto e 25% em moderado insegurança financeira
-
-– Insegurança financeira influencia votação na extrema direita (e também índices de imigração)
-
-• Importância de políticas de proteção economica para os idosos
-
-Aumento no risco de dívidas
-
-• Países europeus tem dívidas acima de 100%, no extremo temos o Japão com uma dívida de 200% (em comparação com o PIB).
-
-• Países deveriam quuando possível pegar empréstio em modeas locais devido a apreciação do dólar.
-
-• A falta de coordenação global para responder a crise das dívidas nos diz que precisa uma melhor infraestrutura financeira global , dada a inabilidade das instituições que existem e ferramentas para lidar com essas questões.
-
-Crescimento da desigualdade
-
-• Mais de 2/3 do mundo está experimentando um crescimento na desigualdade de renda e riqueza, o que mina as intenções dos ODS.
-
-• “as the existence of inequality is typically associated with deviation from meritocracy and fairness “ HAHAHA
-
-• meritocracy and fairness are essential moral requirements across different country and culture contexts JAJA
-
-• Segundo o artigo não há correlação entre alta desigualdade e crescimento lento. 
-
-• Comentário meu: é praticamente uma afirmação de fé sobre meritocracia. Uma coisa é você ter um estudo que demonstra que não há uma correlação intrínseca entre crescimento e desigualdade, mas é uma contradição porque também não há correção entre meritocracia e igualdade. entendo que não é necessário desigualdade para ter crescimento (afinal por isso sou socialista), mas a responsabilização da desigualdade a falta de meritoccracia, não é nada mais que fé também.
-
-Reforçando mutuamente desigualdade e vulnerabilidade
-
-• Altos níveis de emprego informal e vulnerável reforça a persistente deisgualdade.
-
-• Por outro lado, alta desigualdade contribui para o aumento do trabalho informal e vulnerável.
-
-• O argumento de alta concentração de poder político permite os ricos impor a política que lhe interesse na sociedade, levando a menor densidade de sindicados e proteção de empregos.
-
-Desigualdade restinge a ascenção social
-
-• Alta desigualdade esta intimamente relacionada com baixa mobilidade social. A mobilidade entre gerações no salário é menor quandoa desigualdade é alta.
-
-• Pobres tem limitações financeiras no investimento dos filhos para que consigam ascender, como podem ver como infrutífero.
-
-• Concentração de poder no topo da pirâmida permite um processo de decisão que não eleva em conta e satisfaz as necessidades das pessoas fora destsa fatia.
-
-• Alta desigualdade levaria o píblico a apoiar política não favoráveis ao investimento em negócios como altos impostos. Mas o que é observado é que maior desigualdade está mão a mão com maior concentração de poder econômico e político. Nos EUA, o serviço público prefere que os ricos dominem a maioria.
-
-• Desigualdade entre países diinuiu, devido a enorme população de países asiáticos. Ea idesigualdade no interior dos países (medido pelo gini) aumentou nos países que abrigam mais de 2/3 da população mundial.
-
-• Muitos países que apresentaram queda no Gini ainda apresentaram um aumento na riqueza nos 10% mais ricos. Países que apresentaram uma queda na desigualade em diferentes índices, o crescimento de salário e criação de empregos não tem sido rápido o suficiente para as pessoas na parte mais baixa do espectro de renda escapar da pobreza.
-
-• maiores índices de desigualdade estão associados a menor densidade de sindicatos e políticas públicas de proteção ao trabalhador, e que isso ocorre porque devido a concentração de econômica, há uma concentração de poder que permite que os ricos imponham a sociedade as políticas públicas que lhe interessam. Apresenta até um estado afirmando que o governo dos EUA prefere governar para os ricos que para a maioria.
+# parei aqui 
 
 • A parte mais pobre não vai necessariamente sofrer a maior perda propocional em uma crise financeira, porque está protegido pelos memos motivos que o mantém pobre: isolamento geográfico, concetividade ao mercado nacional e global. E a classe média vai sofrer desproporcionalmente, efeitos negativos no desenvolvimento dos mercados tende a cair mais nas casa de classe média. A classe alta tende a receber inclusive compensação financeira dos bancos, além de ter condições melhores de se prepararem para a crise.
 
@@ -590,6 +512,7 @@ Acho que é essencialmente a taxa de juros do governo dos EUA.
 
 2 
 
+[^1]: Vulnerable workers are employed in low-skilled, low-paid jobs with little job security. They are often exploited by their employers and forced to work long hours for low pay, or to work in dangerous conditions. ([the public service umion](https://www.unison.org.uk/get-help/knowledge/vulnerable-workers/)
 
 2.4 Glosssário: 
 
