@@ -10,141 +10,30 @@ O enfraquecimento do crescimento econômico global e o aumento da desigualdade e
 
 É necessário reduzir a desigualdade em todas as formas e manifestações, a agenda 2030 abraçou o lema “não deixar minguém para trás” como princípio. Porém, na prática há pouca evidências que o mundo está vencendo a luta contra a desigualdade. Esta desigualdade é responsável por impedir o desenvolvimento sustentável em muitas formas: depressão econômica, impacto na mobilidade social, no desenvolvimento humano, minando a segurança nas instituções, etc.  Na prática os efeitos da desigualdade podem ser vistos por exmplo no fato de que conflitos violentos frequentemente são resultados de desiguadldade entre grupos e inseguração domiciliar. É preciso então expandir as oportunidades econômicas e garantir domocílio (especialmente pepara para os grupos mais marginalizados e vulneráreveis).
 
-Em países em desenvolvimento, a população gastam 80% do salário total para atender recursos básicos (comida, casa, saúde, energia). Uma em 5 pesoas no mundo vive em uma casa inadequada. Um bilhão ainda vive em casa informais. Para combater esta situação necessário agir em todas dimensões fortificando as medidas de proteção social e gerando redistribuição de riqueza, renda e oportunidades. 
+Em países em desenvolvimento, a população gastam 80% do salário total para atender recursos básicos (comida, casa, saúde, energia), mesmo em países desenvolvidos os gastos com recursos básicos chegam a quase 60%. Uma em 5 pesoas no mundo vive em uma casa inadequada. Um bilhão ainda vive em casa informais. Para combater esta situação necessário agir em todas dimensões fortificando as medidas de proteção social e gerando redistribuição de riqueza, renda e oportunidades. 
 
 É nítido que o mundo tolerou um crescimento da desigualdade por tempo demais e agora precisa lidar com as consequencias desta desigualdade, que mina  a solidariedade e a coesão social, esforços nacionais e internacionais devem ser efeitos para  domar a desigualdade e reduzi-lá. Isso só é possíveo através de medidas regulatórias. Uma coisa é clara: crescimento econômico sozinho não vai tirar todas pessoas da pobreza, e politicas devem olhar além do crescimento PIB. Os melhores resultados até o momento tendo por objetivo o desenvolvimento são frutos de uma combinação de políticas nacionais como políticas de mercado de trabalho e de redistribuição que protegem os mais vulnerávels e marginalizados.
-
 
 Na maior parte dos países o crescimento do salário não acompanhou o da produtivodade, entre outros motivos, devido a ausência de políticas proativas. O salário permaneceu estagnado para os 50% na base da sociedade, mas cresceu substancialmente para os 10% e 1%. Enquanto isso o custo de vida aumentou afetando principalmente a base da pirâmide social. Alguns dados levantados em 2019: mos EUA 15% vivem em alto e 25% em moderado insegurança financeira. Já neste relatório apontava para a o fato de que a insegurança financeira influencia votação na extrema direita.
 
  Quanto ao resto do mundo, mais de 2/3 do mundo está experimentando um crescimento na desigualdade de renda e riqueza. Existe um mecanismo de reinforço entre empregos vulneráveis[^1] e os índices de desigualdade. Por um lado, altos níveis de emprego vulnerável reforça a persistente deisgualdade, e por outro lado, alta desigualdade contribui para o aumento de trabalho vulnerável.
 
-Diante deste cenário, não podemos excluir do debate o poder público, pois é um fato observado que a concentrazação de riqueza também resulta em uma concentração de poder político. Nos EUA, o serviço público age de forma conivente com uma política no qual privilegia uma pequena fração rica da população em detrimento da maioria, pois esta alta concentração de poder político permite aos ricos impor uma política que lhe interesse, ainda que não seja do interesse do grande público. Dessa fomra, esta concentração de poder no topo da pirâmida permite um processo de decisão que não eleva em conta e não satisfaz as necessidades das pessoas fora destsa fatia. Por exemplo, maiores índices de desigualdade também estão associados a uma menor densidade de sindicatos e políticas públicas de proteção ao trabalhador. 
-
-Outra consequência da desigualdade está no seu impacto de restrição quanto a ascenção social, a alta desigualdade esta intimamente relacionada com baixa mobilidade social, minando o discurso meritocrático do capitalismo. A população mais pobre enfrenta limitações financeiras no investimento dos filhos para que consigam ascender.
+Diante deste cenário, não podemos excluir do debate o poder público, pois é um fato observado que a concentrazação de riqueza também resulta em uma concentração de poder político. Nos EUA, o serviço público age de forma conivente com uma política no qual privilegia uma pequena fração rica da população em detrimento da maioria, pois esta alta concentração de poder político permite aos ricos impor uma política que lhe interesse, ainda que não seja do interesse do grande público. Dessa fomra, esta concentração de poder no topo da pirâmida permite um processo de decisão que não eleva em conta e não satisfaz as necessidades das pessoas fora destsa fatia.  Buscando proteger os próprios intereses, esta fração minoritária da população que concentra o poder político tem o incentivo necessário pra ativamente impedir a introdução de medidas de redução da desigualdade, criando efetivamente uma armadilha de desigualdade.Por exemplo, maiores índices de desigualdade também estão associados a uma menor densidade de sindicatos e políticas públicas de proteção ao trabalhador. 
 
 Se olharmos os dados globais, pode-se constatar que a desigualdade medida pelo Gini entre países diinuiu. Porém esre resultado deve-se a enorme população de países asiáticos e o fato da riqueza e renda média per capita destes paíes estarem predominantemente abaixo da média mundial, de forma que quando países como a China e a Índia se aproximam das médias mundias, resulta em uma queda no Gini. Já a idesigualdade medida no interior dos países, também medida pelo gini, aumentou nos países que abrigam mais de 2/3 da população mundial. Ainda deve-se olhar criticamente a desigualdade medida pelo Gini, muitos países que apresentaram queda no Gini apresentaram um aumento na riqueza nos 10% mais ricos, pois o Gini é menos sensível a variação nos extremos. O relatório ainda aponta que mesmo países que apresentaram uma queda na desigualade em diferentes índices, apresentaram um crescimento de salário e criação de empregos que não tem sido rápido o suficiente para as pessoas na parte mais baixa do espectro de renda escapar da pobreza.
 
+Outras consequências da desigualdade estão no seu impacto de restrição quanto a ascenção social, a alta desigualdade esta intimamente relacionada com baixa mobilidade social, minando o discurso meritocrático do capitalismo uma vez que a população mais pobre enfrenta limitações financeiras no investimento dos filhos para que consigam ascender, e também no modo como as crises financeiras atingem de forma desigual diferentes setores da sociedade.  Enquanto a classe média vai sofrer desproporcionalmente o efeito negativo da crise financeira, a classe alta não apenas tem melhores condições de se prepararem para a crise como tendem até mesmo a receber compensações financeiras dos bancos. Já a classe baixa se encontra de certa forma isolada geograficamente e do mercado nacional e global devido a sua posição na estrutura do sistema econômico.
 
-# parei aqui 
 
-• A parte mais pobre não vai necessariamente sofrer a maior perda propocional em uma crise financeira, porque está protegido pelos memos motivos que o mantém pobre: isolamento geográfico, concetividade ao mercado nacional e global. E a classe média vai sofrer desproporcionalmente, efeitos negativos no desenvolvimento dos mercados tende a cair mais nas casa de classe média. A classe alta tende a receber inclusive compensação financeira dos bancos, além de ter condições melhores de se prepararem para a crise.
+A globalização do comércio frequentemente tem sido apontada como fator chave no crecimento da desigualdade no interior dos países tanto desenvolvidos como em desenvolvimento. Mas esta alegação não encontra  suporte em evidências empíricas. Dados cruzados entre países das ultlimas decadas mostru ma correlação limitada entre abertura de comércio e a desigualdade no interior do país. Segundo estudos recentes, ainda que a abertura ao comércio tenha uma posição significativa na desigualdade de renda, seu impacto é secundário ao desenvolvimento recnológico, abertura e profundidade financeira. O maior responsável são de fato políticas públicas ruins, como o enfraquecimento do poder de barganha do trabalhador, o desenvolvimento inadequado em educação e o desmantelamente de redes de seguranças sociais.
 
-• Possibilidade de uma desacoplamento entre desigualdade de riqueza e de renda. As crises fazem o preço das casas colapsas, afetando mais a parte baixa do espectro, e a rápida recuperação do mercado financeiro beneficia os mais ricos.
+Um dado alarmante nos apenta que 40% da população dos países da OECD são ecoomicamente vulnerávels, isto é, não possuem capital financeiro para viver 3 meses sem salário acima da linha da pobreza. Há muito mais população economicamente vulnerável do que as que são pobres de renda. Situações de insegurança se relacionam  diretamente com os índices de desigualdade: um nivel muito alto de desigualdade intensifica o sentimento de insegurança causado pela incerteza. Por outro lado, crescimento de insegurança tem diferenes impactos em diferentes grupos da população, o que pode agravar ainda mais a desigualdade. Por exemplo, a insegurança econômica se manifesta no desempenho cognitivo. Exerciios em laboratorio apontam que que pessoas tem diferenes níveis de performance dependendo da distância entre o que precisam e os recursos que tem disponíveis para alcançar. Quanto maior a distância, mais a consciẽncia desta situação captura a atenção e gera pensamentos intrusitovs atraplhando as capacidades cognitivas. Quem enfrenta insegurança econômica encara um 'imposto cognitivo' que o afeta seu próprio bem estar e produtividade.
 
-Isso me lembra a pequisa sobre os efeitos das políticas sociais e da supressão deles, talvez dê pra fazer algo semelhante modelando a economia?
+A desigualdade também impacta na resiliência dos domicilios aos eventos climátiocs depende das condições socioeconômicas, mina a confinça pública no governo, instituições e até mesmo entre indivíduos. Criando um cenário política favorável a   candidatos considerados *fora do mainstrem*, principalmente populiastas e nacionalistas.  Esta diferença entre a elite e os trabalhadores regulares que ocorre a nível nacional tem sido projetado na esfera internacional, com as forças nacionais capitalizando o descontentamento nacional e projetando a culpa nas instituições multilateriais como servindo ao interesse das elites. O sistema de troca multilateral esta em crise, a dificuldade no combate a evasão de impostos por exemplo reflete um controle internacional inadequado. Sem as potencias econômicas se esforçacem para corrigir os problemas no sistema multilateral melhorar a cooperação internacional em impostos, facilitar a troca de tecnologia, lidar com oa crise climática entre outras questões, países menos desenvolvidos vão ficar para tras, com a população mais vulnerável nesses países suportando o peso das consequências. 
+ 
+Entre os anos 1990 e 2000 o apoio publico para redistribuição aumentou em 70% dos países pesquisados, porém isso naõ se materializa divido ao maior poder político dos ricos quando comparado com os pobres. O recente aumento na desigualdade ao longo do mundo está relacionado a eliminaçã dos esquemas de impostos progessivas, redução do imposto de renda (especialmente nos níveis mais altas) dentre outras políticas que beneficiam os segmentos mais ricos da sociedade. Dentre as propostas de como combater a desigualdade, de maneira geral, o relatório propõe utilizar os impostos. Programas de imposto progressivo são um fator importante pra reduzir a desigualdade, também imposto sobre ganhos de capital e herança aguda a reduzir a desigualdade entre gerações.  Políticas fiscais também podem afetar a distribuição de renda, aumentando a provisão e acesso a serviço básico a todos cidadaãos mas os pobres em particular.
 
-Reduzir a desigualdade permanece um desafio
-
-• É necessário reduzir todas as formas de manifestação de desigualdade. Por exemplo: acesso a educação, proteção social, água limpa e saneamento básico, tecnologias, terra e recursos naturais,etc.
-
-• Novamente temos que um estado de alta desigualdade econômica é algo que anda mão a mão com alta concentração de poder político. Buscando proteger os próprios intereses, esses com poder político tem o incentivo pra ativamente impedir a introdução de medidas de redução da desigualdade, criando efetivamente uma armadilha de desigualdade.
-
-• O reconhecimento da possibilidade de que existam estas armadilhads de desigualdade, acrescenta urgência à tarefa de comabter a desigualdade, iniquidade e a exclusão.
-
-• Migração “ordenada e regular” é importante pra reduzir a desigualdade, prevenir conflitos e failitar a adaptação a mudançsa climáticas.
-
-• A globalização do comércio frequentemente tem sido acusada como fator chave no crecimento da desigualdade no interior dos países tanto desenvolvidos como em desenvolvimento. Mas não é suportado por evidências empíricas.Segundo o relattório, dados cruzados entre países das ultlimas decadas mostouru ma correlação limitada entre abertura de coomércio e desigualdade no inerior do oaís. Segundo estudos recentesm, ainda que a abertura ao comércio tenha uma posição significativa na desigualdade de renda, seu impacto é secundário ao desenvolvimento recnológico, abertura financira (fluxos financeiros internacionais), e e profundidade financeira (desenvolvimento dos sistemas financeiros nacionais). O maior responsável seria políticas públicas ruins, como enfraeucer o poderde barganha do trabalhador, desenvolvimento inadequado em educação, redes de seguranças sociais, etc ..
-
-• É necessario criar melhores mecanismos de redistribuição pra compensar o imapcto assimétrico das trocas internacionais minimizando os efeitos prejudiciais.
-
-Crescendo inseguridade e incerteza
-
-• Quando falamos de incerteza econômica, o uso do termo 'econômico' diz mais sobre as consequências (perdas de renda e riqueza) do que as causas. As cusas podem ser eevento climáticos extermos, mudanças tecnológicoas e conflitos violentos.
-
-• Essa isegurança é algo que não pode ser capturado por um indicador. E a dificuldade de medir objetivo faz com que frequentemente se ignore a s implicações para o desenvolvimento sustentável. Porém ela pode minar a confiança nas instituições e a participação popular, além de ter consequências psicólogicas nos indivíduos. O que demanda um gerenciamento de risco mais integrado, além do que apenas respostas pontuais para eventos adversos quando eles se realizam. Esse fator psicológico deve obrigador os fomuladores de políca públlica a ir além da da preocupação de maximização a renda e consumo que acontece em modelos econômicos tradicionais.
-
-INcerteza econômica pervasiva
-
-• Há dois fatores que se reforçam para cntribuir e moldar a insegurança econômica:
-
-1. O estado e a percepção de incertezas econômicos: 
-
-2. A habilidade das pessoas gerir essas incertezas
-
-• Incertezase econômicas vem em diferentes formas:
-
-– Mudanças rápidas que são inesperadas: crises financeiras, disputas comericais, eventos geopolíticos, desastres ambientais
-
-– Mudanças lentas que são esperadas em ocorrência, mas não em intensidade
-
-– volatilidade de variáveis econômicas
-
-• A incerteza econômica tem aumentado tanto em termos objetivos quanto sibjetivos, como pode-se notar em análises textauis de relatórios econômicas na mídia (um proxy pra percepção pública da incerteza). e questões como as mudançs climáticas.
-
-Coping com incerteza
-
-• O crescimento da incerteza econômica é apenas metade da história da insegurança. Se as pessoas se sentem seguras ou não, depende em quaõ bem estão preparadas para as diferentes formas de incerteza. Existem diversos mecanismos que uma pessoa pode lidar com a incerteza: seguro social.
-
-• Países desenvolvimentos tem uma proteção social que cobre muito mais que países em desenvolvimento.
-
-• Depender de apoio individual pra reduzir a incerteza econômica não reduzi a insegurança econômica.
-
-• 40% da população dos países da OECD são ecoomicamente vulnerávels: não possuem capital financeiro para viver 3 meses sem salário acima da linha da pobreza. Há muito mais população economicamente vulnerável do que as que são pobres de renda.
-
-• Incerteza está crescendo no mundo e ele nãõ está preparado para lidar com isso.
-
-Desigualdade, insegurança e incerteza
-
-• Insegurança econômica tem efeito na ecomomia
-
-• INcerteza te m impacto direto nas decisões docimilaries 
-
-• O cenário pode levar a um efeito de manada onde uma posicaçõ cautelza faz com que uma pessoa tenda a seguir as ações dos outros
-
-• Índices de insegurança se relacionam com desigualdade: um nivel muito alto de desigualdade intensifica o sentimento de insegurança causado pela incerteza. Por outro lado, crescimento de insegurança tem diferenes impactos em diferentes grupos da população que pode agravar ainda mais a desigualdade.
-
-• A resiliêncis dos domicilios aos eventos climátiocs depende das condições socioeconômicas.
-
-• A insegurança econômica também se manifesta no desempenho cognitivo. Exerciios em laboratorio apontam que que pessoas tem diferenes níveis de performance dependendo da distância entre o que precisam e os recursos qeu tem disponíveispara alcançar iss. Quanto maiora distância, maior isso captura a tenção e gera pensamentos intrusitovs atraplahando as capacidades cognitivas. Então quem enfrenta insegurança econômica (tipocamente quem tem enos) encara um 'imposto cognitivo' que o afeta seu próprio bem estar e produtividade.
-
-Confiança e efeito colateral
-
-• Aumentar a insegurança mina a confinçã pública, no governo, instituições e até mesmo entre indivíduos. O que leva a a votar em candidatos fora do mainstrem,a principalmente populiastas e nacionalistas. Pode lebar até mesmo menos comprometimento com regras e regulações. e efetividade e efici~encia na formulação de políticas publicas.
-
-• A diferença entre elite e trabalhadores regulares que ocorre a nível nacional tem sido projetado na esfera internacional, com as forças nacionais capitalizando o descontentamento nacional e projetando a culpa nas instituições multilateriais como servindo ao interesse das elites. 
-
-• O sistema de troca multilateral eta´em crise. ievasão de impostos por exemplo reflete um controle internacional inadequado
-
-• Sem as potencias se esforçacem para corrigir os problemas no sistema multilateral e melhorar a cooperação internacional em impostos, facilitar a troca de tecnologia, lidar com oa crise climática entre outras questões, países menos desenvolvidos vão ficar para tras, com a população mais vulnerável nesses países suportando o peso das consequências.
-
-• Blockchain: aproximação descentralizada na contabilidade e contratos inteligentes que eliminam a necessidade de instituiçõe centralizadas para facilitar transações. Mas os envolvidos ainda precisam confiar nas tecnologias e nas intituições que operam essa tecnologia. Blockchain pode facilitar transações econômicas mas isso depende na confiança da efici~enciada do sistema.
-
-Não deixar ninguém para trás
-
-• Para países de baixa renda e baixa-média renda, para entregar uma educação universal (pré-primária, primária e secondária) é necessário ir de 3.5% para 6.3% do PIB
-
-• A saúde em média vai pra 7.5% do pib para assegurar os objetivos. Dentre elas temos cobertura universal de saúde.
-
-• Para proteção social é necessario criar uma proteção social universal que cobre transferência de dinheiro para criança, benefício de maternidade, defici~entes e aposentadore. Isso custa em torno de 4.2% do PIB de países mais pobres.
-
-• Sobre agua e sanidade é apenas 0.39% do pib total agregado em 140 países. Mais um pouco de investimento adicional é necessario para os países em desenvolvimento.
-
-Investimento para atender as necessidades básicas
-
-• Alguns países conseguem utilizar recursos domésticos para tenfer as necessidades, outros precisam financiamento internacional. Para aumentar as receitas, os países devem recuperar os recursos perdidos em atividades econômicas incorretas e IFFs que estão esvaziando os recursos dos estados. Na Africa, mais mais dinheiro é perdido em IFF que os investimento estrangeiros diretos.
-
-• Nos anos recentes, programas de proteção social tem sido mais esaziados educação, saúde e nutrição em países de baixa renda.
-
-• Se os países da ásia e o pacífico investirem mais 4% podem acabar coma extrema pobreza e se mover em direção de uma saúde ública, educação de equalidade. A maior parte do investimento no sul da ásia é em proteção social, saúd e educação. east asia é principalmente questões ambientais.
-
-Reduzindo desigualdade e gerenciando a incerteza
-
-• Em períodos de alta interterza, legisladores devem ter atenção extra sobre como omcunidade ao público
-
-• Aumento da desigualdade paralisa ações climáticas, serve como combustível para um crescente nacionalismo e populismo.
-
-• Entre os anos 1990 e 2000 o apoio publico para redistribuição aumentou em 70% dos países pesquisados, porém isso naõ se materializa divido ao maior poder político dos ricos quando comparado com os pobres.
-
-• Redefining redistribution will remain critical for making it a reality. Redistribution need not mean less for people at the top of the income distribution. . It can mean more for everyone: more peace and stability for people at the top, more economic security and opportunities for those at the bottom, and more climate resilience and sustainable development for all. 
-
-• Programas de imposto progressivo são um fator importante pra reduzir a desigualdade. Também imposto sobre ganhos de capital e herança aguda a reduzir a desigualdade entre gerações. É melhores políticas de gastos públicaos que garantam um melhro custo-benef´picio
-
-• Políticas fiscais podema fetar a distribuição de renda, aumentando a provisão e acesso a serviço básico a todos cidadaãos mas os pobres em particular.
-
-• Recentemente houve um aumento na desigualdade ao longo do mundo, relacionado a eliminaçã dos esquemas de impostos progessovas, redução do imposto de renda (especialmente nos níveis mais altas) dentre outras políticas que beneficiam os segmentos mais ricos da sociedade.
-
-• Reduzir a desigualdade de compra ao invés de renda, é mais efetivo em reduzr a desigualdade de consumo.
+Reduzir a desigualdade de compra ao invés de renda, é mais efetivo em reduzr a desigualdade de consumo.
 
 • Policials sociasi redistributitvas podem incluir beneficios em dinheiro, como subsidios e e ajustes nos impostos, assim como benefícios naõ financeiros, como em saúde e seducação. Países na américa latina tem experimentado com sucesso programas de transferência de dinheiro, e propostas para uma renda básica universal emergiu em várias parte s do mundo. Países em desenvolvimento reformas agrárias ajudam no combate a desigualdade.
 
@@ -220,11 +109,18 @@ Essas discussões sempre ficam em torno de políticas publicas, intervenção, i
 
 • Renda básica universal
 
-No capítulo 3: 
 
-• People in developing countries spend as much as 80 per cent of their total income to meet their basic needs.Mas mesmo nos países desenvolvidos, chega a 60% quse.
 
-• Fome aumentou
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -454,7 +350,7 @@ Meu comentário: será que a desigualdade no mundo ta realmente caindo? E nos ú
 
 Isso para mim demonstra que é uma leitura muito otimista e exaerada que a desigualdade esta´em queda. Por exemplo, apesar que o relatório apresenta uma queda no Gini e no top 1% por motivos discutido anteriormente, acho interessante mencionar que a média ponderada pela posição de cada região implica um aumento no gini de 0.19 e na riqueza do 1% de 33%. Isso significa que em média, o gini de cada país (e não comparando entre si as populações de diferentes países) aumentou, assim com oa riqueza do 1% mais rico de cada país. Claro que esas é uma questão de escolha de como agrupar a população, mundial, mas insisto que na minha perspectiva a ideia de que a desigualdade caiu no mundo, ou ainda que está em uma tendência de queda, é uma leitura otimista.
 
-1.6 Vocabulário
+# Vocabulário
 
 • [https://www.investopedia.com/terms/f/financialasset.asp||Financial  wealth] and [https://www.investopedia.com/terms/n/nonfinancialasset.asp||Non-Financial wealth]: 
 
