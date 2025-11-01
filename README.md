@@ -1,10 +1,10 @@
-1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md) (*In progress*)
+1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md) ((*Undaer update*)
 2. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
 3. [Monetary economics from econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/Economia%20Monetaria.md) (*In progress*)
-4. Economia da Complexidade.
+4. [Economia da Complexidade](https://github.com/jdansb/Econophysics/blob/main/files/economia_da_complexidade.md). (*In Progress*)
 5. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
 6. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
-7. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb)
+7. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb) (*Undaer update*)
 8. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
 9. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*in progress*)
 10. Labor Content: Properties and Postulates
