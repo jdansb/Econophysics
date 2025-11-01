@@ -30,84 +30,27 @@ Um dado alarmante nos apenta que 40% da população dos países da OECD são eco
 
 A desigualdade também impacta na resiliência dos domicilios aos eventos climátiocs depende das condições socioeconômicas, mina a confinça pública no governo, instituições e até mesmo entre indivíduos. Criando um cenário política favorável a   candidatos considerados *fora do mainstrem*, principalmente populiastas e nacionalistas.  Esta diferença entre a elite e os trabalhadores regulares que ocorre a nível nacional tem sido projetado na esfera internacional, com as forças nacionais capitalizando o descontentamento nacional e projetando a culpa nas instituições multilateriais como servindo ao interesse das elites. O sistema de troca multilateral esta em crise, a dificuldade no combate a evasão de impostos por exemplo reflete um controle internacional inadequado. Sem as potencias econômicas se esforçacem para corrigir os problemas no sistema multilateral melhorar a cooperação internacional em impostos, facilitar a troca de tecnologia, lidar com oa crise climática entre outras questões, países menos desenvolvidos vão ficar para tras, com a população mais vulnerável nesses países suportando o peso das consequências. 
  
-Entre os anos 1990 e 2000 o apoio publico para redistribuição aumentou em 70% dos países pesquisados, porém isso naõ se materializa divido ao maior poder político dos ricos quando comparado com os pobres. O recente aumento na desigualdade ao longo do mundo está relacionado a eliminaçã dos esquemas de impostos progessivas, redução do imposto de renda (especialmente nos níveis mais altas) dentre outras políticas que beneficiam os segmentos mais ricos da sociedade. Dentre as propostas de como combater a desigualdade, de maneira geral, o relatório propõe utilizar os impostos. Programas de imposto progressivo são um fator importante pra reduzir a desigualdade, também imposto sobre ganhos de capital e herança aguda a reduzir a desigualdade entre gerações.  Políticas fiscais também podem afetar a distribuição de renda, aumentando a provisão e acesso a serviço básico a todos cidadaãos mas os pobres em particular.
+Entre os anos 1990 e 2000 o apoio publico para redistribuição aumentou em 70% dos países pesquisados, porém isso naõ se materializa divido ao maior poder político dos ricos quando comparado com os pobres. O recente aumento na desigualdade ao longo do mundo está relacionado a eliminaçã dos esquemas de impostos progessivas, redução do imposto de renda (especialmente nos níveis mais altas) dentre outras políticas que beneficiam os segmentos mais ricos da sociedade. Dentre as propostas de como combater a desigualdade, de maneira geral, o relatório propõe como principal mecanismo a ser utilizado os impostos. Programas de imposto progressivo são um fator importante pra reduzir a desigualdade, imposto sobre ganhos de capital e herança aguda também ajudam a reduzir a desigualdade entre gerações. 
 
-Reduzir a desigualdade de compra ao invés de renda, é mais efetivo em reduzr a desigualdade de consumo. 
+Quanto ao alvo dos impostos, é declarado que reduzir a desigualdade de compra ao invés de renda, é mais efetivo em reduzr a desigualdade de consumo. Após o dinheiro ser coletado através de programas de impostos, ele deve ser redistribuído segundo alguma política pública. Policials sociais redistributitvas podem incluir beneficios em dinheiro, como subsidios, assim como benefícios naõ financeiros, como programas de saúde e educação públicos. Países na américa latina tem experimentado com sucesso programas de transferência de dinheiro, e propostas para uma renda básica universal emergiu em várias parte s do mundo. Reformas agrárias também tem um histórico de ajudar no combate a desigualdade. 
 
-Policials sociasi redistributitvas podem incluir beneficios em dinheiro, como subsidios e e ajustes nos impostos, assim como benefícios naõ financeiros, como em saúde e seducação. Países na américa latina tem experimentado com sucesso programas de transferência de dinheiro, e propostas para uma renda básica universal emergiu em várias parte s do mundo. Países em desenvolvimento reformas agrárias ajudam no combate a desigualdade.
 
-• Políticas para lidar com desiguladade devem levar em conta a distribuição durante o crescimento já conhecido. DEve-se prestar a tenção na qualidade, não apenas na quantidade.
+Apesar de não se saber exatamente como deve ser esta mudança estrutural, se sabe é que é necessario uma aproximação proativa dos estados e dos legisladores e que se deixar essas ambições pro mercado não leva a transformação estrutural necessária.  Produtores se preocupam com seu sucesso imediato e lucro, frequentemente ignorando os cursos sociais e ambientais. Consumidores estão limitados comprando bens e serviços a preços acessiveis. O atual sistema de produçaõ e consumo é dirigido por um sistema que não leva em conta coisas como poluição e custos sociais. as campanhas de cosncientização são lentas e não são adequados para a escala e urgência dos problemas ambientais. Não há mágica, o que se deve discutir são políticas públicas para lidar com a mudança climática e desigualdade. 
 
-• Devemos mudar de 'país que cresceu mais rápido a economia' para 'país que mais reduziu a desigualdade'
+O relatório propõe mudar o discurso que enaltece o 'país que cresceu mais rápido a economia' para enaltecer o 'país que mais reduziu a desigualdade'. Para isso ser possível, transformações estruturais não são apenas aceitável mas parte integral da estratégia para lidar com a desigualdade. Está claro que as políticas públicas adotadas no passado são lamentavelmente insuficientes para combater a pobreza e alcançar o desenvolvimento sustentável, o melhor que se pode dizer é sobre uma certa estsabilidade nos últimos 15 anos e uma deterioração nos 15 anos anteriores.
 
-• Transformações estrutural não é apenas aceitável mas parte integral da estratégia para muitos países em desenvolvimento para lidar com a desigualdade. O que se sabe é que é necessario uma aproximação proativa dos estados e dos legisladores e que se deixar essas ambições pro mercado não leva a transformação estrutural necessária.
+Dentre os impostos que o relatório sugere há uma taxa sob o carbono visando criar um desincetivo financeiro para a emissão de CO2. O imposto sobre patrimônio e renda, lembrando que durante a maior parte do século XX os países adotaram o imposto progressivo (imposto mais alto em individuos com renda mais alta) para garantir uma redistribuição mais equitável e garantir a provisão de umbom serviço público. Porém segundo o argumento econômico de que impostos mais baixos encorajam maior investimento privado e gera um efeito multiplicador maior que investimentos político, assim como devido a concentração de poder político que as pessoas de alta renda conseguem exercer e consequentemente propagar este argumento, a progressividade fiscal diminuiu na maioria das economias desenvolvidas nas últimas 4 décadas, principalmente no topo. 
 
-• Reduzir desigualdade deve ser feito paralelamente a busca pro desenvolvimento sustentável.
+Nos EUA apesar da queda do imposto progressivo sobre renda, não houve uma subida acentuada na desigualdade de consumo por causa dos programas sociais de transfercência. Consumo sem dinheiro (principalmente sreviços de saúde) correspondem a 30% do consumo dos domicílios nos EUA. Imposto sobre propriedade não mitigam diretamente desigualdade de renda e riqueza mas é a principal fonte de renda pra financiar educação nos EUA. Este tipo de imposto sobre propriedade é algo aproveitado em países desenvolvido e pouco em países em desenvolvimento.
 
-• Nessa visão, está claro que as melhorias passadas na desigualdade, que tiveram uma média de 0 nos 15 anos até 2015, ou a deterioração durante o período anterior de outros 15 anos, são lamentavelmente inadequadas para combater a pobreza e alcançar o desenvolvimento sustentável
+Já impostos sobre riqueza que incide sobre ativos reais e financeiros esta crescebdo em popularidade. Na frança o presidente Macron reduziu para cobrir apenas a propriedade. Os criticos dizem qeue tem pouco ganho se comparado com os custos administrativos e que pode ser facilmente encontrad o deduções, escondido os fundos ou movido pra outros maíses, e isso levou a eliminação do imposto sobre riqueza em muitos contextos. Apenas 7 apaíses da OECD adotam em 2017.
 
-• Etiópia: a transformação é resultado de uma planejamento econômico de longo termo e uma forte vontade política do estado. Tudo foi realizado sob a orientação de um “estado desenvolvimentista”.
+O imposto sobre terra é considerado o mais eficiente entre todas. Porém continua sendo uma novidade na maior parte dos países. O conceito é simples: uma quantidade significativa de riqueza é capturada no valor das terras em centro urbanos, e esse valor aumenta principalmente devido a investimento públicos na área e localizaçõ, ações individuais do dono da terra não aumenta o valor. Entaõ o imposto taxa o aumento no valor na terra que é devido ao investimento opúblico, um valor 'imerecido' pelo dono da terra.
 
-2.2 Visão futura
+Como medida de redistribuição da riqueza, há a proposta da renda básica básica universal. Esta é uma ideia que existe no mínimo desde o fim do século 18 e teve agora um renascimento no século 21: um programa que pague a todo indíviduo (independente de qualquer critério) uma quantidade de dinheiro suficiente para surprir as necessidades básicas. Os proponentes defende, que pode permitir que os indivíduos neguem trabalhos indignos aumentando o poder de negociação dos trabalhadores, reduzindo a desigualdade.
 
-• Produtores se preocupam com seu sucesso imediato e lucro, frequentemente ignorando os cursos sociais e ambientais. Consumidores estão limitados comprando bens e serviços a preços acessiveis. O atual sistema de produçaõ e consumo é dirigido por um sistema que não leva em conta coisas como poluição e custos sociais.
 
-• Campanhas de cosncientização são lentas e não são adequados para a escala e urgência dos problemas ambientais. Não há mágica, o que se discute nessa sessão são algumas políticas públicas para lidar com a mudança climática e desigualdade. 
-
-2.2.1 Taxa de carbono
-
-• Comportamento humano responde a incentivos financeiros. Impostos são incentivos desincentivos financeiros efetivos.
-
-• Imposto sober a emissão de CO2 (taxa de carbono)
-
-• Suécia que é um caso de sucesso, a taxa de carbono caiu 25% entre 1991 e 2019, quase 30 anos.
-
-• Dilema do prisioneiro
-
-2.2.2 Revisitando imposto de patrimônio e renda para lidar com desigualdade
-
-• Durante a maior parte do século XX os países adotaram o imposto progressivo (imposto mais alto em individuos com renda mais alta) para garantir uma redistribuição mais equitável e garantir a provisão de umbom serviço público.
-
-• Segundo o argumento econômico de que impostos mais baixos encorajam maior investimento privado e gera um efeito multiplicador maior que investimentos político e devido a concentração de poder político que as pessoas de alta renda conseguem exercer, a progressividade fiscal diminuir na maioria das economias desenvolvidas nas últimas 4 décadas, principalmente no topo.
-
-• Muitos países desenvolvidos estão aumentando os impotos indiretos em valor agregado, que é um imposto sobre consumo. Uma economia largamente informal, administração pobre de impostos e o poder político dos ricos estão prevenindo a adoçãõ com sucesso de adoção de impostos progressivos em muito caso.
-
-• Existe o desafio pra procravar novas fontes de recurso para financiar o serviço público e reduzir a desigualdade, especialmente no consumo e acesso de oportunidades. Proteção social e políticas de transferência podem reduzir a desigualdade no consumo mesmo quandoa desigualdade é alta. Nos EUA apesar da queda do imposto prgressivo, não houve uma subida acentuada na desigualdade de consumo por causa dos programas sociais de transfercênci. Consumo sem dinheiro (principalmente sreviços de saíde) é 30% do consumo dos domicílios nos eUA.
-
-• Imposto sobre propriedade não mitiga diretamente desigualdade de renda e riqueza. Mas é a principal fonte de renda pra financiar educação e lei nos eua. É algo aprovietado em países desenvolvido e pouco em países em desenvolvimento.
-
-• Imposto sobre riqueza que incide sobre ativos reais e financeiros esta crescebdo em popularidade. Na frança o presidente macron reduziu para cobrir apenas a propriedade. Os criticos dizem qeue tem pouco ganho se comparado com os custos administrativos e que pode ser facilmente encontrad o deduções, escondido os fundos ou movido pra outros maíses, e isso levou a eliminação do imposto sobre riqueza em muitos contextos. Apenas 7 apaíses da OECD adotam em 2017.
-
-• Imposto sobre terra: é considerado o mais eficiente entre todas. Porém continua sendo uma novidade na maior parte dos países. O conceito é simples: uma quantidade significativa de riqueza é capturada no valor das terras em centro urbanos, e esse valor aumenta principalmente devido a investimento públicos na área e localizaçõ, ações individuais do dono da terra não aumenta o valor. Entaõ o imposto taxa o aumento no valor na terra que é devido ao investimento opúblico, um valor 'imerecido' pelo dono da terra.
-
-2.2.3 Renda básica universal
-
-• Ideia que existe no mínimo desde o fim do século 18 e teve agora um renascimento no século 21: um programa que pague a todo indíviduo (independente de qualquer critério) uma quantidade de dinheiro suficiente para surprir as necessidades básicas. 
-
-• Proponentes defende que pode permitir que os indivíduos neguem trabalhos indignos aumentando o poder de negociação dos trabalhadores.
-
-• Opositores defendem que existe incentivo negativo, como desencoraar o trabalho.
-
-• É preciso também pontuar que a efetividade depende de como o programa dialoga com um sistema maior de bem estar. Como complementário pode ter um efeito equalizador, porém como substitito todos os programas pode piorar a desigualdade.
-
-• O maior desafio diz respeito oas recursos necessários. Finlandia fez um teste piloto entre 2017 e 2018 e os resultados preliminares dizem que não teve efeito no níveis de emprego, mas aumentou a confiança a condução física e mental das pessoas, assim como a confiança nas instituições.
-
-2.2.4 Acordo global:
-
-• Acordos: Agenda 2030, Acordo de paris, Addis Adaba Aaction Agenda
-
-• O ciinturão da rota da sa é um esforço global importante para construir uma infraestrutura resiliente e diminuir a desigualdade e combater a crise climática.
-
-2.3 Meus comentários gerais
-
-Essas discussões sempre ficam em torno de políticas publicas, intervenção, impostos, redistribuição de renda, etc. Mas evita o cerne da questão sobre os meios de produção, deve-se pr
-
-• Imposto sobre riqueza, com particular sobre terra.
-
-• Imposto progressivo sobre renda
-
-• Renda básica universal
-
+Já opositores defendem que existe incentivo negativo, funcionando como um desencojamento ao trabalho. É preciso pontuar que a efetividade de qualquer política pública depende de como o programa dialoga com um sistema maior de bem estar. Como complemento  a renda básica universal pode ter um efeito equalizador, porém como substitito todos os programas pode piorar a desigualdade.  O maior desafio diz respeito oas recursos necessários para este programa. Finlandia fez um teste piloto entre 2017 e 2018 e os resultados preliminares dizem que não teve efeito no níveis de emprego, mas aumentou a confiança a condução física e mental das pessoas, assim como a confiança nas instituições.
 
 
 
