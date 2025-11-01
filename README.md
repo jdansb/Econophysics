@@ -4,7 +4,7 @@
 4. [Economia da Complexidade](https://github.com/jdansb/Econophysics/blob/main/files/economia_da_complexidade.md) (*In Progress*)
 5. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
 6. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
-7. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb) (*Under update*)
+7. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb) 
 8. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
 9. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*in progress*)
 10. Labor Content: Properties and Postulates
