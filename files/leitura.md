@@ -5,5 +5,6 @@
 5.  [Statistical Mechanics Approach
 to Econophysics](https://physics.umd.edu/~yakovenk/papers/2022.Yakovenko.SpringerEncyclopedia.pdf): Entrada na enciclopédia sobre econofisica tratando principalmente do modelo de Yakovenko.
 6.  [Social Architecture of Capitalism](https://arxiv.org/abs/cond-mat/0401053): Principal modelo de arquitetura social do capitalismo.
-7.  Classical Econophysics
-8.  An Introduction to Agent-Based Modeling
+7.  [The Emergence of the Law of Value in a Dynamic Simple Commodity Economy](https://www.tandfonline.com/doi/abs/10.1080/09538250701661889): Abordagem probabilística da lei do valor.
+8.  Classical Econophysics
+9.  An Introduction to Agent-Based Modeling
