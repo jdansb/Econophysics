@@ -1,18 +1,16 @@
-Não é um livro de econofísica, mas um livro de introdução à economia que pode contribuir pra formação é o Curso de Introdução à Economia Política do Paul Singer. Quanto a econofísica recomendo:
-
-
 1.  [Sustainable development outlook 2019](https://digitallibrary.un.org/record/3841597?v=pdf): Relatório da ONU sobre desigualdade econômica (Capítulo 1) e como resolver (Capítulo 4)[^3].
-2.  [Philosophy of econophysics](https://www.rep.routledge.com/articles/thematic/philosophy-of-econophysics/v-1/bibliography/philosophy-of-econophysics-bib#Q143BIBENT3): O que é econofísica, de uma perspectiva filosófica.
-3.  [Economia da Complexidade](https://fernandonogueiracosta.wordpress.com/wp-content/uploads/2024/09/fernando-nogueira-da-costa-economia-da-complexidade-ou-econofisica-ago-2024.pdf): O que é econofísica, por um economista.
-4.  [Statistical Laws in Complex Systems](https://arxiv.org/abs/2407.19874): Sobre leis estatísticas (Capítulo 1).
-5.  An Introduction to Agent-Based Modeling: Introdução sobre modelagem baseada em agentes. **ARRUMAR**
-6.  Classical Econophysics: **ARRUMAR** [^1]
-7.  [Monetary economics from econophysics perspective](https://arxiv.org/abs/1608.04832): Uma discussão conceitual sobre alguns aspectos econômicos dos modelos típicos de econofísica.
-8.  [Statistical Mechanics Approach
+2.  Curso de Introdução à Economia Política (Paul Singer): Um curso rápido de introdução à economia.
+3.  [Philosophy of econophysics](https://www.rep.routledge.com/articles/thematic/philosophy-of-econophysics/v-1/bibliography/philosophy-of-econophysics-bib#Q143BIBENT3): O que é econofísica, de uma perspectiva filosófica.
+4.  [Economia da Complexidade](https://fernandonogueiracosta.wordpress.com/wp-content/uploads/2024/09/fernando-nogueira-da-costa-economia-da-complexidade-ou-econofisica-ago-2024.pdf): O que é econofísica, por um economista.
+5.  [Statistical Laws in Complex Systems](https://arxiv.org/abs/2407.19874): Sobre leis estatísticas (Capítulo 1).
+6.  An Introduction to Agent-Based Modeling: Introdução sobre modelagem baseada em agentes. **ARRUMAR**
+7.  Classical Econophysics: **ARRUMAR** [^1]
+8.  [Monetary economics from econophysics perspective](https://arxiv.org/abs/1608.04832): Uma discussão conceitual sobre alguns aspectos econômicos dos modelos típicos de econofísica.
+9.  [Statistical Mechanics Approach
 to Econophysics](https://physics.umd.edu/~yakovenk/papers/2022.Yakovenko.SpringerEncyclopedia.pdf): Entrada na enciclopédia sobre econofisica tratando principalmente do modelo de Yakovenko.
-9.  [Social Architecture of Capitalism](https://arxiv.org/abs/cond-mat/0401053): Principal modelo de arquitetura social do capitalismo[^2].
-10.  [The Emergence of the Law of Value in a Dynamic Simple Commodity Economy](https://www.tandfonline.com/doi/abs/10.1080/09538250701661889): Abordagem probabilística da lei do valor.
-11.  How Labor Powers the Global Economy: Uma abordagem probabolística da teoria do trabalho no capitalismo[^4].
+10.  [Social Architecture of Capitalism](https://arxiv.org/abs/cond-mat/0401053): Principal modelo de arquitetura social do capitalismo[^2].
+11.  [The Emergence of the Law of Value in a Dynamic Simple Commodity Economy](https://www.tandfonline.com/doi/abs/10.1080/09538250701661889): Abordagem probabilística da lei do valor.
+12.  How Labor Powers the Global Economy: Uma abordagem probabolística da teoria do trabalho no capitalismo[^4].
 
 
 
