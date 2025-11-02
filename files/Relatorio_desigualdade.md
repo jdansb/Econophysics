@@ -73,7 +73,7 @@ O relatório da ONU já é bastante completo para uma introdução. Para um apro
 
 Grande parte da análise do relatório soam não práticas para meus propósitos por ter um grande peso a questão da relação do dólar entre outras moedas. Por exemplo, um dos resultados apresentados é que a riqueza global diminuiu, mas isto grande parte disso decorre da relação entre dólar e outras moedas conforme relatado. De toda forma, há alguns dados que são interessantes de serem trazidos. Em primeiro lugar, temos a confirmação do relato anterior de que em grande parte, o responsável pela queda da desigualdade entre países é o crescimento em ecenomias emergentes, especialmente a China, mas também em grande parte Índia. Há também números que equivalentes que indicam uma relativa estabilidade tanto no Gini quanto na riqueza do 1% mais rico desde os ano 2000.
 
-Quanto a distribuição de riqueza entre diferentes frações da população nos estados unidos, a riqueza mediana de negros é pouco mais de 10% da riqueza mediana dos brancos nos EUA. Já a relação da mediana dos hispânicos com os brancos é de 20%. Conforme relatamos anteriores, as crises afetam de forma diferente, diferente setores da sociedade. Parte da explicaçã para este fenômeno esta no fato da diferente natureza da riqueza para diferentes classes. Por exemplo, a maior parte do grupo hispânico tem seu investimento em casa (physical asset), já homens Brancos , que são quem tem a maior média e mediana de riqueza, tem a maior parte da sua riqueza na forma de non-physical asset.
+Quanto a distribuição de riqueza entre diferentes frações da população nos estados unidos, a riqueza mediana de negros é pouco mais de 10% da riqueza mediana dos brancos nos EUA. Já a relação da mediana dos hispânicos com os brancos é de 20%. Conforme relatamos anteriores, as crises afetam de forma diferente, diferente setores da sociedade. Parte da explicaçã para este fenômeno esta no fato da diferente natureza da riqueza para diferentes classes. Por exemplo, a maior parte do grupo hispânico tem seu investimento em casa (physical asset), já homens Brancos , que são quem tem a maior média e mediana de riqueza, tem a maior parte da sua riqueza na forma de non-physical asset[^2].
 
 Quanto a número globais, 52.5% da população mais pobre tem 1.2% de toda riqueza, nos países mais pobres 80% da populaçaõ se concentra na base desta pirâmide, enquanto em países mais ricos é 30% e de maneira mais transitória quando comparada aos países mais pobres. Esta fração da população global também apresenta grande diversidade de pessoas em todo mundo. Já o 1.1% mais ruco concentra 45.8% da riqueza e estão particularmente concentrados em algumas regiões e países, compartilhando de um esmo estilo de vida e oportunidades, com um foco non-physical asset. Essa distribuição da riqueza global indica existir uma pirâmide internacional também entre os países.
 
@@ -89,155 +89,9 @@ Quando olhamos para os números de diferentes países, o 1% mais rico tende a te
 
 Retomando os número globais, os 10% mais ricos tem 81% da riqueza no mundo. A distribuição dos ativos financeiros e não-financeira não é uniforme. Temos um domínio de ativos não financeiros na base da pirâmide que vai sendo substituído pelo domínio dos ativos financeiros conforme subimos a pirâmide, o 1%  mais rico sua riqueza basicamente na forma de ativos financeiros. Dessa forma, existe uma mudança na desigualdade e consequentemente na riqeuza média e mediana quando há mudança no preço dos ativos.
 
-
-
-
-
-
-• O crescimento da china em 20 anos (00 e 22) é equivalente do estados unidos em 80 anos (1925 ate os anos 2005).
-
-– Os 5 anos seguintes (22 e 27) deverão equivalener a mais 14 anos nos EUA. Ficando só a 8 anos do mesmo.
-
-• Desde 2008, a riqueza financeira tem crescido mais rápido que a não financeira. mas em 2002 ambas as riquezas estavam semelhantes. A dívidas também devem crescer.
-
-• A classe baixa (abaixo de 10.000 USD de riqueza) tem diminuido, em consequência tem aumentado todas as outras faixas.
-
-• O crescimento de milionários reflete que altas inflações tornam mais fácil passar o limiar de 1 milhão de ´dolares.
-
-Observações:
-
-• Nesse ritmo a china deve alcançar os EUA até o fim da década.
-
-• A mudança na distribuição da população acho que deve ao crescimento de países emergentes (china e índia) que aumentam a riqueza de toda a população e promovem esse deslocamento, e a inflação.
-
-1.5 Experiências individuais
-
-• Países que tem dados oficiais
-
-• Brasil não cumpre os padrões, ma não dá pra avaliar experiências latino-americanas sem levar em conta a maior economia
-
-– Situação similar a nigéria, até mesmo o oriente médio.
-
-• Oandemia causou uma devanstação em 2020.. Recuperação forte em 2021 e inflação em 2022.
-
-– Devido a inflação os bancos aumentaram as taxas de juros que diminui o preço dos ativos diminuindo a riquezas em muitos mercados. Mercados no topo camem devido a quead no preço das ações.
-
-• O setor público socorreu o setor privado para garantir um alívio durante a pandemia em 2020 e em 2021, aumentando os gastos governamentais, em 2022 o equilíbrio alterado da riqueza pública em relação à privada começou a ser revertido.
-
-Desigualdade nos países:
-
-• Brasil, Chile e México: Gini aumentou nos últimos 20 anos e 1% tem comportamento misto, mas onde caiu a desigualdade aumentou na parte debaixo da pirâmide.
-
-• Gini 
-
-– aumentou: Australia, Brasil, China, França, India, Japão, Espanha, Taiwan, Estados Unidos
-
-– Diminui: Canada, Alemanha, Coreia, Reino Unido
-
-• 1%:
-
-– Aumentou Australia, Brasil, Chima, Alemanha, India, Italia, Coreia, Taiwan, Estados Unidos
-
-– diminuiu: Canada, França, Japão, Espanha, Reino Unido
-
-Só dois países diminuiram nos dois índices:
-
-• Canada: Gini caiu 2.6 (74.9 -> 72.3) e a riqueza dos topo 4,8% (29.1% para 24.3%)
-
-• Reino Unido: O gni caiu 0.4% (70.5 para 70.1) e a riqueza no topo 1% (22.1% para 20.7%)
-
-Meu comentário: será que a desigualdade no mundo ta realmente caindo? E nos únicos países que apresentaram uma queda em 20 anos nos dois índices adotados, será que não se beneficiam da desigualdade em outros lugares? É dito que a desigualdade. Olhando região por região, o Gini e a riqueza do top 1% caiu na África, Asia-Pácifico (sem incuir China e India) e Europa. Aumentou na China, India e America do norte, américa do sul caiu um índice aumentou outro.
-
-Isso para mim demonstra que é uma leitura muito otimista e exaerada que a desigualdade esta´em queda. Por exemplo, apesar que o relatório apresenta uma queda no Gini e no top 1% por motivos discutido anteriormente, acho interessante mencionar que a média ponderada pela posição de cada região implica um aumento no gini de 0.19 e na riqueza do 1% de 33%. Isso significa que em média, o gini de cada país (e não comparando entre si as populações de diferentes países) aumentou, assim com oa riqueza do 1% mais rico de cada país. Claro que esas é uma questão de escolha de como agrupar a população, mundial, mas insisto que na minha perspectiva a ideia de que a desigualdade caiu no mundo, ou ainda que está em uma tendência de queda, é uma leitura otimista.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Vocabulário
-
-• [https://www.investopedia.com/terms/f/financialasset.asp||Financial  wealth] and [https://www.investopedia.com/terms/n/nonfinancialasset.asp||Non-Financial wealth]: 
-
-Os ativos não financeiros e financeiros diferem com base na forma como os ativos são comprados e vendidos. Muitos ativos financeiros, como ações e títulos, são negociados em bolsas e podem ser comprados e vendidos em qualquer dia útil em que a bolsa esteja aberta. É fácil obter o preço de mercado atual para comprar ou vender esses ativos. Enquanto o mercado for líquido, haverá um comprador para cada vendedor e vice-versa.
-
-Por outro lado, um ativo não financeiro, como um equipamento ou um veículo, pode ser difícil de vender porque não há um mercado ativo de compradores e vendedores. O preço do item não financeiro pode ser nebuloso, pois não há um padrão de mercado. Em vez disso, muitos ativos não financeiros são vendidos quando o vendedor encontra um comprador em potencial e negocia um preço de venda. O tempo necessário para encontrar um comprador, efetuar a venda e distribuir o ativo físico torna os ativos não financeiros ilíquidos.
-
-• [https://www.investopedia.com/terms/d/debt.asp||Debt (dívida)]: 
-
-Dívida é algo, geralmente dinheiro, devido por uma parte a outra. A dívida é usada por muitas pessoas e empresas para fazer grandes compras que não poderiam pagar em outras circunstâncias. A menos que uma dívida seja perdoada pelo credor, ela deve ser paga, geralmente com juros adicionais.
-
-• [https://www.ons.gov.uk/economy/inflationandpriceindices/methodologies/deflatorsandhowweusethemineconomicestimates||Household consumption deflator]
-
-O que é um deflator? Ao medir a mudança da economia de um país ao longo do tempo estamos interessados no crescimento do volume, que pode ser considerado a mudança na quantidade de bens e serviços produzidos, consumidos ou comprados na economia. Para captar as mudanças na atividade econômica, usamos deflatores para remover os efeitos das mudanças de preço puro, removendo por exemplo, o efeito da inflação. Dessa forma não queremos o valor nominal, mas o real.
-
-• [https://www.investopedia.com/ask/answers/030515/real-gdp-better-index-economic-performance-gdp.asp||PIB real e nomial]:
-
-– Nominal (total): reflete os números brutos em dólares correntes não ajustados pela inflação.
-
-– Real: ajusta os números fixando o valor da moeda, eliminando assim qualquer distorção causada pela inflação ou deflação.
-
-• USD exchange rate (taxa de câmbio): 
-
-Uma taxa de câmbio é a taxa pela qual uma moeda será trocada por outra moeda 
-
-• Share prices (preço da ação): 
-
-O preço de uma ação é o preço de uma única ação de um número de ações vendáveis de uma empresa. Em termos leigos, o preço da ação é o valor mais alto que alguém está disposto a pagar pela ação ou o valor mais baixo pelo qual ela pode ser comprada.
-
-• Pensão privada e estatal:
-
-Pensão é basicamente aposentadoria. 
-
-• [https://www.investopedia.com/terms/h/humancapital.asp||Capital humano]:
-
-Refere-se ao valor econômico da experiência e das habilidades de um trabalhador. O capital humano inclui ativos como educação, treinamento, inteligência, habilidades, saúde e outros aspectos que os empregadores valorizam, como lealdade e pontualidade. Como tal, é um ativo ou qualidade intangível que não está (e não pode estar) listado no balanço patrimonial de uma empresa.
-
-• Market:
-
-Cada mercado geralmente é um país. É um conjunto de pessoas que realizam transações econômicas entre si, pelo que entendi.
-
-• [https://www.investopedia.com/ask/answers/031115/how-do-central-banks-impact-interest-rates-economy.asp||Interest rates (taxa de juros)]( e [https://www.economicsobservatory.com/how-does-inflation-affect-asset-prices||aqui]):
-
-A taxa de juros é o valor que um credor cobra de um tomador de empréstimo e é uma porcentagem do principal - o valor emprestado. A taxa de juros do banco central tem a ver com o discount rate, isso é, o quanto que ele cobra pra emprestar dinheiro a curto prazo pra outras instituições financeiras. Uma baixa taxa de juros, movimenta a economia caso esteja muito parada, estimulando o empréstimo, tanto de outras instituições com o banco central ,quanto de clientes com o banco, mas também reduz os juros na poupança. Se existe um problema e hiperinflação, uma alta taxa de juros pode ser usada para freiar a economia.
-
-Altas taxa de juros reduz o preço dos ativos de duas formas. Uma é que aumentando as taxas de interesse na poupança, em economia, faz com que investidores prefiram a segurança de poupar riqueza nos bancos, diminuindo a demanda pelos ativos financeiros e consequentemebte baixando o preço.
-
-O segundo é derrubando o valor fndamental do ativo. Isto é, a diferença entre a renda gerada pelo investimento no ativo e a renda gerada salvando o dinheiro em algo livre de risco. como aumenta a renda na poupança, diminui o valor fundamental e faz com que tenha menos valor. 
-
-Eu imagino que a lógica seja a seguinte: se a taxa de juros é alta, o banco não pode pegar tanto dinheiro do banco central, então ele vai aumentar a taxa de juros na poupança para pegar dinheiro mais fácil com os próprios clientes. Se a taxa de juros do banco central é baixa, ele não precisa tanto que os próprios clientes coloquem dinheiro na poupança, logo pode baixar a taxa de juros também.
-
-• Discount rate:
-
-Acho que é essencialmente a taxa de juros do governo dos EUA.
-
-2 
+Uma curiosidade impressionante é que o crescimento da china em 20 anos (2000 e 2022) é equivalente do estados unidos em 80 anos (1925 - 2005), e os 5 anos seguintes (2022 - 2027) deverão equivalener a mais 14 anos nos EUA. Ficando só a 8 anos de distância. Nesse ritmo a china deve alcançar os EUA até o fim da década. E uma última curiosidade é o fato de eque durante a pandemia foi o setor público que socorreu o setor privado para garantir um alívio, aumentando os gastos governamentais, em 2022 o equilíbrio alterado da riqueza pública em relação à privada começou a ser revertido.
 
 [^1]: Vulnerable workers are employed in low-skilled, low-paid jobs with little job security. They are often exploited by their employers and forced to work long hours for low pay, or to work in dangerous conditions. ([the public service umion](https://www.unison.org.uk/get-help/knowledge/vulnerable-workers/)
 
-2.4 Glosssário: 
-
-• Dívida nacional:
-
-É a quantidade total d dinheiro que um país deve aos credores, e é mais interessante a razão em relação ao produto doméstico que os valores brutos. A dívida nacional pode ser divida entre o é dívida em posse do público ou pelo próprio governo.
-
-Público é basicamente tudo que não é o próprio governo, e é a maior parte da dívida dos EUA. 30% é para entidades estrangeiras, 50% para entidades dosméticas e 20% para a reserva federal. Entidade estrangeiras é uma mistura de indivudos, negócios, bancos e governo, onde 14% é dívida com o Japão e 12 com a china.
-
-• IFF (Illicit financials flows):
-
-É entendidi como movimentos ilegais de dinheiro ou capital de um país para outro. Atividades proibidas por lei como corrupção, fraude nos impostos, tráfico, etc.,, A definição mais restrita inclui atividades legais mas anti-éticas. As Nações Unidas parecem adotar essa definição. Por exemplo, atividades que é ilícita na origem, 
-
-Revisitar o trecho sobre comércio internacional na parte 1
-
-• [https://pro.bloombergtax.com/brief/value-added-tax-vat/||Value added tax (VAT)]:
-
-É uma taxa imposto em cada estágio da cadeia, em alguns países é chamado de imposto de bens e serviços. É uma taxa indireta pois é coletada e emitida pelo vendedor. Por exemplo se uma mesa é construída pela fábrica e custa $200, e paga uma taxa de $40, então a loja compra essa mesa pelos $240 cobrindo a taxa. Quando ele vende, deve pagar mais uma taxa $60, então ele repassa os $100 de taxa VAT para o consumidor, junto dos $200 original, e se quiser lucrar $200, então o preço de venda final é $500 onde 20% é imposto. É um imposto sobre consumo.
+[^2]:  Os ativos não financeiros e financeiros diferem com base na forma como os ativos são comprados e vendidos. Muitos ativos financeiros, como ações e títulos, são negociados em bolsas e podem ser comprados e vendidos em qualquer dia útil em que a bolsa esteja aberta. É fácil obter o preço de mercado atual para comprar ou vender esses ativos. Enquanto o mercado for líquido, haverá um comprador para cada vendedor e vice-versa. Por outro lado, um ativo não financeiro, como um equipamento ou um veículo, pode ser difícil de vender porque não há um mercado ativo de compradores e vendedores. O preço do item não financeiro pode ser nebuloso, pois não há um padrão de mercado. Em vez disso, muitos ativos não financeiros são vendidos quando o vendedor encontra um comprador em potencial e negocia um preço de venda. O tempo necessário para encontrar um comprador, efetuar a venda e distribuir o ativo físico torna os ativos não financeiros ilíquidos. ( [Financial  wealth](https://www.investopedia.com/terms/f/financialasset.asp) and [Non-Financial wealth](https://www.investopedia.com/terms/n/nonfinancialasset.asp)).
 
