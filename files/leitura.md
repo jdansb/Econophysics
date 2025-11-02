@@ -3,7 +3,7 @@
 3.  [Philosophy of econophysics](https://www.rep.routledge.com/articles/thematic/philosophy-of-econophysics/v-1/bibliography/philosophy-of-econophysics-bib#Q143BIBENT3): O que é econofísica, de uma perspectiva filosófica.
 4.  [Economia da Complexidade](https://fernandonogueiracosta.wordpress.com/wp-content/uploads/2024/09/fernando-nogueira-da-costa-economia-da-complexidade-ou-econofisica-ago-2024.pdf): O que é econofísica, por um economista.
 5.  [Statistical Laws in Complex Systems](https://arxiv.org/abs/2407.19874): Sobre o uso de leis estatísticas na investigação de sistemas complexos (Capítulo 1).
-6.  An Introduction to Agent-Based Modeling: Introdução sobre modelagem baseada em agentes. **ARRUMAR**
+6.  An Introduction to Agent-Based Modeling: Porque usar e o que é um modelo baseado em agentes (Capítulos 0 e 1).
 7.  Classical Econophysics: Evolução da teoria do valor (Capítulo 6), dinheiro e crédito (Capítulo 11), Banco (Capítulo 12), lucro (Capítulo 14) e a questão do calculo econômico (Capítulo 15)[^1].
 8.  [Monetary economics from econophysics perspective](https://arxiv.org/abs/1608.04832): Uma discussão conceitual sobre alguns aspectos econômicos dos modelos típicos de econofísica.
 9.  [Statistical Mechanics Approach
@@ -11,8 +11,6 @@ to Econophysics](https://physics.umd.edu/~yakovenk/papers/2022.Yakovenko.Springe
 10.  [Social Architecture of Capitalism](https://arxiv.org/abs/cond-mat/0401053): Principal modelo de arquitetura social do capitalismo[^2].
 11.  [The Emergence of the Law of Value in a Dynamic Simple Commodity Economy](https://www.tandfonline.com/doi/abs/10.1080/09538250701661889): Abordagem probabilística da lei do valor.
 12.  How Labor Powers the Global Economy: Uma abordagem probabolística da teoria do trabalho no capitalismo[^4].
-
-
 
 [^1]: Os capítulos 7 e 8 são baseados no assunto explorado no artigo Monetary economics from econophysics perspective. O capítulo 9 no artigo The Emergence of the Law of Value in a Dynamic Simple Commodity Economy. O capítulo 10 nos livros How Labor Powers the Global Economy e Laws of Chaos: A Probabilistic Approach to Political Economy. O capítulo 13 no Social Architecture of Capitalism.
 [^2]: Outros trabalhso relacionados a este artigo são [Inequality in a model of capitalist economy](https://arxiv.org/abs/2410.22369),[Agent-Based Models, MacroeconomicScaling Laws and Sentiment Dynamics](https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00004144/thesis_linlin.pdf), [Implicit Microfoundations for Macroeconomics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1726698#) e [Exploring the Social-Architecture Model](link.springer.com/article/10.1057/s41302-018-0114-9).
