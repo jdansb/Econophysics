@@ -1,6 +1,6 @@
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
 2. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
-3. [Monetary economics from econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/Economia%20Monetaria.md) (*In progress*)
+3. [Monetary economics from econophysics perspective]([https://github.com/jdansb/Econophysics/blob/main/files/Economia%20Monetaria.md](https://github.com/jdansb/Econophysics/blob/main/files/monetary.ipynb)) (*In progress*)
 4. [Economia da Complexidade](https://github.com/jdansb/Econophysics/blob/main/files/economia_da_complexidade.md) (*In Progress*)
 5. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb) 
 6. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
