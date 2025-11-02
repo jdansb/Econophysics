@@ -9,11 +9,10 @@
 to Econophysics](https://physics.umd.edu/~yakovenk/papers/2022.Yakovenko.SpringerEncyclopedia.pdf): Entrada na enciclopédia sobre econofisica tratando principalmente do modelo de Yakovenko.
 9.  [Social Architecture of Capitalism](https://arxiv.org/abs/cond-mat/0401053): Principal modelo de arquitetura social do capitalismo[^2].
 10.  [The Emergence of the Law of Value in a Dynamic Simple Commodity Economy](https://www.tandfonline.com/doi/abs/10.1080/09538250701661889): Abordagem probabilística da lei do valor.
-11.  How Labor Powers the Global Economy: Uma abordagem probabolística da teoria do trabalho no capitalismo.
+11.  How Labor Powers the Global Economy: Uma abordagem probabolística da teoria do trabalho no capitalismo[^4].
 
 [^1]: Os capítulos X e X são baseados nos artigos X e X.
 [^2]: Outros trabalhso relacionados a este artigo são [Inequality in a model of capitalist economy](https://arxiv.org/abs/2410.22369),[Agent-Based Models, MacroeconomicScaling Laws and Sentiment Dynamics](https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00004144/thesis_linlin.pdf), [Implicit Microfoundations for Macroeconomics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1726698#) e [Exploring the Social-Architecture Model](link.springer.com/article/10.1057/s41302-018-0114-9).
 [^3]: Outro famoso relatório é produzido pelo [UBS](https://www.ubs.com/us/en/wealth-management/insights/global-wealth-report.html), também há dados disponíveis no [World Inequality Database](https://wid.world/) e no livro do Piketty: O Capital no Século XXI.
-
-
+[^4]: Há um livro anterior a este dos mesmos autores, apesar de eu não ter lido, ele é muito influente e parece também abordar o problema da transofrmação: Laws of Chaos: A Probabilistic Approach to Political Economy.
 
