@@ -13,7 +13,7 @@ Recommended Reading List[^5]:
 11.  [The Emergence of the Law of Value in a Dynamic Simple Commodity Economy](https://www.tandfonline.com/doi/abs/10.1080/09538250701661889): Probabilistic approach to the law of value.
 12.  Laws of Chaos - A Probabilistic Approach to Political Economy:  A probabilistic approach Economy.
 13.  How Labor Powers the Global Economy and: A probabilistic approach to labor theory in capitalism.
-14.  [Some Universal Patterns in Income Distribution: An Econophysics Approach](https://www.economicpolicyresearch.org/econ/2018/NSSR_WP_082018.pdf): A work on inequality by one of the most influential economists of our time.
+14.  [Some Universal Patterns in Income Distribution: An Econophysics Approach](https://www.economicpolicyresearch.org/econ/2018/NSSR_WP_082018.pdf): A work on inequality by one of a influential economist.
 
 [^1]: Chapters 7 and 8 are based on topics explored in the paper Monetary Economics from an Econophysics Perspective. Chapter 9 in the paper The Emergence of the Law of Value in a Dynamic Simple Commodity Economy. Chapter 10 in the books How Labor Powers the Global Economy and Laws of Chaos: A Probabilistic Approach to Political Economy. Chapter 13 in Social Architecture of Capitalism.  
 [^2]: Other works related to this paper include [Inequality in a Model of Capitalist Economy](https://arxiv.org/abs/2410.22369), [Agent-Based Models, Macroeconomic Scaling Laws and Sentiment Dynamics](https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00004144/thesis_linlin.pdf), [Implicit Microfoundations for Macroeconomics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1726698#), and [Exploring the Social-Architecture Model](link.springer.com/paper/10.1057/s41302-018-0114-9).  
