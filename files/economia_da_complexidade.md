@@ -27,6 +27,8 @@ Nesta linha,Farmer afirma que é necessário admitir a ineficiência do sistema 
 
 Também é de se comentar a instabilidade do capitalismo que opera em ciclos, e  uma forte crítica à dependência de modelos de equilíbrio (e noto que principalmente equilíbrio mecânico) na economia tradicional.
 
+To aqui : Sobre Econofísica ou Economia Evolucionária
+
 
 
 
