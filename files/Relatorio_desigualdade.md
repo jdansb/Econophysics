@@ -67,7 +67,7 @@ As a wealth redistribution measure, there is the proposal of a universal basic i
 
 Opponents, however, argue that there is a negative incentive, functioning as a disincentive to work. It is important to note that the effectiveness of any public policy depends on how the program interacts with a broader welfare system. As a complement, UBI can have an equalizing effect; however, as a substitute for all programs, it could worsen inequality. The greatest challenge concerns the resources required to fund the program. Finland conducted a pilot study between 2017 and 2018, and preliminary results indicate that UBI had no effect on employment levels but increased confidence in individuals' physical and mental well-being, as well as trust in institutions.
 
-# Relatório Global Wealth Report
+# Global Wealth Report
 
 The UN report is already quite comprehensive for an introduction. For a deeper dive into the topic, I would recommend Piketty's book *Capital in the Twenty-First Century*. However, since I already have some notes on the UBS report, I will use them to make a few additional comments. This report was created by two banks and is the most up-to-date source on wealth distribution in the world; interestingly, one of the two banks self-declares as the largest global wealth manager.
 
