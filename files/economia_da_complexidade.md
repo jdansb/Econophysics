@@ -132,3 +132,24 @@ Conventional economics understands the balance-sheet network from the top down t
 
 
 ### Sistema Financeiro
+
+ Farmer, afirma a função essencial da Economia ser estruturar e coordenar o nosso trabalho e alocar recursos, entre os quais, o capital humano. Em uma economia próspera, os indivíduos são, coletivamente, muito mais eficazes se comparados à situação de sobreviver sozinhos. O sistema financeiro se propõe a desempenhar um papel essencial na orientação desta coordenação do coletivo. A função fundamental do sistema financeiro é orientar e controlar a economia, determinando o necessário ou não a produzir. Assim ele desempenha um papel-chave no processamento de informações e no fornecimento de indicadores para a tomada de decisões de alocação de capital.
+
+Porém Farmer tem dúvida se os principais componentes do sistema financeiro não fazem nada mais além de atuar como um casino global para os próprios ricos, enquanto desestabiliza a economia com poucos benefícios positivos para a economia como um todo. 
+
+A Hipótese dos Mercados Eficientes de Eugene Fama argumenta que o sistema financeiro funciona perfeitamente, enquanto a Teoria da Ecologia de Mercado de J. Doyne Farmer sugere as ineficiências serem inerentes ao sistema e essenciais para a compreensão de suas falhas. Questiona se seu crescimento reflete uma necessidade real de processamento de informações
+ou se representa um desvio disfuncional.
+
+O debate, nos anos 90s, era dominado por Eugene Fama, professor da Escola de Negócios da Universidade de Chicago e vencedor do Prêmio Nobel de Economia em 2013, considerado por economistas ortodoxos como “o pai das Finanças modernas”. Defendeu a Hipótese dos Mercados Eficientes (HME), afirmando ser impossível obter uma vantagem através da previsão dos preços das ações.
+
+A HME decorre automaticamente da suposição de expectativas racionais. Se os investidores forem racionais, então os preços do mercado de ações deverão refletir de forma completa e precisa toda a informação disponível sobre os fundamentos de cada sociedade aberta – e os preços deverão mudar apenas quando nova informação entrar no mercado. Novas informações são, por definição, imprevisíveis (ou não seriam novas), portanto, as mudanças futuras nos preços devem ser aleatórias. 
+
+Em 1991, Farmer e colegas fundaram a Prediction Company.  Naquela altura, sabiam muito pouco sobre Finanças ou Economia, por
+isso tratavam o mercado de ações como um vasto fluxo de números. A estratégia foi encontrar “padrões de previsibilidade” nos preços históricos utilizando a aprendizagem automática e outros métodos estatísticos. O desempenho mostrou que com a informação certa e o modelo certo, é possível tirar partido dos padrões ocultos nos preços das ações. Provaram, estritamente falando, a Hipótese dos Mercados Eficientes está errada.
+
+A expressão “eficiência de mercado” tem dois sentidos:
+
+1. Eficiência alocativa: significa os preços serem sempre definidos corretamente, de modo o esforço ser alocado de forma adequada à elevação dos preços das ações.
+2. Eficiência informacional: significa não ser possível aumentar os lucros fazendo melhores previsões sobre os preços das ações.
+
+Prediction Company obteve sucesso ao explorar padrões e anomalias nos preços das ações. Não poderiam existir se os mercados fossem perfeitamente eficientes. Essas ineficiências, segundo Farmer, são negligenciadas ou incorporadas artificialmente nos modelos tradicionais. Ocorre, simplesmente por conservadorismo, isto é, para manter a ideia de eficiência do livre mercado
