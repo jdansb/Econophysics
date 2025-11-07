@@ -3,7 +3,7 @@ Recommended Reading List[^5]:
 1.  [Sustainable Development Outlook 2019](https://digitallibrary.un.org/record/3841597?v=pdf): UN report on economic inequality (Chapter 1) and how to address it (Chapter 4)[^3].
 2.  Introduction to Political Economy Course (Paul Singer): A quick introductory course on economics.
 3.  [Philosophy of Econophysics](https://www.rep.routledge.com/papers/thematic/philosophy-of-econophysics/v-1/bibliography/philosophy-of-econophysics-bib#Q143BIBENT3): What econophysics is, from a philosophical perspective.
-4.  [Economics of Complexity](https://fernandonogueiracosta.wordpress.com/wp-content/uploads/2024/09/fernando-nogueira-da-costa-economia-da-complexidade-ou-econofisica-ago-2024.pdf): What econophysics is, from an economist's perspective.
+4.  [Complexity Economics](https://fernandonogueiracosta.wordpress.com/wp-content/uploads/2024/09/fernando-nogueira-da-costa-economia-da-complexidade-ou-econofisica-ago-2024.pdf): What econophysics is, from an economist's perspective.
 5.  [Statistical Laws in Complex Systems](https://arxiv.org/abs/2407.19874): On the use of statistical laws in the study of complex systems (Chapter 1).
 6.  An Introduction to Agent-Based Modeling: Why to use it and what an agent-based model is (Chapters 0 and 1).
 7.  Classical Econophysics: Evolution of value theory (Chapter 6), money and credit (Chapter 11), banking (Chapter 12), profit (Chapter 14), and the issue of economic calculation (Chapter 15)[^1].
