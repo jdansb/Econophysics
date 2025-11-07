@@ -54,7 +54,7 @@ Essa contraposição reflete-se no pensamento filosófico, científico e social,
 
 Existe um modelo padrão para a construção de teorias econômicas no qual se incorpora a capacidade de raciocínio dos agentes. Este modelo, ligada à teoria econômica padrão, atribui a cada agente uma função de utilidade descrevendo suas preferências – e como maximizar sua própria utilidade/felicidade. Equações expressam isso em termos matemáticos.
 
-A Economia da Complexidade oferece uma alternativa completamente diferente ao usar ideias e métodos da ciência dos sistemas complexos, um movimento transdisciplinar. Estuda fenômenos sistêmicos emergentes. Estes ocorrem quando o comportamento de um sistema como um todo é qualitativamente diferente daquele de suas partes individuais ou componentes interativos.
+A Economia da Complexidade oferece uma alternativa completamente diferente ao usar ideias e métodos da ciência dos sistemas complexos, um movimento transdisciplinar que estuda fenômenos emergente em sistemas complexos. Estes ocorrem quando o comportamento de um sistema como um todo é qualitativamente diferente daquele de suas partes individuais ou componentes interativos.
 
 Economia da Complexidade assume os agentes serem limitadamente racionais, ou seja, eles tomam decisões imperfeitas e têm capacidade limitada de raciocinar. Os agentes até aprendem a atingir metas, mas normalmente eles as alcançam apenas parcialmente. Sas decisões são descentralizadas e deescordenadas.
 
@@ -96,4 +96,31 @@ ansdisciplinar, cujas ideias têm a influenciado significativamente, mostrou com
 
 Enquanto os economistas da complexidade ficam à margem da economia acadêmica, seus modelos estão começando a receber apoio de instituições insatisfeitas com as ferramentas convencionais. Inclui alguns Bancos Centrais de vanguarda para monitorar os mercados financeiros a fim de evitar novo colapso. A nova ciência da Economia da Complexidade envolve uma mudança radical na forma como a Economia é ensinada. O fato de a estrutura intelectual ser tão diferente significa uma reformulação completa das ferramentas, base de habilidades e conhecimento, ou seja, uma mudança cultural radical. Uma mudança tão importante é fortemente contestada pela corrente dominante, aliás, como as revoluções sempre são.
 
-### Equilíbrio
+### Capacidade de predição
+
+Os economistas ortodoxos geralmente simplesmente presumem os preços estarem em equilíbrio, definido como o ponto onde a oferta é igual à demanda. Porém, na verdade, na maioria dos mercados, as transações são feitas a preços onde a oferta não é igual à procura. Uma das contribuições da Economia da Complexidade é compreender como os preços se movem quando os mercados
+operam fora de equilíbrio. Vê a economia como um sistema complexo em evolução.
+
+Farmer desejava se afastar da abordagem reducionista. Quando estava na pós-graduação, descobriu a Cibernética, a precursora da teoria dos sistemas complexos.  Embora a maioria dos economistas tenha alguns consensos, eles adotam uma série de modelos diferentes e fazem previsões divergentes. Seus leitores ou ouvintes ficam livres para escolher o modelo mais benéfico, para si, baseado em ideologia, política ou interesse próprio.
+
+O objetivo no citado livro é apresentar uma visão de como podemos construir modelos capazes de fazer as melhores previsões econômicas. Surpreendentemente, muitos economistas não concordam com a importância deste objetivo, pois a precisão preditiva raramente é enfatizada na pesquisa econômica. Nesse sentido, difere da pesquisa na Física.
+
+Farmer argumenta: modelos com previsões fracas são limitados na sua capacidade de promover a compreensão econômica do mundo. Pergunta: se não pudermos fazer previsões confiáveis, então como sabemos se a estrutura conceitual, para pensar sobre o mundo e avaliar as escolhas políticas, está correta?
+
+Nunca seremos capazes de prever a economia com perfeição – longe disso – mas podemos fazer muito melhor diante do que foi feito até agora. Sim, predição é difícil, mas há muitos exemplos de boas previsões, até mesmo do futuro.
+
+
+Mudanças na economia se enquadram em duas categorias básicas: vindas de fora do sistema econômico ou geradas dentro.
+- Explicação padrão: A explicação oferecida pelos modelos econômicos padrão laissez-faire é as mudanças na economia sempre serem iniciadas por influências externas, chamadas de choques exógenos: eventos aleatórios provenientes de fora da economia e, por definição, imprevisíveis.
+- Explicação alternativa: A explicação alternativa ou heterodoxa é a mudança vir de dentro, ou, em jargão técnico, o movimento é endógeno: a economia muda por conta própria devido a fatores internos. Na realidade, é uma mistura dos dois – às vezes a economia responde a choques externos, às vezes as mudanças surgem de dentro, e às vezes ambos os tipos de causas atuam ao mesmo tempo.
+
+Os modelos capazes de descreverem como as coisas mudam ao longo do tempo são conhecidos como sistemas dinâmicos. A maioria dos sistemas dinâmicos tem o chamado de atrator. Este atrator determina seu comportamento em longo prazo, isto é, para qual estado o sistema tende a evoluir e entrar em equilíbrio. Porém há um atrator com uma natureza muito diferente aos quais os físicos estavam acostumados e foi apropriadamente chamado de atrator caótico. O movimento que ele produz passou a ser
+chamado caos.
+
+O caos é caracterizado por duas propriedades essenciais: primeira, a dependência sensível das condições iniciais; a segunda é o movimento endógeno, ou seja, mesmo caso não haja choques externos, opara praticamente qualquer condição inicial que não seja um ponto de equilíbrio instável, o sistema exibirá um movimento contínuo e aperiódico.
+
+Daí Farmer lança a questão-chave: a economia é caótica? A Ciência Econômica tradicional não enfrenta o caos. Um problema com os modelos macroeconômicos prevalecentes é eles terem apenas atratores de ponto fixo. Então, se o mercado for deixado em paz, ele entrará em um estado de repouso e permanecerá lá para sempre. Isto implica, para os economistas ortodoxos, todas as crises de mudanças na economia só serem impulsionadas por eventos externos, jamais pelo livre mercado.
+
+Para explicar por qual razão a economia de mercado muda, os economistas têm de postular a existência de choques capazes de afastar o modelo de o equilíbrio. Eles não preveem os choques, só como a economia relaxará de volta ao equilíbrio. Para a economia da complexidadde, se a economia produz movimento endógeno sem ser um simples ciclo limite ou uma combinação de ciclos limites, a hipótese é ser devido ao caos. Em modelos de economia complexa, o caos é comum. Explica como a aleatoriedade emerge da ordem, mas é apenas um pequeno subcampo dentro de sistemas complexos.
+
+### Economia é um Sistema Complexo
