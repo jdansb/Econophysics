@@ -14,41 +14,38 @@ Economists labeled as heterodox engage in Econophysics when they incorporate the
 
 The theoretical avant-garde of economists aims to develop a Social Physics in order to expand socioeconomic and political thinking, including not only competitive forces but also exchanges of ideas, information, and pressures for social status, in order to better explain collective human behavior. It seeks to explain how social interactions generate the dynamic self-organization of the economy as a complex system—that is, to understand how from the social interactions of system components, from individual agents to the community, the market, and the state, a networked society emerges.
 
-## Dando Sentido ao Caos
+## Making Sense of Chaos
 
-J. Doyne Farmer é um empresário americano, cientista de sistemas complexos e autor do livro "Making Sense of Chaos: A Better Economics". Nele, apesar de levar dez anos para o escrever, o físico expõe parcialmente sua pesquisa atual em Economia, incluindo Modelagem Baseada em Agente (MBA), instabilidade financeira e progresso tecnológico.
+J. Doyne Farmer is an American entrepreneur, complex systems scientist, and author of the book *Making Sense of Chaos: A Better Economics*. Although it took him ten years to write, in it the physicist partially presents his current research in economics, including Agent-Based Modeling (ABM), financial instability, and technological progress.
 
-O impacto econômico da pandemia de COVID combinou três características excepcionais de modo os modelos-padrão serem inadequados: 
-1. Os choques foram específicos para cada setor, tornando essencial modelar a economia com muita resolução;
-2. Os choques afetaram simultaneamente a oferta e a procura;
-3. Oos choques foram muito fortes e muito rápidos.
+The economic impact of the COVID pandemic combined three exceptional characteristics that made standard models inadequate:  
+1. The shocks were sector-specific, making it essential to model the economy with high resolution;  
+2. The shocks simultaneously affected both supply and demand;  
+3. The shocks were very strong and occurred very rapidly.
 
-Modelos econômicos convencionais só esperam passivamente a reversão ao equilíbrio, ou seja, a oferta e a procura se tornarem iguais. Precisava-se de construir muito rapidamente um modelo heterodoxo para acompanhar a dinâmica dos choques sem assumir a
-existência do equilíbrio. Os economistas da complexidade forneceram um modelo que tinha o chamado de verossimilhança: tornou os mecanismos mais importantes capazes de afetar a economia com realismo suficiente para fornecer previsões precisas. Forneceu uma prova de princípio da utilidade da Economia da Complexidade, o tema do livro de Farmer: a história de uma
-descoberta científica
+Conventional economic models passively wait for a return to equilibrium—that is, for supply and demand to become equal. It was therefore necessary to quickly build a heterodox model capable of tracking the dynamics of the shocks without assuming the existence of equilibrium. Complexity economists provided a model that achieved what is called *verisimilitude*: it made the most important mechanisms capable of affecting the economy realistic enough to deliver accurate forecasts. This served as a proof of concept for the usefulness of Complexity Economics—the central theme of Farmer’s book.
 
-A Economia da Complexidade é um movimento transdisciplinar de economistas rebeldes contra a ortodoxia e outros cientistas. Visa compreender melhor a economia, usando princípios completamente diferentes daqueles da economia padrão. O modelo COVID foi o primeiro a usar métodos de economia complexa para fazer uma previsão precisa de um evento econômico importante, superando os modelos padrão. 
+Complexity Economics is a transdisciplinary movement of rebellious economists and other scientists against orthodoxy. It seeks to better understand the economy by using principles entirely different from those of standard economics. The COVID model was the first to use methods of complex economics to make an accurate prediction of a major economic event, outperforming traditional models.
 
-Os pressupostos centrais da economia dominante não correspondem à realidade, e os métodos baseados neles não escalam bem desde pequenos problemas até grandes problemas, e são incapazes de aproveitar ao máximo os enormes avanços em dados e
-tecnologia. As respostas erradas da teoria econômica padrão fornecem uma justificativa para a inação, ou seja, o ultrapassado laissez-faire com mercado livre.
+The core assumptions of mainstream economics do not correspond to reality, and methods based on them do not scale well from small to large problems. Moreover, they fail to take full advantage of huge advances in data and technology. The incorrect answers of standard economic theory end up justifying inaction—namely, the outdated laissez-faire approach of the free market.
 
-### Diferença filosófica
 
-O diagnóstico do físico simulacro de economista, J. Doyne Farmer, no livro Making Sense of Chaos: A Better Economics (2024), é que os problemas enfrentados pela economia ortodoxa é inerentes à estrutura conceitual dominante na profissão. Esta estrutura conceitual “Não é adequada para lidar com grandes, bagunçados, complicados, problemas do mundo real”.
+### Philosophical Difference
 
-A Filosofia Idealista e a Filosofia Materialista são duas tradições filosóficas do mundo ocidental. Diferem radicalmente em suas abordagens sobre a natureza da realidade, a origem do conhecimento, e a relação entre mente e matéria
+The diagnosis made by the physicist turned quasi-economist, J. Doyne Farmer, is that the problems faced by orthodox economics are inherent to the conceptual structure dominant within the profession. This conceptual framework, he argues, “is not suitable for dealing with large, messy, complicated, real-world problems.”
 
-A Filosofia Idealista enfatiza a primazia das ideias, da mente ou da consciência como a base da realidade. Para os idealistas, a realidade é, em última análise, mental ou espiritual – e não física . Para ela, a existência material depende da percepção mental. Os objetos existem apenas quando são percebidos por uma mente. As entidades materiais são manifestações ou representações de uma realidade espiritual subjacente. O conhecimento seria obtido independentemente da experiência
-sensorial, através da razão ou da introspecção. Certas categorias de entendimento (como espaço e tempo) seriam inatas e estruturariam nossa experiência no mundo.
+Idealist Philosophy and Materialist Philosophy are two major philosophical traditions in the Western world. They differ radically in their approaches to the nature of reality, the origin of knowledge, and the relationship between mind and matter.
 
-Em contraponto, a Filosofia Materialista enfatiza a primazia da matéria como a base de toda a realidade. Para os materialistas, a consciência e as ideias são produtos de processos materiais. A matéria é a substância fundamental do universo, e todos os fenômenos, incluindo a consciência, resultam de interações materiais. O pensamento e a consciência são produtos da atividade material do cérebro. A realidade última é física e possível de ser compreendida através do
-estudo das propriedades e interações materiais. 
+Idealist Philosophy emphasizes the primacy of ideas, mind, or consciousness as the foundation of reality. For idealists, reality is ultimately mental or spiritual—not physical. According to this view, material existence depends on mental perception: objects exist only when they are perceived by a mind. Material entities are manifestations or representations of an underlying spiritual reality. Knowledge, in turn, is obtained independently of sensory experience, through reason or introspection. Certain categories of understanding are considered innate and serve to structure our experience of the world.
 
-Por exemplo, a visão de Karl Marx era a infraestrutura econômica (relações de produção e forças produtivas) que determinava a superestrutura social (instituições políticas, culturais etc.). Nessa linha de pensamento, o conhecimento é obtido principalmente através da experiência sensorial e da observação empírica. Cientistas materialistas como os físicos modernos, tipo J. Doyne Farmer, baseiam seu entendimento do universo em experimentação e observação empírica. A realidade existe independentemente das percepções humanas. 
+In contrast, Materialist Philosophy emphasizes the primacy of matter as the foundation of all reality. For materialists, consciousness and ideas are products of material processes. Matter is the fundamental substance of the universe, and all phenomena—including consciousness—arise from material interactions. Thought and consciousness are the results of the brain’s material activity. Ultimate reality is physical and can be understood through the study of material properties and interactions.
 
-Por essa divisão epistemológica, os economistas idealistas colocam ênfase na importância das ideias, valores espirituais e morais, da introspecção – e da ideologia neoliberal! Em oposição, os materialistas colocam ênfase na análise econômica, na ciência empírica e na mudança material das condições sociais.
+For example, Karl Marx’s view was that the economic infrastructure (relations of production and productive forces) determines the social superstructure (political, cultural, and ideological institutions). In this line of thought, materialist scientists, such Doyne Farmer, base their understanding of the universe on experimentation and empirical evidence. Reality exists independently of human perception.
 
-Essa contraposição reflete-se no pensamento filosófico, científico e social, influenciando debates sobre a natureza do ser, do conhecimento e da sociedade. No caso de J. Doyne Farmer, por teoria, quer dizer construir modelos do mundo com base em suposições sobre como ele funciona.
+Because of this epistemological divide, idealist economists place emphasis on ideas, moral and spiritual values, introspection—and on neoliberal ideology itself! In contrast, materialists emphasize economic analysis, empirical science, and the material transformation of social conditions.
+
+This opposition is reflected in philosophical, scientific, and social thought, shaping debates about the nature of being, knowledge, and society. In the case of J. Doyne Farmer, by “theory,” he means building models of the world based on assumptions about how it actually works.
+
 
 ### Modelagem baseada em agentes
 
