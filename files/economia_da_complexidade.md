@@ -150,5 +150,7 @@ According to Minsky, capitalist economies are inherently unstable due to the cyc
 
 To mitigate the inherent instability of financial systems, government intervention is necessary. This includes financial regulation, active fiscal and monetary policies, and a Central Bank acting as the lender of last resort. In a way, as we have already discussed in [monetary economics from an econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/monetary.ipynb).
 
+To conclude the topic, returning to the discussion about market efficiency, even when using the assumption of rational agents, John Geanakoplos’s Leverage Cycle Theory provides an example of how institutional structure can cause market inefficiency. Even if the market is informationally efficient—that is, if no one can obtain excess profits—it is far from allocative efficiency.
 
-Ciclos de Alavancagem Dinanceira
+
+#Conclusion
