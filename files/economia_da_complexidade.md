@@ -32,6 +32,8 @@ A Economia da Complexidade é um movimento transdisciplinar de economistas rebel
 Os pressupostos centrais da economia dominante não correspondem à realidade, e os métodos baseados neles não escalam bem desde pequenos problemas até grandes problemas, e são incapazes de aproveitar ao máximo os enormes avanços em dados e
 tecnologia. As respostas erradas da teoria econômica padrão fornecem uma justificativa para a inação, ou seja, o ultrapassado laissez-faire com mercado livre.
 
+### Diferença filosófica
+
 O diagnóstico do físico simulacro de economista, J. Doyne Farmer, no livro Making Sense of Chaos: A Better Economics (2024), é que os problemas enfrentados pela economia ortodoxa é inerentes à estrutura conceitual dominante na profissão. Esta estrutura conceitual “Não é adequada para lidar com grandes, bagunçados, complicados, problemas do mundo real”.
 
 A Filosofia Idealista e a Filosofia Materialista são duas tradições filosóficas do mundo ocidental. Diferem radicalmente em suas abordagens sobre a natureza da realidade, a origem do conhecimento, e a relação entre mente e matéria
@@ -48,32 +50,50 @@ Por essa divisão epistemológica, os economistas idealistas colocam ênfase na 
 
 Essa contraposição reflete-se no pensamento filosófico, científico e social, influenciando debates sobre a natureza do ser, do conhecimento e da sociedade. No caso de J. Doyne Farmer, por teoria, quer dizer construir modelos do mundo com base em suposições sobre como ele funciona.
 
-----
+### Modelagem baseada em agentes
 
-O sistema de preços relativos é considerado a pedra-de-toque do pensamento econômico ultraliberal: um meio de avaliar, padrão ou referência para a Economia. No sistema econômico de livre-mercado, os preços têm a função de equilibrar as decisões de milhões de indivíduos de interesses muitas vezes competitivos, assegurando coesão à economia como um todo.
+Existe um modelo padrão para a construção de teorias econômicas no qual se incorpora a capacidade de raciocínio dos agentes. Este modelo, ligada à teoria econômica padrão, atribui a cada agente uma função de utilidade descrevendo suas preferências – e como maximizar sua própria utilidade/felicidade. Equações expressam isso em termos matemáticos.
+
+A Economia da Complexidade oferece uma alternativa completamente diferente ao usar ideias e métodos da ciência dos sistemas complexos, um movimento transdisciplinar. Estuda fenômenos sistêmicos emergentes. Estes ocorrem quando o comportamento de um sistema como um todo é qualitativamente diferente daquele de suas partes individuais ou componentes interativos.
+
+Economia da Complexidade assume os agentes serem limitadamente racionais, ou seja, eles tomam decisões imperfeitas e têm capacidade limitada de raciocinar. Os agentes até aprendem a atingir metas, mas normalmente eles as alcançam apenas parcialmente. Sas decisões são descentralizadas e deescordenadas.
+
+Segundo J. Doyne Farmer, embora use equações também, a simulação computacional é o carro-chefe da Economia da Complexidade. A tecnologia digital lhe permite criar análogos do mundo real com apoio de computador. Os cientistas estão usando simulações de computador para estudar quase tudo que pode ser interpretado como um sistema complexo. Os economistas tradicionais usam computadores para resolver equações, mas isto não é simulação, no sentido moderno.
+
+As simulações, usadas na Economia da Complexidade, são chamadas de Modelos Baseados em Agentes. Um Modelo Baseado em Agentes (MBA) é uma abordagem de simulação computacional usada para estudar sistemas complexos compostos por múltiplos agentes interagentes. Esse modelo é útil em várias disciplinas, incluindo Economia, Sociologia, Ecologia e Ciência da Computação, para entender como as interações locais entre agentes individuais podem levar a padrões emergentes em nível macro.
+
+Um MBA é uma classe de modelos computacionais onde o comportamento de um sistema é simulado por meio das interações entre
+agentes autônomos e individuais. Esses agentes representam pessoas, empresas ou qualquer entidade capaz de tomar decisões com base em regras simples.
+
+- *Agentes*: São entidades individuais com comportamentos específicos e capacidades de tomar decisões. Cada agente opera de acordo com um conjunto de regras ou algoritmos definidoras de suas ações. Têm atributos como memória, capacidade de aprendizado, objetivos, e estratégias de tomada de decisão.
+- *Ambiente*: é o espaço onde os agentes interagem. Pode ser físico, como um território nacional, ou abstrato, como uma rede de interações sociais. Tem suas próprias regras e dinâmicas. Como restrições espaciais ou recursos disponíveis, elas afetam os agentes.
+- *Interações*: ocorrem entre agentes e entre agentes e o ambiente, são fundamentais para o MBA. Trocas econômicas, cooperação, competição, comunicação e migração são exemplos de interações possíveis.
+- *Regras de comportamento*: determinam como os agentes tomam decisões com base em seu estado interno e no estado do ambiente, determinando então como ocorre as interações. Entre outras, incluem algoritmos de otimização, heurísticas simples, aprendizado de máquina ou modelos baseados em lógica.
+- *Simulação computacional*: envolve a execução do modelo ao longo do tempo, permitindo as interações e comportamentos dos agentes evoluírem. O tempo é representado de maneira discreta ou contínua. A evolução do sistema é observada através das mudanças no estado dos agentes e do ambiente.
+
+No contexto dos MBAs, a agência refere-se à capacidade dos agentes de tomar decisões de forma autônoma e de agir com base nessas decisões. A agência é crucial porque permite cada agente contribuir para o comportamento emergente do sistema como um todo. Agentes têm a capacidade de agir de acordo com suas próprias regras e objetivos, sem a necessidade de uma coordenação centralizada. Costumam ser diferentes uns dos outros em termos de atributos, comportamentos e objetivos, refletindo a diversidade encontrada em sistemas reais, onde predomina a heterogeneidade.
+
+Embora as decisões sejam tomadas localmente por cada agente, as interações coletivas levam até a padrões globais emergentes. Eles não são facilmente previsíveis a partir do comportamento individual.Exemplos de aplicação de MBAs estão se somando na economia, na sociologia (ex: disseminação de informações), na ecologia (ex: dinâmica de populações), entre outras áreas. Portanto, MBA são ferramentas úteis para entender sistemas complexos, onde o comportamento emergente resulta das interações de muitos agentes autônomos.
+
+Há muitas vantagens em usar simulações em vez de calcular equações matemáticas. Dá a capacidade de modelar a diversidade dos intervenientes no mundo – chamada por esses economistas de heterogeneidade. A teoria econômica padrão assume as transações só ocorrerem quando a oferta é igual à procura, um estado chamado equilíbrio. Modelos de economia complexa, em contraste, consideram algum equilíbrio quando isso acontece, eventualmente, como uma propriedade emergente.
+
+Tomados em conjunto, todos esses elementos levam a uma maneira muito diferente de lidar com a mudança. Ela não só vem “de fora”, mas também vem “de dentro”, quando as forças de mercado agem sobre si mesma. A economia padrão tem dificuldade em lidar com mudanças surgidas dentro do livre-mercado. Os modelos convencionais da crise financeira postulavam apenas ter “choques exógenos” como causas.
+
+A teoria econômica padrão produz modelos tratáveis em ambientes simples, mas isso falha quando as coisas ficam complicadas – fica muito difícil resolver as equações –, e fica cada vez mais difícil adicionar novos recursos a um modelo pré-existente. Como resultado, quando um problema fica complicado, os economistas tradicionais são forçados a simplificar demais,
+deixando o “espúrio” de fora. Fazer modelos realistas requer bons dados. Os MBA são naturalmente adequados para fazer uso das vastas quantidades de dados atualmente disponíveis sobre trilhões de transações registradas anualmente.
 
 
-De uma perspectiva filosófica, a Filosofia Idealista e a Filosofia Materialista são duas tradições filosóficas do mundo ocidental. Diferem radicalmente em suas abordagens sobre a natureza da realidade, a origem do conhecimento, e a relação entre mente e matéria.
+Esse modelo estuda a economia de baixo para cima: a macroeconomia emerge da microeconomia. Milton Friedman argumentou em favor de os modelos serem avaliados unicamente quanto às suas previsões, em vez de criticar a plausibilidade de
+suas suposições. Caso essas sejam irrealistas, os economistas deveriam as usar “como se” fossem verdadeiras. 
 
-A Filosofia Idealista enfatiza a primazia das ideias, da mente ou da consciência como a base da realidade. Para os idealistas, a realidade é, em última análise, mental ou espiritual. Para ela, a existência material depende da percepção mental. Os objetos existem apenas quando são percebidos por uma mente. A realidade última é de natureza espiritual ou mental – e não física. As entidades materiais são manifestações ou representações de uma realidade espiritual subjacente. O conhecimento seria obtido independentemente da experiência sensorial, através da razão ou da introspecção.
+Farmer adverte: deveríamos suspeitar muito de modelos exigentes de argumentos implausíveis do tipo “como se”. Deveríamos seguir o chamado de princípio da verossimilhança: os modelos devem se ajustar aos fatos e suas suposições devem ser plausíveis. Suposições irrealistas, desde o início, têm maior probabilidade de levar a conclusões falsas em vez de suposições plausíveis. 
 
-Em contraponto, a Filosofia Materialista enfatiza a primazia da matéria como a base de toda a realidade. Para os materialistas, a consciência e as ideias são produtos de processos materiais.A matéria é a substância fundamental do universo, e todos os fenômenos, incluindo a consciência, resultam de interações materiais. O pensamento e a consciência são produtos da atividade material do cérebro. A realidade última é física e possível de ser compreendida através do estudo das propriedades e interações materiais. Por exemplo, a visão de Karl Marx era a infraestrutura econômica (relações de produção e forças produtivas) determinar a superestrutura social (instituições políticas, culturais etc.).
+O princípio da verossimilhança reconhece: os modelos precisam conter as principais características dos fenômenos a explicar, mas não precisam ser representações literais do mundo. Os modelos por definição são abstrações, e não precisamos capturar todos os detalhes. Verossimilhança significa apenas capturar os componentes essenciais da forma mais realista possível. Bons modelos devem ser tão simples quanto possível.
 
-Nessa linha de pensamento, o conhecimento é obtido principalmente através da experiência sensorial e da observação empírica. Cientistas materialistas como os físicos modernos, tipo J. Doyne Farmer, baseiam seu entendimento do universo em experimentação e observação empírica. A realidade existe independentemente das percepções humanas e por isso, ela é estudada e compreendida objetivamente por economistas da complexidade.
+Os MBA podem ser complicados ou simples, afinal os computadores controlam facilmente detalhes complicados de equacionar matematicamente, possibilitando incluir quantos recursos precisarmos. Porém, é possíveladicionar novos recursos sem alterar os recursos existentes, aumentando gradativamente a verossimilhança do modelo mundial.
 
-Para economistas idealistas, o conhecimento foi obtido a priori, detectando a lógica do livre-mercado sem experiência sensorial. Para os materialistas, o conhecimento é obtido a posteriori, através da experiência e observação empírica. Para os materialistas a mente ou a consciência é um produto secundário de processos materiais. Para os idealistas fundamenta a própria existência da realidade material e em sua análise, a realidade (na forma como a percebemos ou concebemos) depende da mente para existir. Já para os materialistas, a realidade existe independentemente da mente humana e deve ser estudada objetivamente.
+ansdisciplinar, cujas ideias têm a influenciado significativamente, mostrou como a utlização de regras práticas de decisão são mais eficazes, em muitos contextos, diante os modelos de otimização tradicionais.
 
-Por essa divisão epistemológica, os economistas idealistas colocam ênfase na importância das ideias, valores espirituais e morais, da introspecção – e da ideologia neoliberal! Em oposição, os materialistas colocam ênfase na análise econômica, na ciência empírica e na mudança material das condições sociais.
+Enquanto os economistas da complexidade ficam à margem da economia acadêmica, seus modelos estão começando a receber apoio de instituições insatisfeitas com as ferramentas convencionais. Inclui alguns Bancos Centrais de vanguarda para monitorar os mercados financeiros a fim de evitar novo colapso. A nova ciência da Economia da Complexidade envolve uma mudança radical na forma como a Economia é ensinada. O fato de a estrutura intelectual ser tão diferente significa uma reformulação completa das ferramentas, base de habilidades e conhecimento, ou seja, uma mudança cultural radical. Uma mudança tão importante é fortemente contestada pela corrente dominante, aliás, como as revoluções sempre são.
 
-Milton Friedman afirmava que os modelos não deveriam ser avaliados quanto à plausibilidade de suas suposições, já Farmer, nos adverte de que deveríamos suspeitar de modelos que exigem argumentos implausíveis, pois suposições irrealistas desde o início, tem maior probabilidade de levar a conclusões falsas.
-
-Nesta linha,Farmer afirma que é necessário admitir a ineficiência do sistema financeiro, a hipótese dos mercados eficientes foi estritamente provada que está errada. A defesa da eficiência do livre mercado, mesmo contra todos os dados disponíveis, serve então de motivação para que os modelos tradicionais negligenciam ou incorporem artificialmente toda uma série de problemas. Há uma desconfiança de que “se os principais componentes do sistema financeiro não fazem nada mais além de atuar como um casino global para os próprios ricos, enquanto desestabiliza a economia com poucos benefícios positivos para a economia como um todo.” 
-
-Também é de se comentar a instabilidade do capitalismo que opera em ciclos, e  uma forte crítica à dependência de modelos de equilíbrio (e noto que principalmente equilíbrio mecânico) na economia tradicional.
-
-To aqui : Sobre Econofísica ou Economia Evolucionária
-
-
-
-
-
+### Equilíbrio
