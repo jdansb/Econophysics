@@ -82,7 +82,7 @@ This modeling approach studies the economy from the bottom up: macroeconomics em
 
 Farmer warns that we should be deeply suspicious of models that rely on implausible “as if” assumptions. Instead, we should follow what he calls the *principle of verisimilitude*: models should fit the facts, and their assumptions should be plausible. Unrealistic assumptions are more likely to lead to false conclusions than plausible ones.
 
-The principle of verisimilitude recognizes that models must include the key characteristics of the phenomena they aim to explain, but they don’t need to be literal representations of the world. By definition, models are abstractions; they don’t have to capture every detail. Verisimilitude simply means capturing the essential components as realistically as possible. Good models should be as simple as possible — but not too simple.
+The principle of verisimilitude recognizes that models must include the key characteristics of the phenomena they aim to explain, but they don’t need to be literal representations of the world. By definition, models are abstractions; they don’t have to capture every detail. Models operate within a specific environment and are not applicable in another due to contextual differences. They are not a general theory. Verisimilitude simply means capturing the essential components as realistically as possible. Good models should be as simple as possible — but not too simple.
 
 Agent-Based Models (ABMs) can be simple or complex, depending on necessity. After all, computers can easily handle details that are mathematically difficult to formulate, allowing us to include as many features as we need. Moreover, it is possible to add new features without altering existing ones, gradually increasing the realism of the world model. The transdisciplinary approach, whose ideas have significantly influenced this field, has shown that the use of practical decision-making rules is often more effective, in many contexts, than traditional optimization models.
 
@@ -153,4 +153,12 @@ To mitigate the inherent instability of financial systems, government interventi
 To conclude the topic, returning to the discussion about market efficiency, even when using the assumption of rational agents, John Geanakoplos’s Leverage Cycle Theory provides an example of how institutional structure can cause market inefficiency. Even if the market is informationally efficient—that is, if no one can obtain excess profits—it is far from allocative efficiency.
 
 
-#Conclusion
+## Conclusion
+
+Farmer predicts the development of computational policy laboratories capable of integrating data from various sources, including production, consumption, innovation, and financial systems. By leveraging the power of high-performance computing, these laboratories will run complex simulations to explore different policy scenarios and provide guidance for addressing problems such as climate change, inequality, and financial instability.
+
+In essence, Farmer’s guidance calls for a shift away from simplistic and abstract economic models toward a more empirical, dynamic, and evidence-based framework. By embracing complexity and the power of agent-based modeling, he believes that researchers and policymakers can gain deeper insights into how the economy works and develop more effective solutions to the pressing problems society faces.
+
+For this to be possible, one of the main obstacles preventing progress in Complexity Economics is the lack of comprehensive granular data on economic behavior. ABMs require much more detailed information to reach their full predictive potential. Ideally, the models would have access to data such as invoices, receipts, and supply chain information from companies around the world, along with behavioral indicators from households, such as decisions related to home purchases or consumption.
+
+Of course, one obstacle to this is the capitalist tendency to prioritize short-term gains over long-term considerations. There is a need to cultivate a long-term perspective by prioritizing sustainability, social well-being, and the health of the planet. This requires challenging existing norms and incentive structures.
