@@ -131,25 +131,16 @@ We take averages of economic activity measures for countries or regions and stud
 Conventional economics understands the balance-sheet network from the top down through the assumption that aggregates represent rational and uniform behavior of economic agents. Complexity Economics views it as woven from the bottom up because it observes heterogeneous behaviors at least at the level of the so-called institutional sectors.
 
 
-### Sistema Financeiro
+### Financial System
 
- Farmer, afirma a função essencial da Economia ser estruturar e coordenar o nosso trabalho e alocar recursos, entre os quais, o capital humano. Em uma economia próspera, os indivíduos são, coletivamente, muito mais eficazes se comparados à situação de sobreviver sozinhos. O sistema financeiro se propõe a desempenhar um papel essencial na orientação desta coordenação do coletivo. A função fundamental do sistema financeiro é orientar e controlar a economia, determinando o necessário ou não a produzir. Assim ele desempenha um papel-chave no processamento de informações e no fornecimento de indicadores para a tomada de decisões de alocação de capital.
+Farmer states that the essential function of the economy is to structure and coordinate our work and allocate resources, among which is human capital. In a prosperous economy, individuals are collectively far more effective compared to a situation in which each must survive alone. The financial system is supposed to play an essential role in guiding this collective coordination. The fundamental function of the financial system is to guide and control the economy, determining what is or is not necessary to produce. Thus, it plays a key role in processing information and providing indicators for capital-allocation decisions.
 
-Porém Farmer tem dúvida se os principais componentes do sistema financeiro não fazem nada mais além de atuar como um casino global para os próprios ricos, enquanto desestabiliza a economia com poucos benefícios positivos para a economia como um todo. 
+However, Farmer questions whether the main components of the financial system do anything more than act as a global casino for the wealthy themselves, while destabilizing the economy with few positive benefits for the economy as a whole.
 
-A Hipótese dos Mercados Eficientes de Eugene Fama argumenta que o sistema financeiro funciona perfeitamente, enquanto a Teoria da Ecologia de Mercado de J. Doyne Farmer sugere as ineficiências serem inerentes ao sistema e essenciais para a compreensão de suas falhas. Questiona se seu crescimento reflete uma necessidade real de processamento de informações
-ou se representa um desvio disfuncional.
+Eugene Fama’s Efficient Market Hypothesis argues that the financial system functions perfectly, whereas J. Doyne Farmer’s Market Ecology Theory suggests that inefficiencies are inherent to the system and essential for understanding its failures. It questions whether the system’s growth reflects a real need for information processing or represents a dysfunctional deviation.
 
-O debate, nos anos 90s, era dominado por Eugene Fama, professor da Escola de Negócios da Universidade de Chicago e vencedor do Prêmio Nobel de Economia em 2013, considerado por economistas ortodoxos como “o pai das Finanças modernas”. Defendeu a Hipótese dos Mercados Eficientes (HME), afirmando ser impossível obter uma vantagem através da previsão dos preços das ações.
+The debate in the 1990s was dominated by Eugene Fama, a professor at the University of Chicago Booth School of Business and winner of the 2013 Nobel Prize in Economics, regarded by orthodox economists as “the father of modern finance.” He defended the Efficient Market Hypothesis (EMH), claiming that it is impossible to gain an advantage by predicting stock prices.
 
-A HME decorre automaticamente da suposição de expectativas racionais. Se os investidores forem racionais, então os preços do mercado de ações deverão refletir de forma completa e precisa toda a informação disponível sobre os fundamentos de cada sociedade aberta – e os preços deverão mudar apenas quando nova informação entrar no mercado. Novas informações são, por definição, imprevisíveis (ou não seriam novas), portanto, as mudanças futuras nos preços devem ser aleatórias. 
+The EMH follows automatically from the assumption of rational expectations. If investors are rational, then stock market prices should fully and accurately reflect all available information about the fundamentals of each publicly traded company — and prices should change only when new information enters the market. New information is, by definition, unpredictable (or it would not be new), therefore future price changes must be random.
 
-Em 1991, Farmer e colegas fundaram a Prediction Company.  Naquela altura, sabiam muito pouco sobre Finanças ou Economia, por
-isso tratavam o mercado de ações como um vasto fluxo de números. A estratégia foi encontrar “padrões de previsibilidade” nos preços históricos utilizando a aprendizagem automática e outros métodos estatísticos. O desempenho mostrou que com a informação certa e o modelo certo, é possível tirar partido dos padrões ocultos nos preços das ações. Provaram, estritamente falando, a Hipótese dos Mercados Eficientes está errada.
-
-A expressão “eficiência de mercado” tem dois sentidos:
-
-1. Eficiência alocativa: significa os preços serem sempre definidos corretamente, de modo o esforço ser alocado de forma adequada à elevação dos preços das ações.
-2. Eficiência informacional: significa não ser possível aumentar os lucros fazendo melhores previsões sobre os preços das ações.
-
-Prediction Company obteve sucesso ao explorar padrões e anomalias nos preços das ações. Não poderiam existir se os mercados fossem perfeitamente eficientes. Essas ineficiências, segundo Farmer, são negligenciadas ou incorporadas artificialmente nos modelos tradicionais. Ocorre, simplesmente por conservadorismo, isto é, para manter a ideia de eficiência do livre mercado
+In 1991, Farmer and colleagues founded the Prediction Company. At that time, they knew very little about Finance or Economics, so they treated the stock market as a vast stream of numbers. Their strategy was to find “predictability patterns” in historical prices using machine learning and other statistical methods. Their performance showed that with the right information and the right model, it is possible to take advantage of hidden patterns in stock prices. They proved that, strictly speaking, the Efficient Market Hypothesis is wrong.
