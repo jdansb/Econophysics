@@ -143,4 +143,12 @@ The debate in the 1990s was dominated by Eugene Fama, a professor at the Univers
 
 The EMH follows automatically from the assumption of rational expectations. If investors are rational, then stock market prices should fully and accurately reflect all available information about the fundamentals of each publicly traded company — and prices should change only when new information enters the market. New information is, by definition, unpredictable (or it would not be new), therefore future price changes must be random.
 
+
 In 1991, Farmer and colleagues founded the Prediction Company. At that time, they knew very little about Finance or Economics, so they treated the stock market as a vast stream of numbers. Their strategy was to find “predictability patterns” in historical prices using machine learning and other statistical methods. Their performance showed that with the right information and the right model, it is possible to take advantage of hidden patterns in stock prices. They proved that, strictly speaking, the Efficient Market Hypothesis is wrong.
+
+According to Minsky, capitalist economies are inherently unstable due to the cyclical behavior of financial agents. Periods of stability generate behaviors that have the potential to lead to instability. During periods of prosperity, confidence increases, margins of safety shrink, and this leads to rising indebtedness and speculation. The result is financial crises.
+
+To mitigate the inherent instability of financial systems, government intervention is necessary. This includes financial regulation, active fiscal and monetary policies, and a Central Bank acting as the lender of last resort. In a way, as we have already discussed in [monetary economics from an econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/monetary.ipynb).
+
+
+Ciclos de Alavancagem Dinanceira
