@@ -88,31 +88,47 @@ Agent-Based Models (ABMs) can be simple or complex, depending on necessity. Afte
 
 While complexity economists remain at the margins of academic economics, their models are beginning to gain support from institutions dissatisfied with conventional tools. This includes some avant-garde Central Banks that use such models to monitor financial markets and prevent new collapses. The new science of Complexity Economics represents a radical shift in the way economics is taught. The fact that its intellectual structure is so different implies a complete reformulation of its tools, skill base, and body of knowledge — that is, a profound cultural transformation. Such a significant change is strongly resisted by the mainstream, as revolutions always are.
 
-### Capacidade de predição
+### Predictive Capacity
 
-Os economistas ortodoxos geralmente simplesmente presumem os preços estarem em equilíbrio, definido como o ponto onde a oferta é igual à demanda. Porém, na verdade, na maioria dos mercados, as transações são feitas a preços onde a oferta não é igual à procura. Uma das contribuições da Economia da Complexidade é compreender como os preços se movem quando os mercados
-operam fora de equilíbrio. Vê a economia como um sistema complexo em evolução.
+Orthodox economists generally assume that prices are in equilibrium, defined as the point where supply equals demand. However, in reality, in most markets, transactions occur at prices where supply does not equal demand. One of the contributions of Complexity Economics is understanding how prices move when markets operate out of equilibrium. It views the economy as an evolving complex system.
 
-Farmer desejava se afastar da abordagem reducionista. Quando estava na pós-graduação, descobriu a Cibernética, a precursora da teoria dos sistemas complexos.  Embora a maioria dos economistas tenha alguns consensos, eles adotam uma série de modelos diferentes e fazem previsões divergentes. Seus leitores ou ouvintes ficam livres para escolher o modelo mais benéfico, para si, baseado em ideologia, política ou interesse próprio.
+Farmer sought to move away from the reductionist approach. During graduate school, he discovered Cybernetics, the precursor to complex systems theory. Although most economists share some common ground, they adopt a variety of different models and make divergent predictions. Their readers are free to choose whichever model benefits them most, based on ideology, politics, or self-interest.
 
-O objetivo no citado livro é apresentar uma visão de como podemos construir modelos capazes de fazer as melhores previsões econômicas. Surpreendentemente, muitos economistas não concordam com a importância deste objetivo, pois a precisão preditiva raramente é enfatizada na pesquisa econômica. Nesse sentido, difere da pesquisa na Física.
+The goal in the aforementioned book is to present a view of how we can build models capable of producing the best economic predictions. Surprisingly, many economists do not agree on the importance of this goal, as predictive accuracy is rarely emphasized in economic research. In this sense, the field differs greatly from research in Physics.
 
-Farmer argumenta: modelos com previsões fracas são limitados na sua capacidade de promover a compreensão econômica do mundo. Pergunta: se não pudermos fazer previsões confiáveis, então como sabemos se a estrutura conceitual, para pensar sobre o mundo e avaliar as escolhas políticas, está correta?
+Farmer argues that models with weak predictive power are limited in their ability to improve our economic understanding of the world. He asks: if we cannot make reliable predictions, then how do we know whether the conceptual framework we use to think about the world and evaluate policy choices is correct?
 
-Nunca seremos capazes de prever a economia com perfeição – longe disso – mas podemos fazer muito melhor diante do que foi feito até agora. Sim, predição é difícil, mas há muitos exemplos de boas previsões, até mesmo do futuro.
+We will never be able to predict the economy perfectly — far from it — but we can do much better than what has been done so far. Yes, prediction is difficult, but there are many examples of good forecasts. Changes in the economy fall into two basic categories: those coming from outside the economic system and those generated internally.
+
+- **Standard explanation:** The explanation offered by standard laissez-faire economic models is that changes in the economy are always initiated by external influences, called exogenous shocks: random events originating outside the economy and, by definition, unpredictable.
+
+- **Alternative explanation:** The alternative or heterodox explanation is that change comes from within — in technical jargon, that movement is endogenous: the economy changes on its own due to internal factors.
+
+In reality, it is a mixture of both: sometimes the economy responds to external shocks, sometimes changes arise internally, and sometimes both types of causes act simultaneously.
+
+Models capable of describing how things change over time are known as dynamical systems. Most dynamical systems have what is called an attractor. This attractor determines their long-term behavior, that is, the state toward which the system tends to evolve and settle into equilibrium. However, there is an attractor with a very different nature from what physicists were used to, and it was appropriately called a chaotic attractor. The motion it produces came to be known as chaos.
+
+Chaos is characterized by two essential properties: first, sensitive dependence on initial conditions; second, endogenous motion, meaning that even if there are no external shocks, for practically any initial condition that is not an unstable equilibrium point, the system will display continuous and aperiodic movement.
+
+From this, Farmer raises the key question: is the economy chaotic? Traditional Economic Science does not confront chaos. A problem with prevailing macroeconomic models is that they have only fixed-point attractors. Thus, if the market is left alone, it will enter a resting state and stay there forever. This implies, for orthodox economists, that all crises or changes in the economy are driven only by external events, never by the free market itself.
+
+To explain why a market economy changes, economists have to postulate the existence of shocks capable of pushing the model away from equilibrium. They do not predict the shocks, only how the economy will relax back to equilibrium. For complexity economics, if the economy produces endogenous motion that is not a simple limit cycle or a combination of limit cycles, the hypothesis is that it is due to chaos. In models of complex economics, chaos is common. It explains how randomness emerges from order, but it is only a small subfield within complex systems.
+
+### The Economy as a Complex System
+
+Because the economy is a complex adaptive system, biological concepts such as metabolism, ecology, and evolution are very useful for thinking about it. They go beyond mere metaphors, because they contain general principles that help us understand how the economy is organized and how it functions. Adam Smith, in his book *The Wealth of Nations* (1776), had already described the economy as a complex system. In modern terms, he saw the economy as an emergent phenomenon.
+
+Understanding this system means thinking of the economy in terms of networks: they provide a universal language capable of describing and accounting for the operations of complex systems. Networks are one of the central ideas of Complexity Economics because they transmit behavior and accounting.
+
+Networks identify the essential building blocks of a complex system and provide a schematic view of their interactions. The skeleton of the modern economy is a vast network of balance sheets. Each balance sheet is a list of assets and liabilities, including both physical goods and services and contracts such as money. The nodes of the network correspond to any organization with a balance sheet, explicitly or implicitly, of accounting records.
+
+Complexity economists think of the economy schematically as an interaction between accounting and human decision-making. Accounting is represented by the network of balance sheets, and people make economic decisions. All these decisions constitute economic activity. To understand it, we need to study how human behavior interacts with the underlying network of balance sheets.
+
+Tracing and understanding the vast and complicated interconnected balance sheets of the globalized economy is a challenge. Modeling human decision-making, both as individuals and in groups, is an even greater challenge. Hence the need to simplify the problem. The balance-sheet network is divided into parts, and each part is aggregated.
+
+We take averages of economic activity measures for countries or regions and study their interactions. Macroeconomics studies the interactions of aggregated quantities such as GDP, unemployment, inflation and interest rates, exchange flows, within and between nations. Microeconomics studies the interactions of balance sheets on a more detailed scale, but without attempting to see the entire economy.
+
+Conventional economics understands the balance-sheet network from the top down through the assumption that aggregates represent rational and uniform behavior of economic agents. Complexity Economics views it as woven from the bottom up because it observes heterogeneous behaviors at least at the level of the so-called institutional sectors.
 
 
-Mudanças na economia se enquadram em duas categorias básicas: vindas de fora do sistema econômico ou geradas dentro.
-- Explicação padrão: A explicação oferecida pelos modelos econômicos padrão laissez-faire é as mudanças na economia sempre serem iniciadas por influências externas, chamadas de choques exógenos: eventos aleatórios provenientes de fora da economia e, por definição, imprevisíveis.
-- Explicação alternativa: A explicação alternativa ou heterodoxa é a mudança vir de dentro, ou, em jargão técnico, o movimento é endógeno: a economia muda por conta própria devido a fatores internos. Na realidade, é uma mistura dos dois – às vezes a economia responde a choques externos, às vezes as mudanças surgem de dentro, e às vezes ambos os tipos de causas atuam ao mesmo tempo.
-
-Os modelos capazes de descreverem como as coisas mudam ao longo do tempo são conhecidos como sistemas dinâmicos. A maioria dos sistemas dinâmicos tem o chamado de atrator. Este atrator determina seu comportamento em longo prazo, isto é, para qual estado o sistema tende a evoluir e entrar em equilíbrio. Porém há um atrator com uma natureza muito diferente aos quais os físicos estavam acostumados e foi apropriadamente chamado de atrator caótico. O movimento que ele produz passou a ser
-chamado caos.
-
-O caos é caracterizado por duas propriedades essenciais: primeira, a dependência sensível das condições iniciais; a segunda é o movimento endógeno, ou seja, mesmo caso não haja choques externos, opara praticamente qualquer condição inicial que não seja um ponto de equilíbrio instável, o sistema exibirá um movimento contínuo e aperiódico.
-
-Daí Farmer lança a questão-chave: a economia é caótica? A Ciência Econômica tradicional não enfrenta o caos. Um problema com os modelos macroeconômicos prevalecentes é eles terem apenas atratores de ponto fixo. Então, se o mercado for deixado em paz, ele entrará em um estado de repouso e permanecerá lá para sempre. Isto implica, para os economistas ortodoxos, todas as crises de mudanças na economia só serem impulsionadas por eventos externos, jamais pelo livre mercado.
-
-Para explicar por qual razão a economia de mercado muda, os economistas têm de postular a existência de choques capazes de afastar o modelo de o equilíbrio. Eles não preveem os choques, só como a economia relaxará de volta ao equilíbrio. Para a economia da complexidadde, se a economia produz movimento endógeno sem ser um simples ciclo limite ou uma combinação de ciclos limites, a hipótese é ser devido ao caos. Em modelos de economia complexa, o caos é comum. Explica como a aleatoriedade emerge da ordem, mas é apenas um pequeno subcampo dentro de sistemas complexos.
-
-### Economia é um Sistema Complexo
+### Sistema Financeiro
