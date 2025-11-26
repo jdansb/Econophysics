@@ -162,3 +162,33 @@ In essence, Farmer’s guidance calls for a shift away from simplistic and abstr
 For this to be possible, one of the main obstacles preventing progress in Complexity Economics is the lack of comprehensive granular data on economic behavior. ABMs require much more detailed information to reach their full predictive potential. Ideally, the models would have access to data such as invoices, receipts, and supply chain information from companies around the world, along with behavioral indicators from households, such as decisions related to home purchases or consumption.
 
 Of course, one obstacle to this is the capitalist tendency to prioritize short-term gains over long-term considerations. There is a need to cultivate a long-term perspective by prioritizing sustainability, social well-being, and the health of the planet. This requires challenging existing norms and incentive structures.
+
+# Models, theories, reality
+
+I was planning to discuss the paper [Econophysics for philosophers](https://www.sciencedirect.com/science/article/abs/pii/S1355219807000202) in the section [Filosofia da Econofísica](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md), but although it is an extremely rich text, I believe that most of its ideas are already well synthesized in the current material. However, there are two smaller discussions that I would like to address, and upon reflection, I came to believe that they fit better in this section.
+
+## Models, theories, and reality
+
+In his Concepts of Science: A Philosophical Analysis, Achinstein (1968) lists five features that are characteristic of theoretical models in science:
+
+1. It is a set of assumptions about some object or system.
+2. These assumptions attribute an inner structure, composition or mechanism, which
+manifests itself in other properties exhibited by the object or system.
+3. These assumptions are treated as a simplified approximation useful for certain
+purposes.
+4. The model is proposed in the framework of some more basic theory or theories.
+5. The model may display an analogy between the object or system described and some
+other object or system.
+
+We are able to connect some of these concepts to the models belonging to the standard approach:
+
+1. Financial markets are the systems described (as modeled by Black–Scholes);
+3. The assumptions are understood to be approximations;
+4. The model is part of general equilibrium theory;
+5. The model sets up an analogy between financial markets and any equilibrium system one could care to think up.
+
+The problem arises at point 2. As McCauley pointed out in the quote below:
+
+> No mechanism is held responsible for the properties of financial markets as encoded in the Black–Scholes model.
+
+This is where approaches that depart from orthodoxy can be considered an advance in economic science. This is where the econophysicists’ methodology might be considered an improvement; there is a sense in which many econophysicists are trying to “latch more onto reality.” Their generative models (building economic phenomena from the ground up) are an attempt to understand the causes of the phenomena, and thus we transcend a merely phenomenological description. As in physics, the hope is that by understanding the microscopic behaviour of interacting individuals, the macroscopic structure of complex economic systems can be brought out.
