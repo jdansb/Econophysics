@@ -163,7 +163,7 @@ For this to be possible, one of the main obstacles preventing progress in Comple
 
 Of course, one obstacle to this is the capitalist tendency to prioritize short-term gains over long-term considerations. There is a need to cultivate a long-term perspective by prioritizing sustainability, social well-being, and the health of the planet. This requires challenging existing norms and incentive structures.
 
-# Models, theories, reality
+# Models, theories, reality and laws
 
 I was planning to discuss the paper [Econophysics for philosophers](https://www.sciencedirect.com/science/article/abs/pii/S1355219807000202) in the section [Filosofia da Econofísica](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md), but although it is an extremely rich text, I believe that most of its ideas are already well synthesized in the current material. However, there are two smaller discussions that I would like to address, and upon reflection, I came to believe that they fit better in this section.
 
@@ -192,3 +192,13 @@ The problem arises at point 2. As McCauley pointed out in the quote below:
 > No mechanism is held responsible for the properties of financial markets as encoded in the Black–Scholes model.
 
 This is where approaches that depart from orthodoxy can be considered an advance in economic science. This is where the econophysicists’ methodology might be considered an improvement; there is a sense in which many econophysicists are trying to “latch more onto reality.” Their generative models (building economic phenomena from the ground up) are an attempt to understand the causes of the phenomena, and thus we transcend a merely phenomenological description. As in physics, the hope is that by understanding the microscopic behaviour of interacting individuals, the macroscopic structure of complex economic systems can be brought out.
+
+## The question of laws
+
+As McCauley says, physicists claim that “macroscopic law could arise from total microscopic lawlessness.” There is justified skepticism about this, but it is important to remember that (1) this regularity encoded in a law is usually expected from a collective perspective, and (2) the law one hopes to find has a stochastic nature.
+
+Therefore, the question that arises is whether, at the collective level, the agents as a whole behave in a lawlike way. This isn’t an easy question to answer. Besides which, there is a certain presumption in supposing that there are no laws governing the agents either: there will, clearly, be some bounds on what agents are able to do if we look at the situation from a materialist perspective; they will be constrained to behave in certain ways because of the human condition (the social class they belong to, the wealth they possess,etc), the nature of their brains and bodies, and so on. So it is clear that, at this level, there are indeed laws, and these laws will surely constrain the empirical distribution, albeit perhaps in a limited way.
+
+Just as skepticism regarding the existence of laws at the collective level is valid, I believe skepticism regarding their absence is also justified; after all, this too is a supposition about how the world is, presented without much supporting argument. However, econophysics is ripe for examination concerning the issue of laws.
+
+
