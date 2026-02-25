@@ -1,595 +1,1174 @@
-Introdução
+	 	 	 	 	 	
+
+# **Introdução**
+
 O que eu quero abordar agora, é de certa forma, bastante sensível, por isso eu presumo que será um longo texto. Eu sou uma pessoa que não é indígena e que está querendo apoiar a luta indígena. Um obstáculo que se coloca diante de mim é ser impossível que a leitura que eu faça desta causa, não seja uma leitura externa, uma vez que eu me encontro fora deste movimento. O risco que isso acarreta, é que mesmo que não seja minha intenção, eu tenha uma má compreensão dos povos originários e os retrate de forma desfigurada e até mesmo desrespeitosa.
+
 Estou fazendo um grande esforço para evitar cometer esses equívocos. Por anos eu tenho estudado política, economia, arte e cultura. Todo este meu estudo se deu por autores, que assim como eu, também não são indígenas. Então é este conhecimento que eu atualmente carrego comigo, e me é por agora, impossível realizar qualquer análise sem estar sob esta influência.
+
 O que eu posso fazer, e acredito que seja interessante, é buscar construir uma ponte entre este conhecimento que tenho acumulado e a luta indígena que apenas começo a conhecer. Tenho ‘boas intenções’, mas sei que boas intenções não são o suficiente. A posição que eu busco assumir para realizar este diálogo da melhor forma possível, é a de realizar um esforço para que a luta indígena não seja deformada para caber em projetos políticos externos a si. Pelo contrário, eu busco mobilizar o conhecimento que eu carrego de forma que possa ser visto como um complemento a causa indígena, uma ferramenta adicional que talvez possa ser útil para aqueles que de fato vivem essa luta.
+
 Não quero, de modo algum, buscar dar a entender que os povos originários e sua luta precisam encontrar validação em teorias e ideologias que eu trago. Pelo contrário, o público alvo que eu viso com este texto é não tanto os povos originários, que muito provavelmente não precisam ouvir o que eu tenho a falar, mas sim pessoas que como eu não são indígenas, mas queiram compor a luta anticapitalista.
+
 Acredito que nós sim precisamos ouvi-los. Minha intenção aqui, é então construir uma ponte, ainda que imperfeita e altamente criticável, mas que permita que pessoas que se encontrem na mesma situação que eu consiga dar os primeiros para pensar sobre a luta dos povos originários, ainda que carreguem com si uma visão de mundo diferente.
+
 Eu penso que talvez o ideal fosse que nós conseguíssemos deixar para trás toda nossa concepção de mundo para entender os povos originários não a partir de nossas lentes, mas a partir das próprias lentes dos próprios povos originários. Mas eu não sei o quanto é realisticamente possível alcançar essa meta, por mais nobre que seja. Sendo assim, me parece que um diálogo que busque articular de forma honesta aquela bagagem cultural que trazemos do ‘mundo ocidental’ com a luta dos povos originários no qual começamos a nos educar tão recentemente, parece ser frutífero.
+
 Eu estou tentando escolher as melhores palavras, pois eu não quero incentivar uma falsa segregação na sociedade, uma separação artificial entre ‘nós’ e ‘eles’. Porém eu acredito que na forma com que a sociedade se estrutura hoje, existam hoje recortes na sociedade no qual determinados grupos possuem interesses que são próprios deste grupo. Assim faz sentido reconhecermos uma separação na sociedade entre indígenas e não indígenas.
 
-Marxismo
+# 
+
+# **Marxismo**
+
 Por questão de honestidade, eu devo declarar que a bagagem teórica que eu carrego se insere principalmente na corrente do marxismo. Eu quero explicar um pouco melhor, de maneira geral, como eu vejo essa corrente política, e por motivos de transparência, quero expor também os conflitos teóricos potenciais que surgem entre o marxismo e a luta indígena. Uma falha gravíssima nesse momento, é a falta de leitura de autores marxistas e indígenas, pretendo corrigir esta falha em um texto futuro. Mas no momento isto se deve ao fato de que sou, pode-se dizer assim, sou um bebê no que se refere a luta indígena e me encontro na leitura dos seus primeiros autores.
+
 Mas começamos então com a questão mais óbvia possível: o que é o marxismo? A verdade é que não há um consenso sobre o que é marxismo. Há diversas vertentes que podem ser mencionadas, e cada vertente propõe uma própria definição sobre o que é marxismo, e evidentemente, a partir desta definição, ela interpreta que a sua própria vertente é possivelmente o ‘verdadeiro’ marxismo.
-Ingo Elbe (“Entre Marx, marxismo e marxismos: leituras da teoria de Marx”) vai discutir a existência de três marxismos que divergem por uma questão filosófica: Marxismo Tradicional, Marxismo Ocidental e Nova Leitura de Marx. Dentro da vertente tradicional ainda podemos encontrar uma divisão entre stalinistas e trotskistas, que tem como um dos principais pontos de divergência a reivindicação das experiências socialistas reais e as implicações que decorrem disto. Se quisermos prosseguir com mais subdivisões, dentro do stalinismo (marxismo-leninismo) podemos encontrar mais um leque de diferentes vertentes como maoismo, hoxhaismo, etc.
+
+Ingo Elbe (“Entre Marx, marxismo e marxismos: leituras da teoria de Marx”) vai discutir a existência de três marxismos que divergem por uma questão filosófica: Marxismo Tradicional, Marxismo Ocidental e Nova Leitura de Marx. Dentro da vertente tradicional ainda podemos encontrar uma divisão entre *stalinistas* e *trotskistas*, que tem como um dos principais pontos de divergência a reivindicação das experiências socialistas reais e as implicações que decorrem disto. Se quisermos prosseguir com mais subdivisões, dentro do *stalinismo* (marxismo-leninismo) podemos encontrar mais um leque de diferentes vertentes como maoismo, *hoxhaismo*, etc.
+
 E para piorar, mesmo quando duas vertentes concordam em algum nível (por exemplo: o que define marxismo é o método) elas podem discordar em outro nível (por exemplo: qual exatamente é este método). Eu particularmente não defendo que exista nenhum ‘verdadeiro’ marxismo. O que me interessa é identificar qual vertente melhor interpreta e modificar a realidade.
+
 Em matéria de marxismo, a ortodoxia se refere antes e exclusivamente a um método.
+
 (Georg Lukács em História e Consciência de Classe)
+
 Se entendermos marxismo como uma simples continuidade do trabalho de Marx, todas as vertentes que partem de Marx, em maior ou menor grau, se prestam a esse papel e tornam-se igualmente verdadeiras.
+
 A tradição de todas as gerações mortas oprime como um pesadelo o cérebro dos vivos. E justamente quando parecem empenhados em revolucionar-se a si e às coisas, em criar algo que jamais existiu, precisamente nesses períodos de crise revolucionária, os homens conjuram ansiosamente em seu auxilio os espíritos do passado, tomando-lhes emprestado os nomes, os gritos de guerra e as roupagens, a fim de apresentar e nessa linguagem emprestada.
+
 (Karl Marx em O 18 Brumário de Louis Bonaparte)
+
 Agora se adicionarmos a exigência de que seja coerente com os escritos originais, precisamos refletir sobre mais uma coisa: Todo o escrito de Marx é coerente entre si? Se não,a vertente deve ser coerente com que parte do trabalho de Marx?
+
 A pergunta é mais difícil do que parece. Mas eu tendo a pensar que precisamos reconhecer a existência de incoerências entre diferentes obras do Marx. Marx morreu com mais de 60 anos e por toda sua vida adulta estudou e produziu trabalhos intelectuais. É de se esperar que ao longo do tempo algumas ideias tenham sofrido alteração.
+
 Existem ao menos seis exposições da forma-valor, todas diferentes.
+
 (A “nova leitura de marx”: um mapeamento de suas premissas e desenvolvimentos)
+
 Ainda há uma mudança no foco de estudo de Marx que se reflete no foco das suas obras publicadas, partindo de obras mais puramente filosóficas como “A Sagrada Família” e se movendo na direção de obras que passam a ter a economia política como tema central, como o “O Capital”. É evidente que o quanto de filosofia persiste em suas obras posteriores é também assunto de polêmicas, nem todos concordariam que “O Capital” não é um livro essencialmente de filosofia. Esta discussão atinge tal nível que alguns autores distinguem em Marx a existência de um “Marx esotérico” e um “Marx exotérico”, outros discutem um corte epistemológico entre o “jovem Marx” e o “velho Marx”. E até mesmo o próprio Marx é acusado de simplificar suas formulações teóricas.
+
 Um relato da trajetória de estudos do Marx é dado pelo próprio no prefácio de Para a Crítica da Economia Política.
+
 O meu estudo universitário foi o da jurisprudência, o qual no entanto só prossegui como disciplina subordinada a par de filosofia e história. No ano de 1842-43, como redactor da Rheinische Zeitung, vi-me pela primeira vez, perplexo, perante a dificuldade de ter também de dizer alguma coisa sobre o que se designa por interesses materiais. Os debates do Landtag Renano sobre roubo de lenha e parcelamento da propriedade fundiária, a polémica oficial que Herr von Schaper, então Oberprásident da província renana, abriu com a Rheinische Zeitung sobre a situação dos camponeses do Mosela, por fim as discussões sobre livre-cambismo e tarifas alfandegárias proteccionistas deram-me os primeiros motivos para que me ocupasse com questões económicas.
+
 (Karl Marx em Para a Crítica da Economia Política)
+
 Sobre o corte epistemológico em Marx é possível encontrarmos esta discussão sendo desenvolvida por Althusser.
+
 Existem diversos debates no interior do marxismo, mas poucos foram capazes de gerar tantas polêmicas como as que sucederam após a publicação das obras Por Marx e Ler O capital de Louis Althusser (1918-1990). E aqui me refiro, especificamente, ao debate que envolve a tese da divisão do pensamento de Marx em duas etapas: a da juventude, fortemente influenciado por Hegel e Feuerbach; e a da maturidade, em que há uma ruptura de Marx com a influência desses dois filósofos.
+
 (Althusser e as duas etapas do pensamento de Marx: o conceito de “sobredeterminação”)
+
 O leitor pode pode retomar o artigo “A ‘nova leitura de Marx’: um mapeamento de suas premissas e desenvolvimentos” para ler as críticas sobre as diferenças entre as duas primeiras edições de O Capital.
+
 Sobre as diferenças no primeiro capítulo da primeira e segunda edição de O Capital: “A partir da segunda edição (1872), a análise da forma-valor também é “popularizada”, uma vez que o conteúdo da Seção I passa a ser o mesmo da versão anteriormente oferecida no anexo. Como já destacado, com isso se perde a exposição da “forma genérica” e da “forma IV” presentes na primeira edição.
+
 (A “nova leitura de marx”: um mapeamento de suas premissas e desenvolvimentos)
+
 E também é possível encontrar a distinção entre o Marx esotérico e exotérico no debate sobre a reconstrução do método marxiano no artigo de Ingo Elbe:
+
 O debate da reconstrução agora aplicaria a distinção esotérica/exotérica à própria obra de Marx.
+
 (Entre Marx, marxismo e marxismos: leituras da teoria de Marx)
+
 Ou seja, entendo que Marx possui um diverso conjunto de obras que permite que você escolha diferentes recortes e desenvolva uma dada teoria que seja consistente com este recorte escolhido. Este é um dos motivos por que não considero que este seja uma boa meta a busca pelo ‘verdadeiro’ marxismo. Ou indo além, não considero sequer existir um verdadeiro marxismo. Diversas vertentes buscam desenvolver diferentes momentos, ênfases e obras de Marx. Mas nenhuma é o próprio Marx continuando sua obra, logo, outro critério deve ser adotado.
+
 Defendo aqui a ideia de abandonar o personalismo e a própria figura do Marx para visar a formulação do marxismo que melhor descreva a realidade. Partindo de uma perspectiva científica, adoto a postura de que o marxismo deve ter mais compromisso com a adequada descrição do que pode ser observado, do que respeito com as ideias de qualquer indivíduo do passado.
+
 Evidentemente essa correta descrição vai precisar de alguns pressupostos corretos e é aqui que reside a herança de Marx. De certa forma, tenho uma formulação bastante flexível de marxismo. Entendo então, que por marxista, quero dizer que defendo que a correta descrição da realidade é obtida quando adotamos a concepção de mundo defendida por Marx e Engels, popularmente conhecida como materialismo dialético.
 
-Materialismo
+# 
+
+# **Materialismo**
+
 Por materialismo dialético eu quero dizer, em poucas palavras, que esta é a concepção de mundo que encontramos exposta na obra “Anti-Dühring”.
+
 … o ‘sistema’ do Senhor Dühring, de que este livro é uma crítica, estende-se a domínios teóricos muito vastos: tive de segui-lo por toda Parte e opor às suas concepções as minhas. Assim, a crítica negativa resultou positiva; a polêmica transformou-se em exposição mais ou menos coerente do método dialético e da ideologia comunista defendida por Marx e por mim, numa série de domínios bastante vastos …
+
 …
+
 Uma observação de passagem: tendo sido criada por Marx, e em menor escala por mim, a concepção exposta neste livro, não conviria que eu a publicasse à revelia do meu amigo. Li-lhe o manuscrito inteiro antes da impressão; e o décimo capítulo da Parte segunda, consagrada à economia política (Sobre a história crítica) foi escrito por Marx. Infelizmente, eu o tive de resumir por motivos extrínsecos. Era, aliás, hábito nosso ajudarmo-nos mutuamente na especialização de cada um.”
+
 (Friedrich Engels em Anti-Dühring).
+
 Mais do que um conjunto de leis rígidas ou um método[^1], materialismo dialético é para mim uma concepção de mundo pautada em alguns pressupostos gerais sobre como é este mundo.
+
 Uma concepção de mundo abrange a totalidade das opiniões e concepções de um indivíduo ou sociedade sobre o mundo, sobre nós mesmos como seres humanos e sobre a vida e a posição dos seres humanos no mundo.
+
 (Curriculum Of The Basic Principles Of Marxism-leninism)
+
 É a partir desta obra que gosto de introduzir noções de materialismo dialético e dialética materialista.
-O Materialismo Dialético é uma compreensão científica da matéria, da consciência e da relação entre ambas. Ele é usado para entender o mundo através do estudo dessas relações.
-A Dialética Materialista é uma ciência que estuda as leis gerais do movimento, da mudança e do desenvolvimento da natureza, da sociedade e do pensamento humano.
+
+O **Materialismo Dialético** é uma compreensão científica da matéria, da consciência e da relação entre ambas. Ele é usado para entender o mundo através do estudo dessas relações.
+
+A **Dialética Materialista** é uma ciência que estuda as leis gerais do movimento, da mudança e do desenvolvimento da natureza, da sociedade e do pensamento humano.
+
 (Curriculum Of The Basic Principles Of Marxism-leninism)
+
 Ou seja, por materialismo dialético temos uma uma concepção materialista do mundo que considera uma relação dialética entre os entes que constitui esse mundo. Esta concepção de mundo, por materialista, quer dizer que vai se basear na ideia da existência de um mundo que existe objetivamente independente de qualquer consciência, portanto, anterior à mente, e consequentemente regido por leis naturais e impessoais.
+
 Ao chamar a dialética materialista por ciência, não queremos que a palavra “ciência” aqui seja entendida no sentido moderno mais restrito, como uma disciplina acadêmica de universidade. Mas sim como um conjunto de conhecimentos sobre um dado assunto e/ou uma área de interesse de investigação. Assim, por dialética materialista temos um conjunto de pressupostos e a investigação destes pressupostos que nos orientaram sobre como as entidades que compõem o mundo se relacionam e se transformam. Ela diz respeito sobre nosso interesse em entender como o mundo evolui.
+
 A dialética materialista vai pressupor um mundo em constante transformação e totalmente conectado, em outras palavras, não há ente no mundo nem isolado e nem que permaneça inalterada.
+
 Materialismo dialético e dialética materialista formam então uma só teoria e concepção de mundo que deve também englobar tanto como concebemos o mundo tanto quanto sobre o nosso lugar nele. Não devem vê-los como duas coisas separadas e unidas mecanicamente: materialismo e dialética. Temos uma concepção de mundo materialista que engloba também uma perspectiva dialética de como este mundo se transforma.
+
 Estas definições são bastante genéricas e flexíveis. Não são nada mais do que alguns pressupostos básicos sobre a natureza e transformação do mundo. Por marxismo, ainda faço uma adição de um posicionamento político bem definido em defesa das massas. Isto é algo que não surge necessariamente apenas de uma correta compreensão do mundo, porém é uma parte intrínseca do movimento político que se iniciou com Marx. De forma grosseira, entendo então o marxismo tanto quanto um movimento científico em busca da adequada descrição da realidade pautado em alguns pressupostos materialistas e dialéticos, quanto um movimento político de transformação dessa realidade em prol das massas, necessariamente.
+
 Esta forma particular de conceber o marxismo não é livre de polêmicas. Tanto à inflexibilidade com que defendo Engels e sua obra “Anti-Dühring” na base do marxismo, quanto a flexibilidade com que defino o marxismo quanto às questões mais específicas são questões passíveis de polêmicas.
+
 Marx e Engels trabalharam na construção de uma crítica direcionada principalmente à três grandes movimentos de sua época: a filosofia alemã, a economia política inglesa e o socialismo francês. Consequentemente da crítica negativa a estes três movimentos nasce uma exposição positiva do que poderíamos chamar de materialismo dialético, economia marxista e socialismo científico. Há muitos debates se existe uma economia marxista ou apenas uma crítica à economia política. Da mesma forma defendo que podemos levantar uma discussão se existe uma filosofia marxista ou apenas uma crítica à filosofia. Mas também vejo estas discussões como questões secundárias.
+
 A tarefa da filosofia (que depois será também alvo de crítica de Marx e será substituída por teoria, entre outros termos ocasionais, como “socialismo científico”, “ciência” e, após ele, será chamado marxismo ou teoria)...
+
 (Nildo Viana em Introdução à crítica da filosofia do direito de Hegel, o manifesto inaugural do materialismo histórico)
+
 Mais importante que isso, entendo que uma consequência fundamental desta forma de definir o marxismo é que quebra-se o vínculo com Hegel. Não há necessariamente uma negação de Hegel, mas certamente há um rebaixamento da importância de Hegel. Hegel passa a ser visto como uma influência filosófica em Marx, mas não necessariamente um componente crucial do marxismo. O marxismo assim exposto, torna-se independente de Hegel e sua dialética.
+
 Gramsci, nos Cadernos do Cárcere, nos diz que é necessário entender que a filosofia da práxis[^2] nasceu de “aforismos critérios práticos por um mero acaso” e nos explica que Marx dedicou sua força intelectual de forma sistemática a outros problemas, principalmente de natureza econômica. Sua concepção de mundo aparece então apenas de forma implícita nestes aforismos.
+
 Uma das causas do erro pelo qual se vai em busca de uma filosofia geral que esteja na base da filosofia da práxis e se nega implicitamente a esta uma originalidade de conteúdo e de método parece que reside no seguinte: que se faz confusão entre a cultura filosófica pessoal do fundador da filosofia da práxis, ou seja, entre as correntes filosóficas e os grandes filósofos pelos quais ele se interessou fortemente em sua juventude e cuja linguagem reproduz frequentemente… os elementos de spinozismo, de feuerbachismo, de hegelismo, de materialismo francês etc. não são de modo algum partes essenciais da filosofia da práxis
+
 (Cadernos do Cárcere)
+
 Não tenho como negar que há uma influência hegeliana em Marx durante toda a sua vida, e que esta influência vai deixar marcas em todas suas obras. Mas argumento que conforme à teoria marxista se desenvolve, já em Marx e Engels, essa influência vai sendo engolida por práticas, que ao meu ver, são mais científicas que filosóficas. Vejo ecos deste fenômeno na obra de Engels.
-Logo que descobrirmos – e afinal de contas ninguém mais do que Hegel nos ajudou a descobri-lo – que, assim colocada, a tarefa da filosofia se reduz a pretender que um filósofo isolado realize aquilo que somente a humanidade em seu conjunto poderá realizar, em seu desenvolvimento progressivo – assim que descobrirmos isso a filosofia, no sentido tradicional da palavra, chega a seu fim. Já não interessa a “verdade absoluta”, inatingível por este caminho e inacessível ao único indivíduo, e o que se procura são as verdades relativas, adquiridas através das ciências positivas e da generalização de seus resultados por meio do pensamento dialético. A filosofia, em seu conjunto, termina com Hegel; por um lado, porque em seu sistema se resume, da maneira mais grandiosa, todo o desenvolvimento filosófico; por outro lado, porque este filósofo nos indica, ainda que inconscientemente, a saída desse labirinto dos sistemas para o conhecimento positivo e real do mundo.
+
+Logo que descobrirmos – e afinal de contas ninguém mais do que Hegel nos ajudou a descobri-lo – que, assim colocada, a tarefa da filosofia se reduz a pretender que um filósofo isolado realize aquilo que somente a humanidade em seu conjunto poderá realizar, em seu desenvolvimento progressivo – assim que descobrirmos isso a filosofia, no sentido tradicional da palavra, chega a seu fim. Já não interessa a “verdade absoluta”, inatingível por este caminho e inacessível ao único indivíduo, e o que se procura são as verdades relativas, adquiridas através das ciências positivas e da generalização de seus resultados por meio do pensamento dialético. **A filosofia, em seu conjunto, termina com Hegel**; por um lado, porque em seu sistema se resume, da maneira mais grandiosa, todo o desenvolvimento filosófico; por outro lado, porque este filósofo nos indica, ainda que inconscientemente, a saída desse labirinto dos sistemas para o conhecimento positivo e real do mundo.
+
 …
+
 Esta interpretação põe fim à filosofia no campo da história, exatamente da mesma forma que a concepção dialética da natureza torna a filosofia da natureza tão desnecessária quanto impossível. Agora, já não se trata de tirar do cérebro as conexões entre as coisas, mas de descobri-las nos próprios fatos. Expulsa da natureza e da história, só resta à filosofia um único refúgio: o reino do pensamento puro, no que dele ainda está de pé: a doutrina das leis do próprio processo do pensamento, a lógica e a dialética.
+
 (Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã)
+
 Mas também na obra de Marx.
+
 É preciso “deixar a filosofia de lado”, é preciso desembarcar dela e dedicar-se como um homem comum ao estudo da realidade, tarefa para a qual existe uma gigantesca quantidade de material literário … A relação entre filosofia e estudo do mundo real corresponde à relação entre onanismo e amor sexual.
+
 (Karl Marx em A Ideologia Alemã)
+
 E eu não me encontro totalmente sozinho nesta posição polêmica. Além do corte epistemológico de Althusser e das declarações de Gramsci, podemos citar um marxista mais moderno: Paul Cockshott. Além de questionar o fato de uma fração dos marxistas verem como vital o estudo de Hegel para o marxismo devido a sua influência, mas não terem a mesma opinião acerca de economistas como David Ricardo e Adam Smith, que também foram fortes influências em Marx no campo econômico, de forma ainda mais agressiva, Cockshott argumenta que vê no estudo de Hegel um potencial maior de confundir do que de esclarecer.
+
 Taimur, você certamente é um palestrante muito bom e claro, mas não acho que a palestra tenha me tornado mais simpático à ideia de estudantes contemporâneos estudarem Hegel. Longe de ser uma ajuda, creio que seria um obstáculo ao seu desenvolvimento intelectual.
+
 …
+
 Temos tantas ferramentas para analisar o mundo, desenvolvidas nos últimos 200 anos, que retroceder à década de 1820 seria um terrível passo retrógrado.
+
 (Paul Cockshott em A comment on a lecture about Hegel)
+
 A ideia central da crítica é relativamente simples: Hegel tem o mérito de ser um pensador avançado para o seu tempo e uma influência positiva em Marx. Contribuindo de forma inegável para o desenvolvimento do que hoje temos por marxismo. Mas seus métodos (e consequentemente o seu estudo) não constituem mais necessariamente a forma mais eficiente de entender a realidade. Pautando o objetivo do marxismo como sendo a melhor investigação e compreensão da realidade, resta ao marxista moderno buscar as melhores ferramentas disponíveis para entender o mundo, e esta ferramenta não é, necessariamente, a dialética hegeliana.
 
-Dialética
+# 
+
+# **Dialética**
+
 Devido a posição central que a dialética ocupa na polêmica que envolve Marx, Engels e Hegel, eu acredito ser interessante uma sessão cobrindo este assunto, ainda que rapidamente.
+
 É comum a ideia de que há um método em Marx no sentido hegeliano, onde dialética assume de forma mais literal o papel de um método de apreensão da realidade (neste caso, normalmente estritamente da realidade social). A partir disso, algumas pessoas então vão se dedicar a procurar a dialética hegeliana oculta em o “O Capital”. E de tudo isso ainda podemos iniciar uma nova discussão se esta dialética hegeliana é parte vital ou não do marxismo. Afinal “O Capital” e a obra marxiana pode conter a dialética na concepção hegeliana, e ainda sim pode ser que isto não constitua o núcleo do marxismo.
+
 Eu reconheço que em “O Capital” há uma tentativa por Marx de usar a dialética mais no sentido de Hegel do que Engels, especialmente no primeiro capítulo, Marx é quem diz isso no prefácio. O que se pode questionar é a profundidade e a relevância deste esforço. Este é um assunto polêmico, pois em seus escritos o que geralmente encontramos tende a ser mais uma crítica à filosofia do que uma descrição do seu próprio sistema filosófico.
+
 Confessei-me, portanto, abertamente discípulo daquele grande pensador e coqueteei mesmo aqui e ali no capítulo sobre a teoria do valor com o modo de expressão que lhe é peculiar.
+
 (Karl Marx em O Capital)
+
 Acredito que os manuscritos do Grundrisse sejam o mais perto que chegamos de um trabalho com este tom. Porém deve-se lembrar que este mesmo projeto foi abandonado por Marx. O resultado disso é que torna-se necessário procurar ao longo das obras publicadas e alguns manuscritos abandonados o método dialético, considerando que ele existe e está oculto
+
 Já Engels, diferente de Marx, escreveu de forma mais propositiva sobre filosofia, por exemplo no “Anti-Dühring”. Engels se afasta mais de Hegel que Marx se afastou. É mais fácil encontrar resquícios da dialética de Hegel no “O Capital” do que no “Anti-Dühring”. Mas novamente, pode ser interessante recordarmos que esta obra foi e revisada por Marx antes da publicação, foi decidido em comum acordo entre ambos que Engels a escreveria, Marx contribuiu escrevendo um capítulo, e a recomendou em cartas. Mas diante de toda esta situação surge uma tensão sobre a importância de Hegel e da fidelidade à dialética hegeliana no marxismo.
-… e se o Sr. Most falhou em notar que há muito a ser aprendido com as exposições positivas de Engels [no “Anti-Dühring”], não apenas por trabalhadores comuns e até mesmo ex-trabalhadores como ele, que se supõem capazes de conhecer tudo e se pronunciar sobre tudo no menor tempo possível, mas até mesmo por pessoas cientificamente educadas, então eu só posso ter pena dele por sua falta de julgamento.
+
+… e se o Sr. Most falhou em notar que há muito a ser aprendido com as exposições positivas de Engels \[no “Anti-Dühring”\], não apenas por trabalhadores comuns e até mesmo ex-trabalhadores como ele, que se supõem capazes de conhecer tudo e se pronunciar sobre tudo no menor tempo possível, mas até mesmo por pessoas cientificamente educadas, então eu só posso ter pena dele por sua falta de julgamento.
+
 (Karl Marx em carta para Wilhelm Bracke de 11/04/1877)
-Minha posição é de que “O Capital” não é bom devido ao uso da dialética hegeliana por Marx, mas apesar dela. Assim, não entendo que a aplicação da dialética hegeliana seja a principal contribuição do Marx, e consequentemente não é isto que vai definir o marxismo. Tendo a pensar ser incorreto acreditar que Marx fez suas descobertas por usar a dialética hegeliana. Ela foi útil no amadurecimento de Marx, mas não acredito que as descobertas de Marx devem-se estritamente ao fato de tentar usar a dialética hegeliana.
+
+Minha posição é de que “O Capital” não é bom devido ao uso da dialética hegeliana por Marx, mas apesar dela. Assim, não entendo que a aplicação da dialética hegeliana seja a principal contribuição do Marx, e consequentemente não é isto que vai definir o marxismo. Tendo a pensar ser incorreto acreditar que Marx fez suas descobertas **por usar** a dialética hegeliana. Ela foi útil no amadurecimento de Marx, mas não acredito que as descobertas de Marx devem-se estritamente ao fato de tentar usar a dialética hegeliana.
+
 Entendo que temos mais uma organização da exposição das idéias seguindo um modelo típico dialético, do que realmente descobertas sendo feitas devido a aplicação deste método de investigação dialético. Penso bastante sobre como o primeiro capítulo é o que Marx diz explicitamente que queria render homenagem ao Hegel, e este também é reescrito já na segunda edição pelo próprio Marx. Isto faz com que aqueles com um interesse mais voltado pelo aspecto filosófico hegeliano do marxismo critiquem a própria edição de Marx por verem nesta edição uma “popularização” da exposição dialética.
+
 Dessa forma, me parece que a dialética hegeliana no “O Capital”, acaba ganhando uma sobrevida por uma questão estética de como os resultados foram apresentados, não sendo igualmente claro que tenha se provado ser o método último de investigação da realidade.
+
 É popular encontrarmos nesta discussão a distinção entre método de exposição e método de investigação. Assim, o método de exposição apresentado no “O Capital” é de relativamente fácil observação pois é diretamente acessível pela própria exposição das ideias no livro. Mas o método de investigação é onde reside os problemas e os estudiosos sofrem para tentar “reconstruí-lo” investigando “método oculto” no livro.
+
 Marx comenta a existência de um “método oculto” em “Para a Crítica da Economia Política”. Por isso eu entendo a existência desta discussão acerca da centralidade de Hegel em Marx. Minha crítica está na avaliação de que esta reconstrução e aplicação seja necessária.
-Marx reconhece que a elaboração do método de apresentação de seus estudos foi facilitada pela releitura de algumas passagens da Lógica de Hegel na segunda [carta] Marx diz que sua publicação anterior – Para a crítica da economia política (1859) – continha argumentos que foram “popularizados”, algo que também acontecerá alguns anos depois na análise da teoria do valor , além de confidenciar que “o método está muito mais escondido”
+
+Marx reconhece que a elaboração do método de apresentação de seus estudos foi facilitada pela releitura de algumas passagens da Lógica de Hegel na segunda \[carta\] Marx diz que sua publicação anterior – Para a crítica da economia política (1859) – continha argumentos que foram “popularizados”, algo que também acontecerá alguns anos depois na análise da teoria do valor , além de confidenciar que “o método está muito mais escondido”
+
 (A “nova leitura de Marx”: um mapeamento de suas Premissas e desenvolvimentos)
+
 Entendo que a dialética hegeliana é incapaz de entregar tudo que promete a seus defensores, assim como acho provável que durante a própria investigação do capitalismo, Marx tenha visto ser necessário ir além da proposta de dialética hegeliana.
+
 Precisamos então discutir “qual” é a dialética que eu considero importante. Eu defendo que seja o conjunto de pressupostos gerais como apresentado por Engels, ou seja, princípios de como o mundo se transforma e evolui. Na minha visão, esta é uma formulação mais interessante da dialética. Dessa forma, ela funciona mais como um guia para a investigação, como um conjunto de princípios norteadores, mais do que um método em si. Além de ser também menos nebuloso e mais flexível.
+
 Eu não acredito que seja coincidência que até hoje os estudiosos debatam e adotem posições tão contrárias quanto a correta interpretação da dialética hegeliana. Um exemplo, é a acusação moderna de que interpretar a dialética como uma tríade, é uma interpretação superficial. Ainda que seja verdade, mas essa interpretação esteve presente desde os primeiros estudiosos de Hegel, não é apenas uma opinião de ignorantes que surgiu apenas agora. Debate-se até mesmo, se o próprio conjunto de obras de Hegel utiliza sua dialética.
+
 Outras seções da filosofia de Hegel não se encaixam no exemplo triádico e clássico de Ser-Nada-Devir, como observaram até mesmo intérpretes que apoiaram a leitura tradicional da dialética de Hegel.
+
 (Dialética Hegeliana na Enciclopédia de Filosofia de Stanford)
+
 Ainda que eu reconheça este resquício de Hegel nas obras marxianas, me parece claro que todos grandes movimentos políticos derivados da obra marxista, todo o movimento político marxista que obteve êxito em algum grau, todas as revoluções socialistas que se inspiraram nas obras de Marx, se basearam em uma teoria no qual não teve especial carinho pela dialética hegeliana.
+
 O que acredito que levanta um debate saudável sobre quais são os aspectos da teoria marxista que através da prática se provaram válidos e fundamentais. Sei que há um esforço de alguns intelectuais em reconstruir algumas destas teorias sob a luz da dialética hegeliana[^3], mas este é um esforço posterior tanto ao desenvolvimento da teoria quanto da prática revolucionária atrelada a esta teoria. Um contra-argumento possível é o de que quando estes movimentos falharam, falharam exatamente por essa deficiência teórica. Pessoalmente acho essa resposta simplista e preguiçosa. Eu tenho uma outra forma de abordar esta questão que irei expor mais adiante.
-Entendo possíveis acusações que devo receber por “deturpar” o marxismo, pois é verdade que defendo uma identificação como marxista que de certa forma, é bem simples e flexível.
+
+Entendo possíveis acusações que devo receber por “deturpar” o marxismo, pois é verdade que defendo uma identificação como marxista que de certa forma, é bem simples e flexível. 
+
 Se você é capaz de tremer de indignação a cada vez que se comete uma injustiça no mundo, então somos companheiros.
+
 (Che Guevara)
+
 Tenho por marxista, uma questão de princípios gerais que moldam nossa concepção do mundo e sobre como nos posicionamos neste mundo. Defender os pressupostos materialistas de como o mundo é (matéria antes da mente, etc) em conjunto com os pressupostos dialéticos de como esse mundo material evolui (tudo está em constante transformação, etc), associado com uma questão política sobre como nos posicionamos e atuamos politicamente no mundo (em defesa da classe dos trabalhadores e pela superação do capitalismo).
+
 Assim, marxismo deixa de ser sobre dominar um método específico, não é sobre dialética hegeliana, mas passa a ser sobre uma concepção de mundo, sobre como vemos o mundo e como interagimos com este mundo. Acusam personalidades como Lenin, Che Guevara e Ho Chi Minh de não entenderem a dialética hegeliana, o que de certa forma eu não tenho estudo suficiente para discordar. Porém minha posição é de que talvez o fato de que “não entenderam”, ainda que verdadeira, não seja importante.
+
 Talvez também, apenas não quiseram usar ela. Mas mais que isso, possivelmente não precisaram usar ela. Nem na sua prática revolucionária e nem na sua atividade teórica. Ao mesmo tempo também concordo que Marx teve a intenção de a usar, que isso era importante para Marx. Então a minha posição é de reconhecer a influência da dialética hegeliana em Marx sem estender o status de necessária ao marxismo. Conscientemente eu divirjo de Marx. Ainda que tenho meus motivos para pensar que não completamente.
+
 Pois ao mesmo tempo que entendo a importância que a dialética hegeliana teve para Marx, ao analisar o conjunto das obras escritas em conjunto e suas correspondências trocadas com Engels, também me parece que não era um problema para Marx que Engels tivesse um posicionamento diferente sobre esta questão.
+
 Ficamos então, de certa forma, em uma encruzilhada: ou então toda a teoria produzida por marxistas-leninistas é errada porque não usou devidamente a dialética, incluindo até mesmo partes das obras de Engels que foram produzidas enquanto era contemporâneo e foram revisada por Marx. Ou estes autores deram sorte de não usar dialética hegeliana corretamente e ainda sim produzir algo útil. O que me parece uma posição frágil
+
 Também podemos considerar que estas obras poderiam se tornar ainda melhores caso se tornassem mais fiéis a Hegel. Uma posição intermediária: ainda que não totalmente erradas, estas teorias e práticas se beneficiariam se fossem formuladas de forma a serem mais corretas de uma perspectiva hegeliana. Porém, enquanto incorretos, estes conhecimentos obtiveram sucesso ao serem suportes teóricos para diversas revoluções, ao mesmo tempo de que não tenho registro de nenhuma revolução que triunfou ao fazer uso de alguma teoria revisada para se tornar mais fiel à Hegel. O que coloca em dúvida a veracidade dessa posição.
+
 Por fim, talvez a ideia mais simples seja mesmo a de que a dialética hegeliana não seja necessária. Esta é a posição que eu adoto.
 
-Método
+# 
+
+# **Método**
+
 Quando eu ouvi a primeira vez eu concordei com a afirmação de que o que definia o marxismo era o método. Na época eu pensei que por método queríamos falar sobre o materialismo dialético e isto era uma questão simples.
+
 Mas hoje acho que essa discussão demanda um pouco mais de cuidado. Pois eu noto que muitas vezes quando se usa esta afirmação, ela diz respeito estritamente sobre a dialética hegeliana ser o método marxista. Porém, como tenho discutido, a diferença da dialética hegeliana para o que entendo por dialética é mais profunda do que eu tinha pensado inicialmente, inclusive, sendo justo questionar se aquilo que chamo de dialética ainda consiste de fato de um método.
-Marxistas-leninistas - tradição no qual eu costumo me inserir - também chamam a dialética como método, mesmo que o que entendem por dialética seja reconhecidamente diferente do que é entendido por dialética pelos hegelianos. Eu tenho um certo incômodo com esta prática. Pois reflito se para que isso fosse possível foi necessário realizarmos uma espécie de ressignificação da palavra. Suponho que isto tenha acontecido pois queríamos herdar o prestígio de que a dialética hegeliana gozava para o que nós agora estávamos chamando de dialética, ainda que sejam coisas diferentes.
+
+Marxistas-leninistas \- tradição no qual eu costumo me inserir \- também chamam a dialética como método, mesmo que o que entendem por dialética seja reconhecidamente diferente do que é entendido por dialética pelos hegelianos. Eu tenho um certo incômodo com esta prática. Pois reflito se para que isso fosse possível foi necessário realizarmos uma espécie de ressignificação da palavra. Suponho que isto tenha acontecido pois queríamos herdar o prestígio de que a dialética hegeliana gozava para o que nós agora estávamos chamando de dialética, ainda que sejam coisas diferentes.
+
 Acredito que um interesse semelhante nos fez chamar o materialismo dialético de “filosofia” marxista. Para manter o prestígio de dizer que o marxismo é uma filosofia, afinal, filosofia sempre gozou de prestígio na sociedade. Para que isso fosse possível de maneira análoga, foi necessário ressignificar o que é filosofia. Assim filosofia, no marxismo foi definido exatamente da mesma forma que Engels definiu a teoria que desenvolveu com Marx no prefácio do “Anti-Dühring”, como uma concepção de mundo e um método de investigação.
+
 Filosofia é então a unidade de uma concepção de mundo e metodologia.
+
 (Dialectical Materialism)
-Partindo para exemplos mais pontuais, quando eu vou estudar física, eu entendo que não vou aplicar um “método” dialético da mesma forma que se pensaria caso este método fosse a dialética hegeliana. A influência da dialética engelsiana na minha pesquisa vai se dar no fato de que o método de investigação adotado precisará ser coerente com um conjunto de princípios que eu entendo por dialética.
+
+Partindo para exemplos mais pontuais, quando eu vou estudar física, eu entendo que não vou aplicar um “método” dialético da mesma forma que se pensaria caso este método fosse a dialética hegeliana. A influência da dialética engelsiana na minha pesquisa vai se dar no fato de que o método de investigação adotado precisará ser coerente com um conjunto de princípios que eu entendo por dialética. 
+
 Podemos citar como exemplo o Big Bang. Por eu ter esta concepção marxista do mundo, eu sou incentivado a investigar teorias que busquem explicar a origem do Big Bang considerando a existência de um universo anterior ao Big Bang, pois por princípio, me vejo querendo rejeitar a ideia do Big Bang como o começo de tudo. Isto decorre do fato de que o materialismo dialético propõe um universo que esteja infinitamente em transformação, tanto no passado quanto no futuro, o que entendo que contraria uma ideia de começo ou de fim.
+
 Também é por este conjunto de princípios, que por exemplo, parece errado imaginar que as espécies sempre foram da forma que as vemos hoje, ou que o sistema solar sempre existiu da forma que observamos hoje. Essa imutabilidade das coisas viola os pressupostos da dialética que compõem minha concepção do mundo.
+
 A minha concepção de dialética soa então significativamente diferente da adotada pelos hegelianos, e eu acredito ter menos motivo para chamar isto de método. A forma que entendo em Engels, dialética diz mais respeito a um conjunto de pressupostos de como o mundo evoluiu. Defendo que esta é a posição mais interessante de adotar para buscar interpretar e modificar o mundo, de forma que ainda que o Marx tenha de fato um método oculto em sua obra, a reconstrução deste método se torna algo não apenas secundário, mas também dispensável.
+
 Além disso, deslocando a definição de marxismo de método para uma concepção de mundo, reforço novamente que devemos incluir a defesa da classe proletária nesta concepção de mundo, uma vez que a concepção de mundo inclui não apenas como a gente vê o mundo, mas também como nos posicionamos diante dele. Uma postura que não surge naturalmente no marxismo se o entendermos apenas por um método.
+
 Para finalizar esta parte filosófica, na prática, a forma com que concebo o materialismo dialético é então como uma concepção de mundo. Que vai incluir tanto pressupostos sobre a relação entre a matéria e a consciência, quanto sobre como o mundo se transforma. Frisando sempre que a distinção entre materialismo e dialética, como se materialismo dialético fosse uma combinação de duas coisas distintas, é errada. Talvez precisaríamos de um novo nome, ou então adotar a sugestão de Gramsci e chamar de filosofia da práxis.
-O que eu posso conceber é retomar a distinção entre materialismo dialético (como concepção de mundo) e dialética materialista (como ciência). Mas aqui há uma sutileza: as ‘leis da dialética’ conforme enunciadas por Engels, também estão incorporadas no materialismo dialético. Este conjunto de princípios sobre como o mundo se transforma e se conecta é um pilar fundamental da concepção de mundo do materialismo dialético.
+
+O que eu posso conceber é retomar a distinção entre materialismo dialético (como concepção de mundo) e dialética materialista (como ciência). Mas aqui há uma sutileza: as ‘leis da dialética’ conforme enunciadas por Engels, também estão incorporadas no materialismo dialético. Este conjunto de princípios sobre como o mundo se transforma e se conecta é um pilar fundamental da concepção de mundo do materialismo dialético. 
+
 Portanto, por dialética materialista, não estamos nos referindo a uma ‘parte dialética’ que se combina com a ‘parte materialista’ para formar o materialismo dialético. Mas estamos nos referindo à ciência, no sentido mais geral usado por Engels, como a investigação destas leis.
+
 A palavra “ciência”, e, por extensão, “científico”, no marxismo-leninismo, possui um significado específico … cabe observar que a expressão inglesa “scientific socialism” deriva do uso que Engels faz da expressão alemã “wissenschaftlich sozialismus”.
+
 “Wissenschaft” é uma palavra que pode ser traduzida diretamente como “arte do conhecimento” em alemão, e esse termo abrange um conceito muito mais amplo e geral do que a palavra “ciência” como é geralmente usada em inglês … Assim, o “socialismo científico” pode ser entendido como um conjunto de teorias que analisa e interpreta o mundo natural para desenvolver um corpo de conhecimento, o qual deve ser constantemente testado contra a realidade, com o objetivo de transformar o mundo para alcançar o socialismo por meio da liderança do proletariado.
+
 (Curriculum Of The Basic Principles Of Marxism-leninism)
-Acredito que seja válido comentar que ainda que eu não conceba o materialismo dialético como um método, mas sim como uma concepção de mundo, isso não implica que marxistas não podem trabalhar no desenvolvimento de um método de investigação da realidade derivado dessa concepção comunista do mundo.
+
+Acredito que seja válido comentar que ainda que eu não conceba o materialismo dialético como um método, mas sim como uma concepção de mundo, isso não implica que marxistas não podem trabalhar no desenvolvimento de um método de investigação da realidade derivado dessa concepção comunista do mundo. 
+
 O que estou afirmando é apenas que eu não coloco nenhum método como sendo um pilar do marxismo, assim como que este método não é o materialismo dialético em si, mas seria um produto do materialismo dialético e da dialética materialista. De toda forma, o que nos interessa é que a dialética engelsiana não é nem a mesma de Hegel, e possivelmente nem um método propriamente dito. E isto não deveria ser um problema.
 
-Socialismo
-Já comentamos sobre a filosofia marxista (vulgo materialismo dialético), um próximo tema importante é o socialismo marxista (vulgo socialismo científico). Socialismo científico pode ser entendido como nada mais sendo do que a investigação e a prática acerca da superação do capitalismo. Consequentemente, a construção de uma sociedade pós-capitalista (vulgo comunista).
+# 
+
+# **Socialismo**
+
+Já comentamos sobre a filosofia marxista (*vulgo* materialismo dialético), um próximo tema importante é o socialismo marxista (*vulgo* socialismo científico). Socialismo científico pode ser entendido como nada mais sendo do que a investigação e a prática acerca da superação do capitalismo. Consequentemente, a construção de uma sociedade pós-capitalista (*vulgo* comunista).
+
 Colocado dessa forma, o socialismo, como um dos componentes do marxismo não deve ser entendido de forma simplista como um mero modelo de estado, nem como sendo apenas uma etapa de transição. De fato, Marx nunca falou sobre socialismo neste sentido, o que há é uma distinção do comunismo em fase inferior e fase superior, assim como menções à ditadura do proletariado, mas nenhuma destas etapas recebe na obra marxiana o nome do socialismo.
+
 Entre a sociedade capitalista e a sociedade comunista medeia o período da transformação revolucionária da primeira na segunda. A este período corresponde também um período político de transição, cujo Estado não pode ser outro senão a ditadura revolucionária do proletariado.
+
 …
-Do que se trata aqui [- a fase inferior do comunismo -] não é de uma sociedade comunista que se desenvolveu sobre sua própria base, mas de uma que acaba de sair precisamente da sociedade capitalista e que, portanto, apresenta ainda em todos os seus aspectos, no econômico, no moral e no intelectual~ o selo da velha sociedade de cujas entranhas procede…Estes defeitos, porém, são inevitáveis na primeira fase da sociedade comunista,
+
+Do que se trata aqui \[- a fase inferior do comunismo \-\] não é de uma sociedade comunista que se desenvolveu sobre sua própria base, mas de uma que acaba de sair precisamente da sociedade capitalista e que, portanto, apresenta ainda em todos os seus aspectos, no econômico, no moral e no intelectual\~ o selo da velha sociedade de cujas entranhas procede…Estes defeitos, porém, são inevitáveis na primeira fase da sociedade comunista,
+
 …
+
 Na fase superior da sociedade comunista, quando houver desaparecido a subordinação escravizadora dos indivíduos à divisão do trabalho e, com ela, o contraste entre o trabalho intelectual e o trabalho manual; … só então será possível ultrapassar-se totalmente o estreito horizonte do direito burguês e a sociedade poderá inscrever em suas bandeiras: De cada qual, segundo sua capacidade; a cada qual, segundo suas necessidades.
+
 (Marx em Crítica ao programa de Gotha)
+
 Já em Engels, quando se fala de socialismo científico em “Do Socialismo Utópico ao Socialismo Científico”, refere-se ao socialismo como uma ciência, no sentido amplo como citado anteriormente. Como um conjunto de conhecimentos e práticas relacionadas à investigação acerca da superação do capitalismo. Nunca como um modelo de sociedade.
-É neste ponto que se inserem algumas das maiores contribuições de Lênin. Sua obra aprofunda a teoria marxista ao formular uma concepção de partido revolucionário que atua como instrumento consciente da transição. Também gostaria neste assunto de destacar a contribuição do Paul Cockshott em “Towards a New Socialism” onde ousa propor um possível modelo de sociedade comunista.
+
+É neste ponto que se inserem algumas das maiores contribuições de Lênin. Sua obra aprofunda a teoria marxista ao formular uma concepção de partido revolucionário que atua como instrumento consciente da transição. Também gostaria neste assunto de destacar a contribuição do Paul Cockshott em “*Towards a New Socialism*” onde ousa propor um possível modelo de sociedade comunista.
+
 Em termos de instituições democráticas e mecanismos de planejamento eficientes, devemos reconhecer que os problemas que emergiram no caso soviético refletem certas fragilidades do marxismo clássico… Marx, Engels e Lenin foram muito mais incisivos em suas críticas ao capitalismo do que em suas teorizações positivas sobre a sociedade socialista.
+
 …
+
 Quanto aos mecanismos de planejamento, Marx e Engels apresentaram algumas sugestões interessantes, mas estas nunca foram desenvolvidas além do nível de generalidades bastante vagas.
+
 (Towards a New Socialism)
+
 Esta proposta recebe o nome de cibercomunismo por alguns autores, e nada mais é do que a proposta de um modelo de comunismo onde utiliza-se os mais recentes avanços científicos e computacionais no desenvolvimento e gestão desta sociedade pós-capitalista. Não ficando restrita ao uso da computação apenas para cálculos econômicos, mas transformando a tecnologia em uma ferramenta de efetiva participação popular nas decisões políticas e econômicas desta sociedade, isto é, colocando nas mãos do trabalhador o poder de decisão sobre a produção e distribuição de bens.
+
 A primeira coisa a esclarecer sobre a natureza deste projeto é que o planejamento comunista nada mais significa do que a regulação consciente, racional e democrática da economia
+
 …
+
 Nesse sentido, o cibercomunismo está longe de ser uma “economia algorítmica” ou um “governo por algoritmos”. Pelo contrário, trata-se de um tipo de economia onde … os processos de avaliação e decisão individual, bem como os de deliberação democrática, permeiam toda a operação econômica: desde a escolha pessoal da profissão ou dos meios de consumo até a definição democrática dos objetivos de desenvolvimento econômico e social, passando pelo controle social do investimento, pela promoção de talentos individuais e pela implementação de novos projetos produtivos. Não se trata, portanto, de um “supercomputador” ou de uma “inteligência artificial central” que tente “adivinhar os desejos e preferências dos indivíduos”, “prever o futuro” ou “programar a vida social”. Muito pelo contrário: o que se propõe aqui é justamente ampliar o horizonte da autonomia individual e da participação democrática com o auxílio dos avanços científico-técnicos, dentro de uma estrutura de igualdade social e plenas liberdades individuais.
+
 (Economic Calculation, Complexity, and Cyber-communism: Bad News for the Austrian School)
 
-Eleições
+# 
+
+# **Eleições**
+
 Sobre a superação do capitalismo e a construção do capitalismo, um tópico que não pode ser ignorado é a revolução. O que é a revolução comunista e em que condições ela se dá. Aqui eu quero esboçar apenas um rascunho sobre o que penso acerca da situação que nos encontramos no Brasil.
+
 Em primeiro lugar eu gostaria de deixar claro que por revolução eu estou falando em uma mudança nas relações sociais de produção, que consequentemente conduz a uma mudança no modo de produção. Isto se dá quando as forças de produção se desenvolvem de tal modo que as atuais relações de produção passam a ser incompatíveis com as forças de produção, servindo então como uma amarra de seu potencial. Neste momento apenas uma revolução nas relações de produção é capaz de libertar as forças de produção para o seu máximo potencial através da implementação de novas relações de produção mais compatíveis com o atual nível das forças de produção, configurando então um novo modo de produção.
+
 De forma mais clara:
-Modo de produção: O método de produção dos bens e serviços necessários à vida (seja para saúde, alimentação, moradia ou necessidades como educação, ciência, nutrição, etc.). O Modo de Produção é a unidade das forças produtivas e das relações de produção.
-Forças de produção: As forças produtivas são a unidade de todo o trabalho, os instrumentos de produção (ex.: edifícios e máquinas) e os sujeitos de produção (ex.: matérias-primas.
-Relações de produção: As relações materiais objetivas que existem em qualquer sociedade, independentemente da consciência humana, formadas entre todas as pessoas no processo de produção social, troca e distribuição de riqueza material.
+
+**Modo de produção**: O método de produção dos bens e serviços necessários à vida (seja para saúde, alimentação, moradia ou necessidades como educação, ciência, nutrição, etc.). O Modo de Produção é a unidade das forças produtivas e das relações de produção. 
+
+**Forças de produção:** As forças produtivas são a unidade de todo o trabalho, os instrumentos de produção (ex.: edifícios e máquinas) e os sujeitos de produção (ex.: matérias-primas. 
+
+**Relações de produção:** As relações materiais objetivas que existem em qualquer sociedade, independentemente da consciência humana, formadas entre todas as pessoas no processo de produção social, troca e distribuição de riqueza material.
+
 (Glossário de termos do marxists.org)
+
 Em segundo lugar, eu acredito que a gente vive uma situação particularmente diferente de todos países que eu conheço que sofreram revolução. Próximo a época de revolução, estes países viveram uma situação de intensa instabilidade, e não por conta dos comunistas. Ou seja, a instabilidade e o próprio cenário revolucionário que estes países se encontravam não foi produto dos comunistas, o que os comunistas fazem é guiar esta revolução.
+
 Por exemplo, a China estava ocupada militarmente pelo Japão, já Cuba vivia sob a ditadura de Fulgêncio Batista, etc… Entendo que isto cria verdadeiramente uma sensação de que “não há nada a perder”. De certa forma, talvez a Rússia seja o país mais próximo do Brasil, já que ela não era colonizada. Mas ainda sim, o império russo estava envolvido em uma Guerra Mundial e sequer encontrava-se ainda com um modo de produção capitalista. Ou seja, não vivia sob um “capitalismo democrático” como o Brasil.
+
 Mesmo se tentássemos ignorar os efeitos da Primeira Guerra Mundial, devemos lembrar que a assembleia constituinte formada entre a revolução de fevereiro (revolução burguesa) e a revolução de outubro (revolução socialista) constava com mais de 20%[^4] dos deputados eleitos pertencendo ao partido bolchevique. Isto é, em um primeiro momento houve uma revolução burguesa, e no segundo momento, anterior à revolução socialista, os comunistas gozavam de cada vez mais popularidade. No momento não temos nenhum dos dois cenários no Brasil. Nem uma possível revolução e nem um apoio expressivo aos partidos marxistas.
+
 Hoje o Brasil é relativamente estável politicamente. Além disso, o capitalismo aprendeu a ceder algumas migalhas em prol da estabilidade. Como resultado, a classe média cresceu[^5] e se tornou uma das principais forças políticas, chegando a rivalizar com a classe baixa em termos de tamanho (a depender da métrica utilizada) e possuindo mais poder político. Se a pequena burguesia já era uma classe vacilante na época de Marx, ela possivelmente é ainda mais nos dias de hoje devido ao poder econômico e político que ganhou[^6]. Dessa forma, eu vejo que a situação do Brasil hoje em dia se aproxima mais de países como Índia e Chile, do que Cuba e China.
+
 A ascensão do capitalismo a partir do longo século XVI está associada a uma queda nos salários para níveis abaixo da subsistência, uma deterioração na estatura humana e um aumento na mortalidade prematura.
+
 …
+
 Onde houve progresso, melhorias significativas no bem-estar humano começaram apenas por volta do século XX. Esses avanços coincidem com a ascensão de movimentos políticos anticoloniais e socialistas.
+
 (Capitalism and extreme poverty: A global analysis of real wages, human height, and mortality since the long 16th century)
+
 Então como eu vejo a revolução sendo possível? O caminho que consigo visualizar é através da proposta de levar aos limites a democracia burguesa. Eu não vejo a possibilidade de convencer a população a expropriar os capitalistas enquanto as pessoas não defenderem sequer a existência de um salário mínimo, eu não vejo como vamos convencer a planificar a economia se as pessoas não defendem nem mesmo a existência de um imposto progressivo, então eu acredito que ainda existe um grande trabalho a ser feito dentro dos limites da democracia burguesa.
+
 Eleições não são as nossas metas, mas servem como um termômetro sobre o quanto o público está comprando nosso projeto de sociedade. Se as pessoas não se sentem convencidas sequer a votar em um candidato comunista, quais as chances de apoiarem uma revolução comunista? Não vou dizer que sejam nulas, mas acredito que sejam baixas. Se vivemos em uma situação que é percebida como estável por grande parte da população, que mesmo em uma situação difícil conseguem ter a perspectiva de ter um planejamento para o futuro, se torna uma tarefa mais árdua convencer este trabalhador de que ele realmente não tem nada a perder com uma mudança radical de toda organização econômica e social da sociedade.
+
 Então como lidar com uma população que é fortemente povoada por uma classe média com poder político e vacilante? Eu vejo que devemos seguir com certa precaução o exemplo do Salvador Allende, usar as vias legais tanto quanto possível. Se pudermos avançar em reformas, não há porque nos negarmos. Isso serve de propaganda das ideias comunistas de duas formas. Primeiro, quando os projetos são aprovados e executados serve como uma demonstração que nosso projeto de sociedade é de fato superior. E segundo, quando reprovado serve como uma de denúncia sobre a perseguição que as ideias comunistas sofrem no capitalismo. Nada é mais mentiroso de que “é fácil ser comunista no capitalismo”.
+
 Sob as condições de que a classe dominante em um país capitalista esteja disposta a permitir que o Partido Comunista opere legalmente, o referido partido não rejeita a oportunidade. Afinal, o principal interesse de tal partido é elevar o nível de consciência do proletariado e de outras pessoas e organizá-las. Reformas também podem ser conquistadas de tempos em tempos.
+
 (Jose Maria Sison em Basic Principles of Marxism-Leninism: A Primer)
+
 Eu não acredito que seja possível atingir o comunismo por esta via. Penso que a exemplo do próprio caso chileno, a burguesia tende a reagir violentamente. Mas é talvez neste momento que surge a instabilidade necessária para que a revolução se concretize e as relações de produção sejam modificadas. Um momento de instabilidade, onde a população sinta-se obrigada a escolher entre avançar com um projeto radical ou recuar para uma situação inferior, pode ser o momento determinante para que o capitalismo seja superado.
+
 Quando até mesmo a classe média sentir que o seu projeto de sociedade está sendo atacado, este talvez seja o momento em que as condições necessárias para a revolução se concretizar se apresentam. Isto tudo sem abrir mão das possíveis reformas que surjam diante do caminho.
+
 É importante notar que não tenho por meta uma nem uma revolução armada e nem um cenário de instabilidade. Não tenho por objetivo a violência de nenhuma forma. No melhor dos cenários o comunismo é atingido via reformas legais. Porém, no pior dos cenários, a população precisa reagir à resposta violenta da burguesia. É neste processo que eu tendo a ver a classe média como um importante aliado dos proletários em países capitalistas com uma democracia liberal.
+
 Minha principal divergência com partidos sociais democratas, mesmo que adotem o discurso de que estão fazendo “tudo que é possível no momento”, se dá principalmente pelo horizonte reformista apresentado no discurso. Neste processo, eu defendo que o partido comunista tenha abertamente a intenção de superação do capitalismo, isto é, um horizonte revolucionário. As propostas devem seguir esse caminho, mesmo quando sabemos que serão rejeitadas, a rejeição deve servir de propaganda. O discurso deve se manter transparente, o objetivo não é tornar o capitalismo mais dócil, mas superá-lo. Ainda que, enquanto não superado, seja útil promover também projetos reformistas que garantam um alívio na classe trabalhadora.
+
 Através de uma postura propositiva que inclua projetos de políticas públicas realistas, a atuação política das organizações comunistas devem permitir que as pessoas vislumbrem uma nova possibilidade de vivência e percebam que é possível ir além do capitalismo. De fato, nada disso é totalmente novo. Apenas desejo ressaltar a importância de utilizarmos os meios legais até onde for possível para promover o desenvolvimento da qualidade de vida da classe e das forças de produção, até atingirmos um ponto que uma mudança nas relações de produção torna-se uma possibilidade concreta. E isto tudo sem cair na inocência de acreditar que a burguesia não vai reagir.
+
 Isso também implica que a questão central é a disputa da consciência de classe. Apesar de isto não ser novidade, talvez ainda estejamos negligenciando a importância desta disputa. Hoje em dia, as forças militares do estado são mais fortes do que em qualquer outro momento da história. O poder bélico estatal não tem adversários à altura que não seja outro poder militar estatal. Isso fica evidente, por exemplo, quando acompanhamos o genocídio que Israel comete na Palestina. Não há resistência armada civil capaz de parar Israel. Então mais do que nunca, é necessário o apoio da população, é a população que deve fazer resistência contra o ataque da burguesia. População, do qual, inclusive as forças policiais e militares fazem parte.
+
 … os rebeldes Bolcheviques encontraram pouca resistência e foram capazes de penetrar no edifício sem muita dificuldade e tomá-lo. Na sua maioria, a revolta em Petrogrado ocorreu sem derramamento de sangue e numa atmosfera de normalidade geral na capital. Estima-se que apenas cinco marinheiros e um soldado entre os atacantes foram mortos no assalto e que os defensores não sofreram baixas fatais.
+
 (Wikipédia)
-Esta necessidade de que a revolução seja feita pela massa de trabalhadores deve ficar muito clara. Deve estar claro para todas as pessoas que quem faz a revolução é, e sempre foi a classe trabalhadora. O povo. O partido comunista é apenas o guia da revolução. Mas não é o partido que faz a revolução. Não há como um pequeno punhado de marxistas fazerem uma revolução, ela só pode ser feita pela classe trabalhadora.
+
+Esta necessidade de que a revolução seja feita pela massa de trabalhadores deve ficar muito clara. Deve estar claro para todas as pessoas que quem faz a revolução é, e sempre foi a classe trabalhadora. O povo. O partido comunista é apenas o guia da revolução. Mas não é o partido que faz a revolução. Não há como um pequeno punhado de marxistas fazerem uma revolução, ela só pode ser feita pela classe trabalhadora. 
+
 O partido por estar inserido na classe trabalhadora deve se tornar capaz de reconhecer seus objetivos e anseios, e assim conseguir apresentar propostas efetivas, que são tomadas pela classe trabalhadora como um guia. Então torna-se nítido que a tarefa mais importante de qualquer organização comunista hoje, é estar inserida nos trabalhadores e disputar a consciência de classe dos trabalhadores.
+
 Para triunfar, a revolução deve ser dirigida pela classe operária … A moralidade revolucionária consiste em unir-se às massas, em ter confiança nelas, em compreendê-las, em escutar atentamente suas opiniões. Por suas palavras e seus atos, os membros do Partido, da União da Juventude trabalhadora e os quadros ganham a confiança, a admiração e o afeto do povo, realizam a união estreita das massas em torno do Partido, organizam-nas, fazem a propaganda entre elas, mobilizam-nas, para aplicar com entusiasmo a política e as resoluções do Partido.
+
 (Ho Chi Minh em Da Moralidade Revolucionária)
+
 São os trabalhadores que podem e devem fazer a revolução, acredito que nunca é demais enfatizar isso nos tempos atuais. Os trabalhadores devem desenvolver uma consciência acerca do poder que a própria classe possui, uma consciência acerca das contradições do capitalismo, e assim devem se tornar conscientes da necessidade de superação do capitalismo. Apenas através desse processo de educação que entendo que a classe trabalhadora seja capaz de aderir ao projeto político comunista e termine então por defender a revolução comunista.
+
 Quando se discute sobre a via legal como uma ferramenta para a construção do comunismo, torna-se impossível não discutir o significado da eleição de candidatos que se declaram socialistas ou comunistas. Para além da crítica mencionada anteriormente devido a ausência do horizonte revolucionário de muitos candidatos, e consequentemente um discurso rebaixado, eu acredito que temos algo a aprender.
-Pensando nos acontecimentos recentes, podemos refletir sobre a eleição nos EUA, especificamente para prefeito de Nova York, onde algumas coisas me chamam a atenção. Primeiro eu quero deixar claro que não o considero revolucionário, comunista, nem sequer socialista. Seu posicionamento político não é algo que possa ser comparado nem ao meu posicionamento político e nem copiado por comunistas/marxistas.
+
+Pensando nos acontecimentos recentes, podemos refletir sobre a eleição nos EUA, especificamente para prefeito de Nova York, onde algumas coisas me chamam a atenção. Primeiro eu quero deixar claro que não o considero revolucionário, comunista, nem sequer socialista. Seu posicionamento político não é algo que possa ser comparado nem ao meu posicionamento político e nem copiado por comunistas/marxistas. 
+
 Grande parte da campanha de Zohran Mamdani foi baseada em diferenciar o que ele entende de socialismo do que ele entende de comunismo, deixando claro que não é comunista. Ao mesmo tempo que se vende como uma campanha socialista, também promove uma campanha que se apoia fortemente no anticomunismo para traçar essa linha de separação entre ambos. Uma consequência desta prática, é que apaga-se a separação do capitalismo e socialismo, alterando o próprio sentido de socialismo. Isto faz com que a luta-anticapitalista sob esta bandeira do socialismo deixe de ser sobre a socialização dos meios de produção, e se torne meramente um capitalismo com menor desigualdade através de algumas políticas de redistribuição de renda.
-Em vez do lema conservador de: “Um salário justo por uma jornada de trabalho justa!”, deverá inscrever na sua bandeira esta divisa revolucionária: “Abolição do sistema de trabalho assalariado!”.
+
+Em vez do lema conservador de: “Um salário justo por uma jornada de trabalho justa\!”, deverá inscrever na sua bandeira esta divisa revolucionária: “Abolição do sistema de trabalho assalariado\!”.
+
 (Karl Marx em Salário, Preço e Lucro)
+
 Mas dito isso, eu ainda acredito que há o que aprender desta experiência. Afinal é a maior cidade do mundo, e me parece evidente que a principal preferência burguesa nestas eleições saiu derrotada. De forma alguma eu estou negando o poder e influência da ideologia dominante, até porque quem venceu não foge totalmente dela, de certa forma, venceu dentro dos limites da defesa desta mesma ideologia.
+
 Mas ainda sim, demonstra como as eleições são complexas, e sob certas condições, mesmo uma campanha com menos dinheiro pode derrotar o principal candidato da burguesia. Evidentemente a disponibilidade de recursos financeiros e a postura adotada do candidato diante da classe burguesa ainda é muito importante e claramente apontam tendências sobre quem serão os favoritos, mas sobra espaço para um certo grau de manobra e indecisão.
+
 Além disso, este resultado tem como consequência reforçar o sentimento de que há espaço para melhora dentro do sistema legal no capitalismo, o que reforça também o sentimento de que há algo a perder em uma revolução. Evidentemente pode-se alegar que ele venceu porque tem apoio da pequena-burguesia, ou da classe média no geral. Longe de negar isto, é isto que estou querendo colocar em discussão: A influência e o poder político da pequena burguesia. Necessitamos olhar para ela, traçar estratégias para e com ela. Anteriormente, mencionei sobre a classe média ser a principal aliada, de forma mais precisa, a pequena-burguesia me parece ser atualmente uma das principais aliada do proletariado em um país como o Brasil.
+
 Eu reconheço aqui que posso estar em uma posição privilegiada por eu mesmo ser classe média. Mas entendo que atualmente a gente precisa discutir o apoio da pequena burguesia e da classe média em geral. O que novamente não é novidade, esta questão sempre esteve presente nos textos marxistas, apenas reforça a necessidade de discutirmos isto mais claramente.
+
 Concluindo, eu entendo que estas eleições recentes não foram uma derrota da burguesia pelo proletariado, o candidato eleito não pode trazer grandes mudanças estruturais pois independente das ideias que pessoalmente traz, sua atuação está limitada pelo próprio funcionamento da estrutura capitalista. Mas eu vejo como uma clara derrota da grande burguesia para a pequena burguesia, e isto é significativo. Evidentemente que a burguesia pode impedi-lo de implementar todas as propostas fazendo com que o episódio se converta em uma derrota para a pequena-burguesia (e possivelmente para toda classe trabalhadora). Mas esta é outra discussão.
+
 O que eu queria chamar a atenção é que neste episódio, neste contexto das eleições, a grande burguesia sai derrotada. E isso não pode ser negligenciado. Como a pequena burguesia não tem aspirações revolucionárias, seus representantes também não terão. Mas ainda penso que esse episódio é algo no qual podemos tirar algumas lições.
 
-Revolução
+# 
+
+# **Revolução**
+
 Muito se fala sobre a necessidade da disputa pela consciência de classe. Comentei que as eleições não devem ser completamente ignoradas. Mas exatamente de que forma se disputa a consciência de classe? Aqui abrimos um novo tópico em nossa discussão acerca da cultura. Eu defendo, e sempre defendi que a arte, e a cultura como um todo, possui um uso político que não pode ser negligenciado. Mas apesar disso, na prática, me parece que o movimento comunista não tem dado a devida atenção à este tema.
+
 Acredito que em grande parte isto ocorreu devido ao fato de que movimentos marxistas anteriores viveram situações excepcionais que permitiram se darem o luxo de prestar menos atenção à essa questão cultural e ainda assim obterem revoluções de sucesso. Porém isto só foi possível em contextos no qual as sociedades já se encontravam em uma situação de flagrante instabilidade.
+
 Eu tenho bastante convicção da necessidade da construção de uma contracultura, isto é, uma cultura que se oponha a cultura hegemônica capitalista. Exatamente por não termos um ambiente de instabilidade prestes a estourar uma revolução. Sendo assim, a prioridade atual não é sobre vencer uma revolução armada, mas a tarefa principal que nos resta é disputar a consciência dos trabalhadores[^7] através da construção de uma contracultura.
+
 Devo chamar a atenção ao fato de que esta disputa de consciência política dos trabalhadores não se restringe a vídeos educacionais ou campanhas políticas diretas. Por melhores que sejam os professores envolvidos e por mais importante que estas tarefas sejam. Para mim, a prioridade do dia é toda a construção de uma cultura que incorpore essas críticas de forma natural. Isto é, a criação de uma cultura comunista, pensando na cultura como um conjunto de signos, valores e práticas. De forma que aqueles indivíduos que estejam imersos nessa cultura comunista, produzem e reproduzem naturalmente esta consciência política comunista que tanto buscamos difundir.
+
 Como um exemplo vindo do lado oposto do espectro político, então neste caso não temos exatamente uma contracultura, mas mais uma subcultura capitalista mesmo, podemos pensar no movimento bolsonarista. Sua construção, principalmente através das redes de disseminação de notícias falsas em 2018, construiu uma cultura. Há signos compartilhados pelos bolsonaristas (exemplo: termos ‘petralha’ e ‘luladrão’), há valores compartilhados por bolsonaristas (exemplo: anticomunismo) e há também práticas compartilhadas por bolsonaristas (exemplo: a prática de compartilhar as falsas notícias que recebem). Foi construída uma subcultura bolsonarista em torno do candidato Bolsonaro.
-Claro que a agitação e propaganda na sua forma mais direta, mais explicitamente política é importante, não estou negando isso. O que estou buscando discutir é que em tempos de ‘paz’, é insuficiente. É preciso reconhecer que há diferenças na construção do movimento revolucionário se vivemos em uma sociedade instável como a China ocupada pelo Japão Imperial ou se vivemos em um capitalismo estável como o Brasil.
+
+Claro que a agitação e propaganda na sua forma mais direta, mais explicitamente política é importante, não estou negando isso. O que estou buscando discutir é que em tempos de ‘paz’, é insuficiente. É preciso reconhecer que há diferenças na construção do movimento revolucionário se vivemos em uma sociedade instável como a China ocupada pelo Japão Imperial ou se vivemos em um capitalismo estável como o Brasil. 
+
 Não acredito ser coincidência que Gramsci, que ficou famoso por discutir exatamente a cultura, tenha vivido no contexto de uma Itália capitalista relativamente estável. Se pensarmos no contexto da China e dos locais onde outras revoluções socialistas ocorreram, a violência, a revolta armada era iminente, com ou sem organização comunista. Isto é, a revolta armada de certa forma não é produto dos partidos comunistas, eles apenas atuam na orientação desta revolta.
+
 Mas o fato é que atualmente não vivemos nessa situação de revolta iminente, então precisamos adotar uma estratégia adequada. Se a ‘guerra de assalto’ (tomar todo território inimigo de uma só vez) não nos é possível, precisamos desenvolver uma estratégia adequada para uma ‘guerra de posição’ (a tomada de posição a posição do território inimigo).
+
 Assim sendo, vejo a disputa pela consciência de classe como uma disputa cultural. E claro, uma disputa política, uma vez que não existe cultura apolítica. Temos uma disputa por valores, por afeto, pelo imaginário do trabalhador. Quando a pessoa comum, isto é, quem não é militante, se depara com um discurso ou um projeto político, ela reage a isso em grande parte baseado na cultura que carrega. Como ela vai receber este discurso depende exatamente da cultura no qual está inserida. Não que esta pessoa seja desprovida de raciocínio crítico e da capacidade de refletir sobre aquilo que vai contra suas crenças atuais, mas a concepção de mundo que o indivíduo carrega afeta sua recepção inicial a novas ideias.
+
 E não se constrói uma cultura apenas com agitação e propaganda, apenas com política direta, é preciso arte. Arte no seu duplo papel de ensinar e divertir.
-Lênin ensinava que a revolução socialista não é um único ato nem uma só batalha, mas toda uma época de agudos conflitos de classes, uma longa sucessão de batalhas em todas as frentes, isto é, em torno de todos os problemas da economia e da política. A fim de se colocar em condições de vencer a burguesia e de ganhar a batalha, o proletariado deve travar, sempre e em toda parte, uma luta consequente e revolucionária pela democracia.
-“Quanto mais vigorosa é a força mecânica da reação, tanto mais se afrouxa a ligação com as massas, e tanto mais se inscreve na ordem do dia a tarefa da preparação da consciência das massas (e não a tarefa da ação direta); tanto mais se inscreve na ordem do dia a utilização dos caminhos da propaganda e da agitação criados pelo velho poder (e não o ímpeto direto das massas contra esse mesmo velho poder).” (Op. cit., pág. 144)
+
+Lênin ensinava que a revolução socialista não é um único ato nem uma só batalha, mas toda uma época de agudos conflitos de classes, uma longa sucessão de batalhas em todas as frentes, isto é, em torno de todos os problemas da economia e da política. A fim de se colocar em condições de vencer a burguesia e de ganhar a batalha, **o proletariado deve travar, sempre e em toda parte, uma luta consequente e revolucionária** pela democracia.
+
+“Quanto mais vigorosa é a força mecânica da reação, tanto mais se afrouxa a ligação com as massas, e tanto mais se inscreve na ordem do dia a tarefa da preparação da consciência das massas (e **não a tarefa da ação direta**); tanto mais se inscreve na ordem do dia a utilização dos caminhos da propaganda e da agitação criados pelo velho poder (e não o ímpeto direto das massas contra esse mesmo velho poder).” (Op. cit., pág. 144\)
+
 (Lenin: vida e obra)
+
 Ou seja, nem tudo se reduz à “guerra de assalto” como diz Gramsci, ou a “ação direta” como diz Lênin, a revolução não é construída unicamente através da revolta armada ou ações diretas. A luta deve ser travada em todas as frentes, e isto para mim, implica necessariamente que é também, e talvez principalmente, uma disputa pela hegemonia cultural. A tarefa da agitação e propaganda de disputar a consciência política, pode ser colocada de forma mais geral como a tarefa de construir uma cultura que promova e incorpore a consciência política que desejamos promover entre os trabalhadores.
-Para ressaltar a importância da cultura, podemos recorrer a Bakhtin, que nos propõe uma relação direta entre a vida social e nossa própria atividade consciente individual. Para Bakhtin,a vida social não é uma mera exteriorização da vida interna, na verdade, a vida individual interna é a vida social interiorizada. Ou seja, a consciência política que queremos promover é internalizada no indivíduo a partir do momento que o indivíduo  desenvolve sua vida social dentro do contexto de uma dada cultura que promova esta consciência.
+
+Para ressaltar a importância da cultura, podemos recorrer a Bakhtin, que nos propõe uma relação direta entre a vida social e nossa própria atividade consciente individual. Para Bakhtin,a vida social não é uma mera exteriorização da vida interna, na verdade, a vida individual interna é a vida social interiorizada. Ou seja, a consciência política que queremos promover é internalizada no indivíduo a partir do momento que o indivíduo  desenvolve sua vida social dentro do contexto de uma dada cultura que promova esta consciência. 
+
 A consciência individual não é o arquiteto dessa superestrutura ideológica, mas apenas um inquilino do edifício social dos signos ideológicos…A consciência individual é um fato sócio ideológico.
+
 (Mikhail Bakhtin em marxismo e Filosofia da Linguagem)
+
 Em outras palavras, para mim, disputar a consciência política dos trabalhadores, é, exatamente, construir uma contracultura comunista adequada. O momento atual da nossa revolução, é então uma guerra de posição contra a hegemonia cultural capitalista.
 
-Cultura
+# 
+
+# **Cultura**
+
 Pela centralidade com o qual eu estou colocando a cultura em discussão, pode-se correr o risco de achar que estou abrindo mão da centralidade da base econômica na análise da sociedade. Eu gostaria de tranquilizar o leitor que esta não é minha intenção. E é sobre isto que quero discutir agora. A cultura não é um mero reflexo da base econômica, ao mesmo tempo que tem uma importância vital na sustentação do capitalismo ela não deixa de ser determinada pela base econômica no qual esta sociedade se sustenta.
+
 Minha intenção, é então, defender a seguinte afirmação:
-A cultura não é um reflexo secundário do modo de produção, mas parte constitutiva da estrutura social na qual as relações de produção existem; ainda assim, ela permanece historicamente determinada (limitada) pelo modo de produção.
+
+*A cultura não é um reflexo secundário do modo de produção, mas parte constitutiva da estrutura social na qual as relações de produção existem; ainda assim, ela permanece historicamente determinada (limitada) pelo modo de produção.*
+
 Primeiro, eu gostaria de fazer uma definição:
-Cultura: Um conjunto historicamente produzido de signos, valores e práticas que mediam toda atividade social, organizando a experiência humana. Lembrando que toda atividade social é mediada por signos que nunca são neutros.
+
+**Cultura**: Um conjunto historicamente produzido de signos, valores e práticas que mediam toda atividade social, organizando a experiência humana. Lembrando que toda atividade social é mediada por signos que nunca são neutros.
+
 Apesar de já termos expressado anteriormente, eu gostaria de enfatizar novamente o significado de alguns termos centrais no marxismo:
-Modo de produção: O método de produção das necessidades básicas da vida (seja para saúde, alimentação, moradia ou necessidades como educação, ciência, cuidados infantis, etc.). O Modo de Produção é a unidade das forças produtivas e das relações de produção. A produção começa com o desenvolvimento de seu aspecto determinante – as forças produtivas – que, uma vez atingido um certo nível, entram em conflito com as relações de produção dentro das quais se desenvolveram… O conflito entre as forças produtivas e as relações de produção é a base econômica da revolução social.
-Forças de Produção: A união dos meios de produção e do trabalho. Os meios de produção são as ferramentas (instrumentos) e a matéria-prima (material) que você usa para criar algo.
-Relações de produção: As relações materiais objetivas que existem em qualquer sociedade independentemente da consciência humana, formadas entre todas as pessoas no processo de produção social, troca e distribuição da riqueza material. A produção não é possível sem relações de produção – os seres humanos não podem produzir fora de uma estrutura social, seja uma nação ou uma família – as relações de produção existem para todos os produtores.
+
+**Modo de produção**: O método de produção das necessidades básicas da vida (seja para saúde, alimentação, moradia ou necessidades como educação, ciência, cuidados infantis, etc.). O Modo de Produção é a unidade das forças produtivas e das relações de produção. A produção começa com o desenvolvimento de seu aspecto determinante – as forças produtivas – que, uma vez atingido um certo nível, entram em conflito com as relações de produção dentro das quais se desenvolveram… O conflito entre as forças produtivas e as relações de produção é a base econômica da revolução social.
+
+**Forças de Produção**: A união dos meios de produção e do trabalho. Os meios de produção são as ferramentas (instrumentos) e a matéria-prima (material) que você usa para criar algo.
+
+**Relações de produção**: As relações materiais objetivas que existem em qualquer sociedade independentemente da consciência humana, formadas entre todas as pessoas no processo de produção social, troca e distribuição da riqueza material. A produção não é possível sem relações de produção – os seres humanos não podem produzir fora de uma estrutura social, seja uma nação ou uma família – as relações de produção existem para todos os produtores.
+
 (Glossário de Termos)
+
 Se unirmos todos esses conceitos, já podemos tirar algumas conclusões interessantes.
+
 Toda proposta revolucionária do marxismo consiste no seu objetivo em promover a superação do modo de produção capitalista. Uma vez que o que define se o modo de produção é capitalista ou comunista são as relações de produção, a revolução socialista não é outra coisa senão uma mudança nas relações de produção. E isto é independente da existência de uma revolução armada ou não. Assim sendo, as relações de produção ocupam uma posição central no debate.
+
 Uma vez entendido isso, para avançar na reflexão podemos sintetizar três ideias já expostas:
+
 a) Os seres humanos não podem produzir fora de uma estrutura social.
+
 b) Toda atividade social é mediada por signos não neutros.
+
 c) Definimos a cultura como um conjunto de signos historicamente produzidos.
-Com isso em mente, devemos perceber que a cultura não é um mero reflexo do modo de produção, mas ela é parte da estrutura social no qual as relações de produção - e consequentemente o modo de produção - existem. Nem por isso a cultura deve ser vista como autônoma, ela é determinada pelo modo de produção. Devemos entender que por “determinada”, o que queremos dizer é que o modo de produção impõe um limite nas possibilidades de desenvolvimento cultural que podem emergir nesta sociedade. Isto ficará mais claro com alguns exemplos posteriores.
-Também não podemos esquecer que nem toda relação social é uma relação de produção. Relações de produção possuem um significado mais estrito. No glossário de onde as definições foram retiradas podemos ler ainda que “a base das relações de produção é a propriedade dos meios de produção”. É importante não cairmos em um ‘culturalismo’ buscando combater o economicismo. Devemos lembrar que o modo de produção ainda determina (limita) a cultura de forma que a revolução socialista não pode ser realizada se perdermos de vista da posição determinante do modo de produção.
+
+Com isso em mente, devemos perceber que a cultura não é um mero reflexo do modo de produção, mas ela é parte da estrutura social no qual as relações de produção \- e consequentemente o modo de produção \- existem. Nem por isso a cultura deve ser vista como autônoma, ela é determinada pelo modo de produção. Devemos entender que por “determinada”, o que queremos dizer é que o modo de produção impõe um limite nas possibilidades de desenvolvimento cultural que podem emergir nesta sociedade. Isto ficará mais claro com alguns exemplos posteriores.
+
+Também não podemos esquecer que nem toda relação social é uma relação de produção. Relações de produção possuem um significado mais estrito. No glossário de onde as definições foram retiradas podemos ler ainda que “*a base das relações de produção é a propriedade dos meios de produção*”. É importante não cairmos em um ‘culturalismo’ buscando combater o economicismo. Devemos lembrar que o modo de produção ainda determina (limita) a cultura de forma que a revolução socialista não pode ser realizada se perdermos de vista da posição determinante do modo de produção.
+
 Deve-se lembrar também que o modo de produção é a unidade das forças e relações de produção e esta unidade é dialética, isto é, estes elementos não existem de forma separada e independente. Não é uma mera união mecânica de duas coisas separadas. As relações de produção não existem independente das forças de produção, assim como também a expressão cultural de uma sociedade não é independente do seu modo de produção. Isto deve ficar claro, pois esta discussão insere a cultura no debate marxista, mas não retira o modo de produção de uma posição central deste mesmo debate.
+
 O que estou buscando deixar claro é que a cultura é mais que um reflexo passivo do modo de produção como pregado pelo economicismo. E também é mais que um mero fenômeno secundário, como muitas vezes acaba sendo expresso mesmo por alguns críticos do economicismo que recorrem à clássica divisão entre infraestrutura e superestrutura. A cultura pode ser vista como algo que atravessa o modo de produção uma vez que relações de produção também são relações sociais. Não há um modo de produção que exista a parte de qualquer cultura.
+
 Isto é, a estrutura social no qual as relações de produção existem possuem uma dimensão cultural no qual o modo de produção se insere. Como toda atividade social é mediada por signos que nunca são neutros, e estes são produzidos socialmente dentro de uma dada cultura hegemônica, a cultura pode ser entendida como um dos mecanismos responsáveis por manter o modo de produção capitalista estável de forma “democrática”.
+
 E aqui consiste uma das principais características do capitalismo, o senso de liberdade e escolha democrática construído pela cultura hegemônica. Sob certos limites, podemos afirmar que grande parte dos trabalhadores aceitam se submeter à exploração capitalista voluntariamente, pois esta exploração foi (através da cultura hegemônica) naturalizada.
+
 A opressão em outros modos de produção era mais direta, haviam guardas fisicamente coagindo os escravizados para produzirem coisas para o senhor escravista. Era uma opressão que acontecia diretamente por meios militares. A opressão era física, visível, explícita. No feudalismo pode-se argumentar que existia ainda uma questão cultural em justificar qual era a família real. Há um aspecto cultural na determinação de porque era aquela família a real e não outra, mas uma vez que se aceita isso, a dominação se dá novamente de forma bastante direta. É tal família que detém o poder político e econômico, é esta família que possui o sangue real, uma família camponesa não pode se tornar uma família real.
+
 Esta separação das duas esferas (político-jurídico) e econômica, de modo que há também uma modificação nos meios empregados para a exploração (de meios extra-econômicos para meios econômicos) está na origem do próprio capitalismo. Ellen Wood discute esta etapa de transição em seu livro. Comentando as ideias de Perry Anderson, Wood comenta:
-O estado absolutista era essencialmente feudal, insiste ele, porque representou o deslocamento para cima e a centralização dos poderes coercitivos político-jurídicos dos senhores feudais, separando-os da exploração econômica. Dito de outra maneira, o Estado absolutista separou os dois momentos da exploração - o processo de extorsão do excedente de um lado, e o poder coercitivo que o sustentava de outro.
+
+O estado absolutista era essencialmente feudal, insiste ele, porque representou o deslocamento para cima e a centralização dos poderes coercitivos político-jurídicos dos senhores feudais, separando-os da exploração econômica. Dito de outra maneira, o Estado absolutista separou os dois momentos da exploração \- o processo de extorsão do excedente de um lado, e o poder coercitivo que o sustentava de outro.
+
 (A Origem do Capitalismo)
+
 Lembrando que esta distinção entre os diferentes meios de coerção adotado pelas sociedades pré-capitalistas e capitalistas está presente desde Marx. Sobre o capitalismo, Marx diz:
+
 No evolver da produção capitalista desenvolve-se uma classe de trabalhadores que, por educação, tradição e hábito, reconhece as exigências desse modo de produção como leis naturais e evidentes por si mesmas … a coerção muda exercida pelas relações econômicas sela o domínio do capitalista sobre o trabalhador. A violência extraeconômica, direta, continua, é claro, a ser empregada, mas apenas excepcionalmente.
-(Karl Marx em O Capital 1)
+
+(Karl Marx em O Capital 1\)
+
 Podemos comparar esta situação imposta pelo capitalismo, com uma situação híbrida, onde o capitalismo ainda não se tornou o modo de produção dominante.
+
 Basta, aqui, uma simples alusão a formas híbridas, em que o mais-valor não se extrai do produtor por coerção direta e que tampouco apresentam a subordinação formal do produtor ao capital. Nesses casos, o capital ainda não se apoderou diretamente do processo de trabalho
-(Karl Marx em O Capital 1)
-Temos um claro contraste entre a coerção direta de formas pré-capitalistas e a coerção indireta no capitalismo.  E algo que vamos retomar mais adiante, mas que merece uma atenção especial é a de que a classe de trabalhadores aceita o modo de produção através da “educação, tradição e hábito”. Esta ideia também aparece, citando novamente Ellen Wood, quando ela comenta sobre as contribuições de Thompson.
-Em sua obra o desenvolvimento do capitalismo ganha vida não apenas como um processo de proletarização, particularmente em seu clássico A formação da classe trabalhadora inglesa (1963), mas também como um confronto vivo entre os princípios do mercado, as práticas e valores alternativos…
+
+(Karl Marx em O Capital 1\)
+
+Temos um claro contraste entre a coerção direta de formas pré-capitalistas e a coerção indireta no capitalismo.  E algo que vamos retomar mais adiante, mas que merece uma atenção especial é a de que a classe de trabalhadores aceita o modo de produção através da “*educação, tradição e hábito*”. Esta ideia também aparece, citando novamente Ellen Wood, quando ela comenta sobre as contribuições de Thompson.
+
+Em sua obra o desenvolvimento do capitalismo ganha vida não apenas como um processo de proletarização, particularmente em seu clássico *A formação da classe trabalhadora inglesa* (1963), mas também como um confronto vivo entre os princípios do mercado, as práticas e valores alternativos…
+
 (A Origem do capitalismo)
-Ou seja, para que o capitalismo possa surgir, temos um confronto vivo entre valores e práticas. Se lembrarmos que definimos cultura como um conjunto de signos, valores e práticas, podemos presumir que foi necessário a formação de uma nova cultura. Podemos complementar esta discussão dando o exemplo que falta nesta citação, abordando a questão dos signos. No mesmo livro, Wood nos diz que a palavra melhorar em sua acepção original significava literalmente “fazer alguma coisa com vistas ao lucro monetário” e mais adiante, é a própria autora que nos convida a refletir sobre o aspecto cultural.
+
+Ou seja, para que o capitalismo possa surgir, temos um confronto vivo entre valores e práticas. Se lembrarmos que definimos cultura como um conjunto de signos, valores e práticas, podemos presumir que foi necessário a formação de uma nova cultura. Podemos complementar esta discussão dando o exemplo que falta nesta citação, abordando a questão dos signos. No mesmo livro, Wood nos diz que a palavra melhorar em sua acepção original significava literalmente “*fazer alguma coisa com vistas ao lucro monetário*” e mais adiante, é a própria autora que nos convida a refletir sobre o aspecto cultural.
+
 … essa palavra foi adquirindo um significado mais geral, no sentido como a conhecemos hoje (e seria interessante pensar nas implicações de uma cultura em que a palavra correspondente a “tornar melhor” enraíza-se no termo que corresponde a lucro monetário).
+
 (A Origem do capitalismo)
-Sendo assim, não deve nos surpreender que Thompson, que segundo Wood, teria dito que um dos momentos axiais da formação do capitalismo seja o “o processo em que foram forjados um novo proletariado e uma nova cultura da classe trabalhadora.”
+
+Sendo assim, não deve nos surpreender que Thompson, que segundo Wood, teria dito que um dos momentos axiais da formação do capitalismo seja o “*o processo em que foram forjados um novo proletariado e uma nova cultura da classe trabalhadora.*” 
+
 Retomando então a comparação entre o modo de produção capitalista e modos pré-capitalistas, minha impressão é de que nestes sistemas sempre foi explícita a separação entre quem são os opressores e quem são os oprimidos. Se você estivesse na base da pirâmide social, e convencesse todos ao seu redor que as coisas deveriam mudar, ainda sim seria irrelevante. Claro, não seria irrelevante se esta mobilização resultasse em uma revolta, mas isso implica que não se podia nutrir a esperança de que fosse possível mudar as coisas “dentro do sistema”. Essas possibilidades não estavam previstas nem como uma mera possibilidade teórica. Há uma imposição explícita imposta de cima para baixo, a mobilidade social é abertamente inflexível. E entendo que isso opera um pouco diferente no capitalismo.
+
 No capitalismo atual, a opressão ocorre de forma mais indireta e mediada. Ela se dá pela desigualdade entre quem necessita de dinheiro e quem detém o dinheiro. Mas essa dinâmica é revestida de uma aparência neutra. Não há um exército que force o produtor a entregar sua produção para o seu senhor, mas nasce uma imposição análoga devido a atuação das “forças econômicas”, da necessidade que o trabalhador tem de vender a sua força de trabalho. Porém agora, em teoria, qualquer um pode se tornar explorador, é principalmente a estrutura social que mantém essa distinção entre explorados e exploradores. A atividade social no capitalismo é mediada também pelo dinheiro, e em teoria, qualquer um pode ter dinheiro.
+
 Essa exploração nasce então de “comum acordo”, nos submetemos a um trabalho assalariado de forma “livre”. E não é só isso, aparentemente o “poder” foi deslocado da família real ou do escravagista para o “estado”, que agora adquire ares de uma entidade abstrata que não discrimina os cidadãos. Na prática, o estado é uma ferramenta de opressão sendo utilizada classe dominante, mas em teoria, de acordo com a constituição, podemos eleger qualquer um para ocupar uma posição no estado e este representa os interesses de toda sociedade. Não há uma limitação teórica para a escolha dos representantes.
+
 Isto se diferencia dos sistemas anteriores. Agora as limitações precisam ser impostas de forma mais implícita. Em teoria poderíamos eleger um congresso inteiro de comunistas. Em teoria, se eu convencer todos os explorados iguais a mim a eleger apenas candidatos que defendam nossos interesses, o estado poderia ser usado também  para atender nossos interesses.
+
 Tudo isto é uma possibilidade que não existia em sistemas anteriores. Não conheço nenhum sistema no feudalismo que permitisse pacificamente mudanças tão grandes. Evidentemente na prática não é tão simples de levar isso às últimas consequências, mas um dos motivos de existir essa possibilidade teórica no capitalismo, e apesar disso ela nunca se concretizar, para mim, é a existência da questão cultural. Questão que é determinada pela base material e econômica da sociedade, deve-se ressaltar.
+
 O sistema permite que as pessoas escolham quem vai “deter o poder” através do estado, mas ao mesmo tempo, a classe dominante mantém um controle cultural sobre os gostos, valores e afetos da população. Ou seja, as pessoas são livres para votar em quem vão representá-las, mas seus gostos são construídos seguindo os interesses da classe dominante. Um movimento que se dá através da cultura.
+
 Não basta reconhecer que o estado representa o interesse da classe dominante, mas devemos discutir como se sustenta. Pois a não ser que defendamos “fraude nas urnas”, é inegável que milhões de pessoas votam e participam do processo eleitoral. Podemos alegar que se elas elegerem alguém radical de verdade a burguesia iria derrubar com um golpe, podemos lembrar o Allende no Chile, mas na prática nunca chegamos a isso. As pessoas sequer elegem os candidatos radicais, e devemos entender como isso ocorre.
+
 É esta reflexão, que para mim, resulta na constatação de que um dos grandes focos de poder no capitalismo, se dá na dimensão da cultura. Isto é, na construção dos nossos valores e gostos, na construção do nosso imaginário. Uma das grandes ferramentas de controle e organização do capitalismo é sua capacidade de criar uma cultura que perpetua e justifica a exploração. A força militar surge de forma secundária principalmente em momentos de crise, mas não é a principal força atuante no cotidiano para a maior parte da população.
-A indústria no capitalismo não se reduz a “indústria material”, aquela que tipicamente pensamos quando pensamos em indústria, ou seja, aquela indústria que produz bens materiais. Mas a indústria capitalista inclui, e não com menor importância, a indústria cultural, isto é, a indústria que produz  cultura. Como exemplo desta indústria, podemos lembrar da indústria de Hollywood estado-unidense exportando uma cultura atrelada ao “American Way of Life”, ou então o fenômeno global de popularização da cultura sul-coreana chamada de onda coreana “Hallyu”, também poderíamos citar o Japão e o soft-power construído a partir da indústria de animes e mangás. Nenhuma destas indústrias existe sem uma base material e econômica que torne elas possíveis, e nenhuma delas existe também sem uma participação ativa do estado que age em prol do interesse das classes dominantes.
+
+A indústria no capitalismo não se reduz a “indústria material”, aquela que tipicamente pensamos quando pensamos em indústria, ou seja, aquela indústria que produz bens materiais. Mas a indústria capitalista inclui, e não com menor importância, a indústria cultural, isto é, a indústria que produz  cultura. Como exemplo desta indústria, podemos lembrar da indústria de Hollywood estado-unidense exportando uma cultura atrelada ao “*American Way of Life*”, ou então o fenômeno global de popularização da cultura sul-coreana chamada de onda coreana “*Hallyu”*, também poderíamos citar o Japão e o *soft-power* construído a partir da indústria de animes e mangás. Nenhuma destas indústrias existe sem uma base material e econômica que torne elas possíveis, e nenhuma delas existe também sem uma participação ativa do estado que age em prol do interesse das classes dominantes.
+
 Para ficar mais claro, podemos trabalharmos com uma definição de cultura hegemônica:
-Hegemonia cultural: refere-se ao domínio de um grupo cultural sobre outros dentro de uma sociedade. Esse domínio não é imposto apenas por meios políticos ou econômicos, mas é estabelecido e mantido por meio de instituições culturais, como a mídia, a educação e a religião. A hegemonia cultural molda percepções, normas e valores, muitas vezes levando à marginalização de perspectivas e estilos de vida alternativos.
+
+**Hegemonia cultural**: refere-se ao domínio de um grupo cultural sobre outros dentro de uma sociedade. Esse domínio não é imposto apenas por meios políticos ou econômicos, mas é estabelecido e mantido por meio de instituições culturais, como a mídia, a educação e a religião. A hegemonia cultural molda percepções, normas e valores, muitas vezes levando à marginalização de perspectivas e estilos de vida alternativos.
+
 (adaptado de Oxford Review)
-Ou seja, a classe dominante produz a cultura hegemônica (dominante). Esta cultura abrange e expande conforme necessário um conjunto de signos, valores e práticas que justificam e sustentam a manutenção desta mesma classe no poder. Não foi ao acaso que Marx, na Ideologia Alemã declarou que “as ideias da classe dominante são as ideias dominantes”. Esta dominação é construída através da dimensão cultural da sociedade, e isto é construído também materialmente, uma vez que a cultura tem sua dimensão material, não é um mero campo de ideias descolado da realidade material. Isto é, a cultura precisa se manifestar também de forma material.
+
+Ou seja, a classe dominante produz a cultura hegemônica (dominante). Esta cultura abrange e expande conforme necessário um conjunto de signos, valores e práticas que justificam e sustentam a manutenção desta mesma classe no poder. Não foi ao acaso que Marx, na Ideologia Alemã declarou que “*as ideias da classe dominante são as ideias dominantes*”. Esta dominação é construída através da dimensão cultural da sociedade, e isto é construído também materialmente, uma vez que a cultura tem sua dimensão material, não é um mero campo de ideias descolado da realidade material. Isto é, a cultura precisa se manifestar também de forma material.
+
 Se quisermos manter a distinção de infraestrutura e superestrutura podemos recuperar a citação original de Marx:
+
 A totalidade destas relações de produção forma a estrutura económica da sociedade, a base real sobre a qual se ergue uma superestrutura jurídica e política, e à qual correspondem determinadas formas da consciência social. O modo de produção da vida material é que condiciona o processo da vida social, política e espiritual.
+
 (Karl Marx em Para a Crítica da Economia Política)
+
 Mas é importante aqui perceber que por superestrutura, não é qualquer coisa que não corresponda a infraestrutura, mas a estrutura jurídica e política que organiza e defende a base econômica. Se quiser expandir um pouco a ideia de superestrutura, podemos lembrar por exemplo da discussão de Stálin sobre a linguagem não ser uma superestrutura:
+
 A INFRA-ESTRUTURA é o regime econômico da sociedade numa etapa determinada de seu desenvolvimento. A super-estrutura são as opiniões políticas, jurídicas, religiosas, artísticas, filosóficas da sociedade e as instituições políticas, jurídicas e outras que lhes correspondem.
+
 Toda infra-estrutura tem sua superestrutura correspondente…Se a infra-estrutura se transforma e desaparece, ela acarreta a transformação e o desaparecimento de sua super-estrutura; se nasce uma infra-estrutura nova, ela acarreta o nascimento da super-estrutura que lhe corresponde.
+
 (Stálin em Sobre o marxismo na Linguística)
+
 Ainda que seja uma concepção mais polêmica, de maneira nenhuma a cultura como um todo se confunde como uma mera superestrutura mesmo nesta concepção. O que entendo, é que podemos pensar que a cultura hegemônica em particular age como uma superestrutura auxiliando na manutenção do modo de produção. Mas ainda devo chamar a atenção que mesmo a cultura hegemônica não pode ser vista como um mero reflexo ou produto passivo da base econômica, uma vez, que como foi dito, ela atravessa o próprio modo de produção.
+
 Assim sendo, as próprias relações de produção que ocupam uma posição especial na estrutura social não são exteriores a esta estrutura, não podem existir fora de qualquer cultura. Ainda que costumeiramente ressaltamos o aspecto econômico das relações de produção e do modo de produção, estes também possuem um aspecto social e cultural intrínsecos.
+
 As relações de produção são parte da vida social no qual a sociedade se organiza. Assim sendo, a cultura influencia como construímos a própria vida social no qual a sociedade se organiza e se mantém.
+
 Não é de fato uma discussão inovadora. Reconhecidamente, uma das grandes contribuições de Marx para o debate da economia política foi reconhecer o aspecto social do trabalho. O próprio “valor” conforme exposto por Marx, só existe em uma relação de troca, e não como uma propriedade intrínseca do bem produzido.
+
 Podemos trabalhar com alguns exemplos grosseiros. Ainda que o capitalismo imponha determinadas relações de produção, a postura que adotamos diante destas relações é menos definida. O senso comum promovido pela classe dominante que detém a hegemonia cultural visa promover uma percepção da realidade social que justifique a exploração. Isto pode ser expresso por exemplo, nas palavras (signos) escolhidas para abordar determinados assuntos.
+
 Optar por chamar um trabalhador de assalariado ou ‘associado’ transmite diferentes ideias da posição que este trabalhador ocupa na sociedade. Enquanto o assalariado transmite uma ideia mais fria, ‘associado’ pode ser uma escolha de palavras mais adequada dentro de um discurso que visa convencer o funcionário a ‘vestir a camisa da empresa’ e aceitar de forma mais passiva a exploração no qual é submetido.
-Às vezes a cultura hegemônica se revela através de discursos mais diretos. Não é incomum nos depararmos com a exposição da ideia de que os trabalhadores deveriam ser gratos aos burgueses por terem um trabalho. Reproduzindo assim uma visão de mundo onde os burgueses não apenas não são culpados pela exploração que promovem, mas que os explorados lhe devem gratidão.
+
+Às vezes a cultura hegemônica se revela através de discursos mais diretos. Não é incomum nos depararmos com a exposição da ideia de que os trabalhadores deveriam ser gratos aos burgueses por terem um trabalho. Reproduzindo assim uma visão de mundo onde os burgueses não apenas não são culpados pela exploração que promovem, mas que os explorados lhe devem gratidão. 
+
 Em ambos exemplos discutidos, a relação de produção é uma só, mas a forma com que percebemos esta relação não é. A cultura hegemônica capitalista e uma contracultura comunista vão reunir um conjunto de signos, valores e práticas que vão levar a diferentes práticas e percepções sobre um mesmo evento. Evidentemente, enquanto um visa tornar os trabalhadores passivos e aceitarem o sistema atual, o outro visa tornar o trabalhador um agente ativo na revolução deste sistema.
+
 Talvez um caso mais prático e atual que ilustra minha posição se dá nos próprios movimentos sociais. Podemos citar como exemplos os movimentos feminista e antirracista.
+
 Não há luta contra o racismo sem luta contra o capitalismo. (Mamadou Ba para Esquerda.net)
+
 A luta anticapitalista não é possível sem a questão racial. (Dennis Oliveira para SINPRO-DF)
+
 Podemos dizer, sem prejuízo de diminuirmos a importância da questão, que a superação do racismo como um problema estrutural demanda uma mudança cultural. Novamente, é preciso reforçar que cultura possui uma dimensão material, não é uma mera questão de ideias. Portanto, dizer que é uma mudança cultural não é defender que deve-se apenas mudar as ideias, mas inclui necessariamente mudanças materiais, como por exemplo mudanças políticas e jurídicas, ou de forma mais ampla, mudanças em instituições que também são responsáveis por produzir cultura.
+
 É preciso sempre ter em mente que a cultura é produzida por seres humanos, portanto não é algo que paira sobre a humanidade, uma mudança cultural demanda necessariamente uma mudança material e social na sociedade onde vivem estes homens que reproduzem esta cultura. Podemos constatar então que o movimento antirracista esta ciente de que a mudança cultural que a luta antirracista exige, não está desconectada de uma mudança econômica de superação do capitalismo.
+
 Nem é nem apenas uma mudança econômica onde a mudança cultural será um mero reflexo (ou seja, a ideia de que superar o capitalismo levaria automaticamente a superar o racismo), e nem apenas uma mudança cultural que pode ser feita independentemente de uma mudança econômica (ou seja, que o racismo pode ser superado sem a superação do capitalismo). Na prática então, o movimento antirracista já reconhece tudo que eu estou tentando argumentar.
+
 Podemos ver então como o modo de produção capitalista determina a cultura hegemônica racista. Isso não implica que o modo de produção comunista automaticamente supera o racismo, mas ele expande os limites de modo que abre a possibilidade de que o racismo seja superado, algo que não é possível no capitalismo.
-As relações sociais de produção, embora materialmente determinadas, são culturalmente mediadas. Logo, a base material é produzida pela atividade econômica e limita a cultura; entretanto, sua manutenção exige a produção contínua de valores ideais, significados e afetos que são produzidos culturalmente.
-Moralidade
+
+*As relações sociais de produção, embora materialmente determinadas, são culturalmente mediadas. Logo, a base material é produzida pela atividade econômica e limita a cultura; entretanto, sua manutenção exige a produção contínua de valores ideais, significados e afetos que são produzidos culturalmente.*
+
+**Moralidade**
+
 Devo ressaltar, mais uma vez, que a questão cultural para mim ocupa uma posição central na superação do capitalismo. Isto nos conduz a algumas questões, como por exemplo, como produzir uma cultura comunista? É possível começar a produzir esta cultura quando ainda estamos em uma sociedade capitalista?
+
 Produzir uma “economia comunista” no sentido de elaborar apenas um plano técnico de produção levando em conta a tecnologia, matéria prima e ferramentas disponíveis, considerando que todo mundo já concorda com o comunismo, não é o maior desafio, é uma questão meramente técnica. Podemos lembrar novamente do “Towards a new Socialism”, ou então do “Ciber-comunismo: planificación económica, computadoras y democracia”, ambos do mesmo autor.
+
 Não que seja simples, mas é uma questão técnica mais fácil de se trabalhar e não é o principal desafio para superar o capitalismo. A ciência e tecnologia necessárias já existem. Agora como produzir uma cultura no qual as pessoas estejam comprometidas em construir e manter esse modo de produção comunista? Não são questões separadas, mas talvez, muitas vezes estejamos negligenciando essa necessidade.
+
 Porém, de nenhuma forma eu mereço o mérito de ter sido o primeiro a trazer estas questões para debate. Alguns autores já têm pensado nisso de uma forma ou outra (podemos citar Terry Eagleton, Raymond Williams, Antonio Gramsci, Bertolt Brecht, Augusto Boal, etc), além disto, líderes comunistas sentiram na prática a necessidade de abordar o aspecto cultural na superação do capitalismo, e é isto que eu gostaria de comentar rapidamente.
+
 Podemos começar lembrando do fato de que a China realizou uma revolução cultural onde visava literalmente “revolucionar” a cultura, construindo e consolidando uma “nova cultura proletária” em detrimento de uma “antiga cultura burguesa”. Discute-se o sucesso desse esforço e os métodos que foram empregados, mas dificilmente comunistas discordam da necessidade de realizar uma revolução cultural. Há quem se posicione que um dos problemas da URSS que levou ao fim do bloco soviético tenha sido exatamente a ausência de uma revolução cultural mais contundente. Ou seja, um dos possíveis motivos para a dissolução do bloco soviético pode consistir exatamente no aspecto cultural.
+
 Isso reforça toda nossa discussão, não podemos ver a cultura como um mero reflexo ou algo secundário ao modo de produção, uma vez que aparentemente, sem uma cultura hegemônica adequada, um modo de produção pode falhar em se estabelecer. A experiência tem nos mostrado que não é possível esperar realizar primeiro uma revolução política e econômica, para futuramente realizar uma revolução cultural de forma separada, todas estas dimensões (política, econômica e cultural) precisam ser modificadas de forma conjunta.
+
 E isto não é, de fato, algo que passou despercebido pelo movimento comunista. A construção desta cultura pode, e deve, começar no próprio interior dos partidos e da organização proletária em geral. Lenin defende a utilidade de sindicatos e greves como uma experiência que permite aos trabalhadores aprenderem a se organizar e lutar na prática, isto é, se me permitem chamar assim: desenvolver uma cultura organizativa. Mas acredito que podemos expandir isso para outros aspectos culturais.
+
 Assim, as greves ensinam os operários a unirem-se; as greves fazem-nos ver que somente unidos podem agüentar a luita contra os capitalistas; as greves ensinam os operários a pensarem na luita de toda a classe patronal e contra o governo autocrático e policial. Exatamente por isso, os socialistas chamam as greves de "escola de guerra", escola em que os operários aprendem a desfechar a guerra contra seus inimigos, pola emancipaçom de todo o povo e de todos os trabalhadores do jugo dos funcionários e do jugo do Capital.
+
 (Lenin em Sobre  as Greves)
+
 Ho Chi Minh (Da Moralidade Revolucionária) por exemplo, fala da necessidade dos membros do partido abandonarem o individualismo, que estes deveriam servir como modelos para os trabalhadores, isto é, na prática, a construção de uma nova cultura de valores coletivos em detrimento de uma cultura individualista. Enver Hoxha (A Luta Ideológica e a Educação do Homem Novo) vai falar da necessidade de reforçar a “consciência comunista” das massas trabalhadoras, o que é isto se não a construção de uma nova cultura? Che Guevara (Socialismo e o Homem em Cuba) vai dizer que precisamos criar o Homem do século XXI. Kim Il Sung (Sobre a Eliminação do Dogmatismo, do Formalismo e o Estabelecimento do Juche no Trabalho Ideológico) vai discutir sobre a necessidade de educar o povo e inspirar neste povo um amor ardente ao seu lugar de origem, ideia que está nos pilares da Ideia Juche. Certamente poderíamos seguir citando outros revolucionários, mas para concluir, quero deixar apenas uma última citação:
+
 Nos últimos vinte anos, para onde quer que essa nova força cultural tenha levado os seus ataques, verificou-se uma grande revolução, tanto no conteúdo ideológico como na forma (por exemplo na linguagem escrita). A sua influência é tão grande e o seu impacto tão poderoso que se afigura invencível onde quer que chega. A mobilização a que se procedeu ultrapassou a de qualquer outro período na China. Lu Sun foi o maior e mais corajoso porta-bandeira dessa nova força cultural. Comandante em chefe da revolução cultural chinesa, ele não foi apenas um grande homem de letras, foi também um grande pensador e um grande revolucionário. Lu Sun foi um homem de coluna vertebral tesa, sem sombra de servilismo nem obsequiosidade — qualidade inestimável dos povos das colónias e semi-colónias. Na frente cultural, Lu Sun foi o representante da grande maioria da nação, o herói nacional mais correto, mais bravo, mais firme, mais fiel e mais ardente, um herói que abriu brecha e arrasou a cidadela do inimigo, um herói sem igual. A via de Lu Sun foi justamente a via da nova cultura nacional da China.
+
 (Mao em Sobre a Democracia Nova)
+
 Como isso deve ser feito exatamente é uma questão em aberto, porém não há discussão sobre que isso precisa ser feito. E certamente precisa ir além do ambiente interno do partido, neste sentido devo destacar o Lu Sun sendo elogiado por Mao. Ou trabalhando com um exemplo mais nacional, lembrar do Augusto Boal e da sua posição de que se o teatro não é revolucionário, ele é pelo menos um ensaio para a revolução. Brecht também é conhecido por defender uma posição onde vê no teatro, e na arte no geral, uma ferramenta política a ser utilizada pelo movimento comunista.
+
 Evidentemente, há uma limitação pela situação material que vivemos. Não estou dizendo que a partir de hoje só deveríamos consumir arte comunista, mas somos influenciados por tudo que consumimos e vivemos deve ser unicamente “arte comunista”, apenas que na medida do possível uma revolução que vise a superação do capitalismo, deve visar também a construção de um ambiente cultural no qual determinados valores são difundidos ou combatidos de acordo com o interesse revolucionário. Toda arte sempre é, e sempre foi política. Não é apenas sobre construir a tecnologia necessária para que seja possível um novo modo de produção e distribuição de bens, mas também sobre a construção de novos valores e afetos, de uma nova concepção de mundo comunista, e consequentemente, de um novo modo de vida comunista.
+
 Os reacionários – especialmente os fascistas – procuram evitar que essa situação seja devidamente compreendida, procuram escamotear a significação política global da arte e até procuram estetizar a política… Essa estetização da política (com o embelezamento fascista da guerra) exige uma réplica: “A resposta do comunismo é a de politizar a arte”… o problema estético surge quando eles se perguntam como a arte deve se politizar.
+
 (Bertolt Brecht em Os Marxistas e a Arte)
 
-Arte
-Eu gostaria que este texto não fosse longo, mas vejo necessidade de abordarmos ainda mais um aspecto referente à cultura. Especificamente a arte. Uma vez que eu mencionei anteriormente sobre a arte ser sempre política, e que quando falamos sobre cultura é impossível não pensarmos em arte, é importante abordarmos rapidamente este assunto. De fato, a relação entre arte e política tem sido um dos grandes motivos pelo qual tenho estudado o marxismo.
-Uma das questões que sempre se coloca diante de mim é “o que é arte?” (ou em sua variação “o que é literatura?”). Os autores que eu tenho lido (de Terry Eagleton a Ernst Gombrich, passando por Antoine Compagnon) tendem a concordar que não existe nenhum critério objetivo e universal sobre o que é arte (ou literatura). A resposta sempre depende para quem você pergunta (e frequentemente a classe de quem vai responder). Definir arte é sempre uma escolha, e não algo a ser descoberto na natureza.
-A definição de um termo como literatura não oferecerá mais que o conjunto das circunstâncias que os usuários de uma língua aceitam empregar este termo…É uma sociedade que, pelo uso que faz dos textos, decide se certos textos são literários fora de seus contextos originais... Uma definição de literatura é sempre uma preferência (um preconceito)
-(O Demônio da Teoria)
-Tenho quase certeza que é Eagleton que diz que o que diferencia uma nota fiscal de literatura, é apenas a intenção de quem lê. Podemos pensar na mesma distinção entre literatura e filosofia, se queremos ler diálogos de Platão como filosofia ou literatura, é algo que em última análise, é uma decisão que tomamos, e não algo intrínseco à obra. Mas se não existe um critério universal, se não existe Arte, o que seriam as artes? Ou o conjunto de “coisas” que normalmente chamamos de arte (como cinema, literatura, etc)?
-UMA COISA QUE realmente não existe é aquilo a que se dá o nome de Arte. Existem somente artistas.
-(História da Arte)
-Aqui eu preciso fazer uma proposta que eu reconheço ser altamente contestável e polêmica. Mas eu acredito que é uma proposta que tem pelo menos o mérito de suscitar um debate interessante. Se nos apoiarmos em Marx, o trabalho é um dos grandes diferenciais do homem em relação aos outros animais, e o trabalho é também uma atividade intrinsecamente social desde seus primórdios. Avançando com Bakhtin, obtemos a ideia de que a vida social humana é uma esfera mediada por signos (e não há signos neutros). Então eu proponho pensarmos nas diferentes formas de arte como formas específicas de socialização mediada via signos.
-O termo ‘arte’ (ou qualquer nome específico de determinada forma de arte) designa apenas classificações históricas e sociais, usadas para classificar certas formas de comunicação em determinados contextos. Eu estou assumindo implicitamente que quando um artista cria uma obra de arte, sempre há a proposta de uma comunicação, ainda que o receptor da sua comunicação seja a si próprio. Este talvez seja o ponto mais polêmico, mas não acredito ser totalmente ignorante.
-Me parece razoável supor que sempre um artista cria algo através do seu trabalho, e aqui estamos considerando arte apenas aquilo que é produto do trabalho humano, ele visa comunicar algo. Minha concepção de obra de arte aqui, é então, o produto de um trabalho humano, no qual o artista realiza uma operação sobre natureza visando transformá-la e expressar a si mesmo através do próprio trabalho. Lembrando que tanto o consumidor da sua obra de arte pode ser si próprio, quanto o artista não precisa estar plenamente ciente de o que deseja comunicar. Um artista pode acreditar estar escrevendo uma história neutra, ainda que não seja possível existir uma história neutra.
-O trabalho artístico, sob esta definição, é sempre teleológico, isto é, orientado por um fim previamente posto, no qual o ser humano antecipa idealmente a obra e organiza sua prática de modo intencional, ainda que o resultado final não seja um simples reflexo dessa intenção inicial. Assim, a diferença entre a declamação de uma poesia e um diálogo cotidiano não diz respeito a uma diferença fundamental nas atividades, são ambas atividades sociais mediadas por signos onde uma mensagem é enviada para alguém, a diferença está em como os signos que são mobilizados são vistos e classificados pela sociedade.
-Uma mesma carta, em um contexto pode ser apenas uma carta, e em outro contexto, pode ser literatura. Não sou capaz de conceber nenhuma produção artística que esteja ausente de mensagem, até mesmo porque todo signo possui um significado, e consequentemente transmite alguma mensagem, e por sua vez, é impossível consumirmos uma obra de arte sem que esta interação seja mediada por signos.
-Sendo assim, a obra de arte adquire uma importância política intrínseca. Pois ela é, na sua essência, a transmissão de alguma mensagem que não é neutra. De fato, esta é uma mensagem que tende a ser construída de forma mais elaborada para ser mais interessante e persuasiva que um diálogo cotidiano. Muitas vezes a mensagem que é transmitida sequer é algo óbvio como uma típica comunicação no cotidiano exige, o que pode conferir uma falsa aparência de neutralidade à obra de arte. Mas é aqui também que podemos perceber a dupla função da arte de divertir e ensinar, que se não estou errado, já foi discutido tanto por Aristóteles como Brecht.
-Não livre de polêmicas, mas podemos concluir então, que se não existe Arte, existem artes. E estas artes são diferentes formas de interação mediadas via signos, isto é, diferentes formas de transmitir uma mensagem que em dado local e época recebe o título de arte. Este título de arte tende a estar relacionado à um planejamento prévio que tipicamente confere uma maior complexidade nos signos mobilizados para transmitir a mensagem, e também possui uma dupla função de divertir e ensinar, características que muitas vezes podem dar a falsa sensação de que há arte sem mensagem, ou seja, sem política.
-Podemos entender um pouco mais sobre como se manifesta esse caráter pedagógico da arte. Sobre isto, a principal leitura que eu tenho em mente é “ Teatro do Oprimido e outras poéticas políticas” de Augusto Boal. No campo artístico, assim como Marx “inverteu” Hegel, Brecht faz uma operação análoga na área da poética.
-…para Hegel o personagem é inteiramente livre…; para Brecht (e para Marx) o personagem é objeto de forças sociais… Sobretudo, Hegel insiste em um ponto fundamental que marcará sua profunda diferença com a poética marxista de Brecht; “a ação não parece nascer de circunstâncias exteriores mas sim da vontade interior e dos caracteres dos personagens’’,
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-É interessante notar como as visões destes artistas de como a arte deveria ser divergem baseado na sua concepção idealista ou materialista do mundo. Para Hegel, a única restrição que deveria existir nos personagens é interna, por isso ele vai defender personagens que estejam livres das preocupações materiais, personagens que não tenham restrições econômicas, que podem mais facilmente tornar sua vontade em realidade.
-Já em Brecht, existe uma preocupação em mostrar a realidade social e as restrições que esta realidade impõe ao personagem. Ele não é livre, sua vontade interior não é soberana, este personagem ocupa uma posição central na poética para Brecht. Ainda que alguém em posição de poder seja representado no teatro, ele se encontra com determinadas restrições devido ao cargo que ocupa. Boal dá de exemplo uma peça onde o Papa como pessoa demonstra boa vontade com Galileu, mas esta mesma pessoa, como alguém na posição de Papa o condena. Para Brecht é necessário mostrar essa restrição social que se impõe à vontade interior dos personagens.
-Ou seja, enquanto Hegel busca uma poética que busca apresentar uma história no qual as ações nascem das vontades interiores, Brecht propõe uma poética onde as restrições da vida social estão explícitas e consistem precisamente na origem de muitas das ações.
-Estas diferentes posturas surgem pois seus teóricos possuem diferentes objetivos políticos com a arte. Para Hegel, ao final do espetáculo o equilíbrio deveria ser restabelecido, e ela deveria estimular uma coerência entre os valores defendidos pela sociedade atual e a plateia, assim como Platão, purificando os pensamentos “errados” da plateia através do consumo da obra.
-Brecht, de certa forma,  também visa atingir uma conformidade entre a sociedade e os sentimentos da plateia, mas não através do expurgo dos sentimentos da plateia que vão contra ao sistema socioeconômico estabelecido, mas pelo contrário, motivando a plateia a alterar a sociedade, para que então esta nova sociedade esteja de acordo com seus sentimentos. Neste sentido Hegel promove a restauração do equilíbrio (conservador) através da modificação dos sentimentos da plateia, e Brecht a promove a transformação (revolucionário), através da modificação da Sociedade.
-Para isso, Hegel propõe histórias em que as ações dos personagens têm causa interna e se externalizam no mundo (idealismo); já Brecht propõe histórias nas quais as ações possuem causas sociais que moldam o homem e o transformam contra suas vontades internas (materialismo).
-Os primeiros desejam uma quieta sonolência ao final do espetáculo: Brecht deseja que o espetáculo teatral seja o início da ação, o equilíbrio deve ser buscado transformando-se a sociedade e não purgando o indivíduo dos seus justos reclamos e de suas necessidades.
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-É por isso também, que o público alvo do Brecht, não é uma elite aristocrática, mas o povo.
-Nossas representações da vida social devem estar destinadas aos técnicos fluviais, aos cuidadores das árvores, aos construtores de veículos e aos revolucionários. Nós os convidamos para que venham aos nossos teatros e lhes pedimos que não se esqueçam de suas ocupações (alegres ocupações), para que nos seja possível entregar o mundo e nossa visão do mundo às suas mentes e aos seus corações, para que eles modifiquem O MUNDO AO SEU critério
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-Acho interessante observar que a arte sob este uso político, possui um teor de normatividade. Porém essa normatividade é pragmática, operacional. Ela cumpre um programa político. A arte é feita de determinada forma e com determinado conteúdo, para que determinados fins políticos sejam alcançados.
-Podemos entender melhor o uso político da arte através de um exemplo, acompanhando a discussão sobre o teatro grego desenvolvida também por Boal no mesmo livro. Primeiro precisamos destacar que a tragédia grega era patrocinada pelo estado diretamente ou indiretamente através dos mecenas, então não é ao acaso que ela sirva de ferramenta política para a manutenção do poder pela classe dominante.
-Para entender como isso funciona, precisamos entender que a arte era concebida por Aristóteles como tendo um papel de correção. Para Aristóteles, as coisas tenderiam sempre à perfeição, mas não significa que conseguiriam alcançar esta perfeição. A arte e a ciência surgem então para recolocar o desenvolvimento humano “nos trilhos”.
-… para isso serve a arte e serve a ciência: para, “recriando o princípio criador " das coisas criadas, corrigir a natureza naquilo em que haja fracassado.
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas).
-E aqui, a gente precisa ter em mente que o bem supremo, para Aristóteles, é a busca pela felicidade. E que a felicidade não é outra coisa, senão obedecer às leis.
-“A Tragédia imita as ações da alma racional do homem, suas paixões tomadas hábitos, em busca da felicidade, que consiste no comportamento virtuoso, que é aquele que se afasta dos extremos possíveis em cada situação dada concreta» cujo bem supremo é a Justiça, cuja expressão máxima é a Constituição!”… Em última instância, a felicidade consiste em obedecer às leis!
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-Temos então uma produção teatral que visa corrigir o desenvolvimento daqueles que não se encontram inclinados a seguir a constituição, ou seja, que desafiam as normas sociais e leis correntes.
-O homem, como parte da natureza, tem certos fins em vista: a saúde, a vida gregária no Estado, a felicidade, a virtude, a justiça, etc. Quando falha na consecução desses objetivos, intervém a arte da Tragédia. Esta correção das ações do homem, do cidadão, chama-se “catarse”.
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-E isso é feito através da “catarse”, que é exatamente esse processo de destruir uma “impureza” no consumidor do teatro. Ou seja, o teatro trágico descrito por Aristóteles é intrinsecamente repressivo, pois ela visa corrigir o homem que não segue as leis como ideal de busca da felicidade.
-A impureza que o processo trágico vai destruir é pois algo que atenta contra as leis.
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-Como se busca alcançar esse efeito é bastante interessante e educativo. Apesar deste modelo clássico ser antigo, ele continua em uso e também deu origem a algumas variações modernas, mas todos estes formatos compartilham desse objetivo comum de “destruir a impureza”.
-O formato clássico de Aristóteles funciona então, resumidamente do seguinte modo: primeiro somos apresentados a um personagem que é dotado de muitas qualidades (conforme as ideias dominantes da sociedade) e apenas um defeito, preferencialmente um defeito que é o responsável por levar o protagonista na boa situação que ele se encontra no começo da história. Nesta fase, somos levados a sentir empatia pelo personagem, a ideia é que alguém que possui tão poucas falhas, não merece um fim tão trágico como o para o qual a história se encaminha.
-Em um segundo momento, o sentimento que deve surgir na plateia é o terror. A plateia deve agora, perceber que a falha no caráter do protagonista é o que o levará a sua ruína, e não só isso, mas que é uma falha que ele próprio também é capaz de possuir. Sentimos então o terror por reconhecermos esta falha em nós mesmos.
-E por fim, a única coisa que resta ao nosso protagonista é o desfecho trágico. Afinal, ele deve ser punido pela sua falha, pelo vício no qual carrega. E nós então, como plateia, somos educados a combater este vício em nós mesmos. Temos então, um jogo de empatia e terror mediado por signos que visa combater determinados sentimentos na plateia. Evidentemente, como um teatro patrocinado pelo estado, quem define o sentimento a ser combatido, é o estado, ou seja, a classe dominante.
-Podemos agora concluir que, quando o homem falha nas suas ações, no seu comportamento virtuoso em busca da felicidade, através da virtude máxima que é a obediência às leis, a arte da Tragédia intervém para corrigir essa falha… O herói trágico surge quando o Estado começa a utilizar o teatro para fins políticos de coerção do povo.
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-Podemos notar que a empatia cumpre um papel central na dinâmica do teatro trágico de Aristóteles. É por isso, que Boal considera a empatia como uma “arma terrível”:
-A empatia tem que ser entendida como a arma terrível que realmente é. A empatia é a arma mais perigosa de todo o arsenal do teatro de artes afins (cinema e TV).
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-Gostaria de recomendar o trecho inteiro de “Empatia ou osmosis?”, porém para poupar o leitor, tentarei resumir a ideia. O mecanismo no qual a arte opera com a empatia, consiste em justapor duas pessoas (uma fictícia e uma real) e fazer com que uma dessas pessoas ofereça a outra seu poder de decisão. Isto é, a pessoa real abdica em favor do personagem fictício seu poder de decisão.
-Esta justaposição de dois universos (real e fictício) faz com que o espectador vivencie a ficção e incorpore elementos da ficção. Porém, o espectador que é um homem real e vive, assume então, como realidade o que se apresenta como ficção na obra de arte. É isto que Boal chama de: osmosis estética.
-Mas existe aqui algo monstruoso: o homem, quando ele­ge, elege em uma situação real, vital, elege em sua própria vida; o personagem quando elege, ( e por isso, quando induz o homem a eleger), elege em uma situação fictícia, irreal, des­provida de toda densidade de fatos, matizes e complicações que a vida oferece. Isto faz com que o homem, real, eleja segundo situações e critérios irreais.
-(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
-Como consequência disto, o homem real em uma situação real toma decisões na sua própria vida influenciado por um personagem que elege (e com isso induz o homem real a fazer a mesma escolha) em uma situação fictícia, irreal e desprovida de toda densidade da vida real. Assim, um homem real faz suas decisões segundo situações e critérios irreais.
-Concluindo então, podemos dizer que:
-Não há critério universal/objetivo para definir arte;
-Toda vida social é mediada por signos;
-Não há signos neutros;
-A arte é trabalho humano intencional que se insere na vida social.
-Portanto:
-Arte é uma forma específica de comunicação mediada por signos;
-Seu status como “arte” é determinado social/historicamente;
-Sendo 	comunicação, é sempre política (transmite mensagens que não são 	neutras).
-Ou seja, “artes” são diferentes tecnologias de mediação simbólica que reforçam ou combatem determinados valores. Portanto, o que chamamos de “arte” não é uma categoria metafísica, mas um evento comunicativo socialmente consagrado. As diversas artes (do teatro à literatura) são linguagens materiais que as sociedades desenvolvem para dizer, com especial complexidade e intensidade, aquilo que julgam merecer ser reforçado ou combatido para além do discurso comum. São estratégias de significação complexas, mas no princípio e no fim, é sempre gente tentando falar com gente, apenas com melhores ferramentas.
-Conceber a existência da Arte como algo distinto da comunicação mediada por signos, é despolitizar a arte.
+# 
 
-Bakhtin
+# **Arte**
+
+Eu gostaria que este texto não fosse longo, mas vejo necessidade de abordarmos ainda mais um aspecto referente à cultura. Especificamente a arte. Uma vez que eu mencionei anteriormente sobre a arte ser sempre política, e que quando falamos sobre cultura é impossível não pensarmos em arte, é importante abordarmos rapidamente este assunto. De fato, a relação entre arte e política tem sido um dos grandes motivos pelo qual tenho estudado o marxismo.
+
+Uma das questões que sempre se coloca diante de mim é “o que é arte?” (ou em sua variação “o que é literatura?”). Os autores que eu tenho lido (de Terry Eagleton a Ernst Gombrich, passando por Antoine Compagnon) tendem a concordar que não existe nenhum critério objetivo e universal sobre o que é arte (ou literatura). A resposta sempre depende para quem você pergunta (e frequentemente a classe de quem vai responder). Definir arte é sempre uma escolha, e não algo a ser descoberto na natureza.
+
+A definição de um termo como literatura não oferecerá mais que o conjunto das circunstâncias que os usuários de uma língua aceitam empregar este termo…É uma sociedade que, pelo uso que faz dos textos, decide se certos textos são literários fora de seus contextos originais... Uma definição de literatura é sempre uma preferência (um preconceito)
+
+(O Demônio da Teoria)
+
+Tenho quase certeza que é Eagleton que diz que o que diferencia uma nota fiscal de literatura, é apenas a intenção de quem lê. Podemos pensar na mesma distinção entre literatura e filosofia, se queremos ler diálogos de Platão como filosofia ou literatura, é algo que em última análise, é uma decisão que tomamos, e não algo intrínseco à obra. Mas se não existe um critério universal, se não existe Arte, o que seriam as artes? Ou o conjunto de “coisas” que normalmente chamamos de arte (como cinema, literatura, etc)?
+
+UMA COISA *QUE* realmente não existe é aquilo a que se dá o nome de Arte. Existem somente artistas.
+
+(História da Arte)
+
+Aqui eu preciso fazer uma proposta que eu reconheço ser altamente contestável e polêmica. Mas eu acredito que é uma proposta que tem pelo menos o mérito de suscitar um debate interessante. Se nos apoiarmos em Marx, o trabalho é um dos grandes diferenciais do homem em relação aos outros animais, e o trabalho é também uma atividade intrinsecamente social desde seus primórdios. Avançando com Bakhtin, obtemos a ideia de que a vida social humana é uma esfera mediada por signos (e não há signos neutros). Então eu proponho pensarmos nas diferentes formas de arte como formas específicas de socialização mediada via signos.
+
+O termo ‘arte’ (ou qualquer nome específico de determinada forma de arte) designa apenas classificações históricas e sociais, usadas para classificar certas formas de comunicação em determinados contextos. Eu estou assumindo implicitamente que quando um artista cria uma obra de arte, sempre há a proposta de uma comunicação, ainda que o receptor da sua comunicação seja a si próprio. Este talvez seja o ponto mais polêmico, mas não acredito ser totalmente ignorante.
+
+Me parece razoável supor que sempre um artista cria algo através do seu trabalho, e aqui estamos considerando arte apenas aquilo que é produto do trabalho humano, ele visa comunicar algo. Minha concepção de obra de arte aqui, é então, o produto de um trabalho humano, no qual o artista realiza uma operação sobre natureza visando transformá-la e expressar a si mesmo através do próprio trabalho. Lembrando que tanto o consumidor da sua obra de arte pode ser si próprio, quanto o artista não precisa estar plenamente ciente de o que deseja comunicar. Um artista pode acreditar estar escrevendo uma história neutra, ainda que não seja possível existir uma história neutra.
+
+O trabalho artístico, sob esta definição, é sempre teleológico, isto é, orientado por um fim previamente posto, no qual o ser humano antecipa idealmente a obra e organiza sua prática de modo intencional, ainda que o resultado final não seja um simples reflexo dessa intenção inicial. Assim, a diferença entre a declamação de uma poesia e um diálogo cotidiano não diz respeito a uma diferença fundamental nas atividades, são ambas atividades sociais mediadas por signos onde uma mensagem é enviada para alguém, a diferença está em como os signos que são mobilizados são vistos e classificados pela sociedade.
+
+Uma mesma carta, em um contexto pode ser apenas uma carta, e em outro contexto, pode ser literatura. Não sou capaz de conceber nenhuma produção artística que esteja ausente de mensagem, até mesmo porque todo signo possui um significado, e consequentemente transmite alguma mensagem, e por sua vez, é impossível consumirmos uma obra de arte sem que esta interação seja mediada por signos.
+
+Sendo assim, a obra de arte adquire uma importância política intrínseca. Pois ela é, na sua essência, a transmissão de alguma mensagem que não é neutra. De fato, esta é uma mensagem que tende a ser construída de forma mais elaborada para ser mais interessante e persuasiva que um diálogo cotidiano. Muitas vezes a mensagem que é transmitida sequer é algo óbvio como uma típica comunicação no cotidiano exige, o que pode conferir uma falsa aparência de neutralidade à obra de arte. Mas é aqui também que podemos perceber a dupla função da arte de divertir e ensinar, que se não estou errado, já foi discutido tanto por Aristóteles como Brecht.
+
+Não livre de polêmicas, mas podemos concluir então, que se não existe Arte, existem artes. E estas artes são diferentes formas de interação mediadas via signos, isto é, diferentes formas de transmitir uma mensagem que em dado local e época recebe o título de arte. Este título de arte tende a estar relacionado à um planejamento prévio que tipicamente confere uma maior complexidade nos signos mobilizados para transmitir a mensagem, e também possui uma dupla função de divertir e ensinar, características que muitas vezes podem dar a falsa sensação de que há arte sem mensagem, ou seja, sem política.
+
+Podemos entender um pouco mais sobre como se manifesta esse caráter pedagógico da arte. Sobre isto, a principal leitura que eu tenho em mente é “ Teatro do Oprimido e outras poéticas políticas” de Augusto Boal. No campo artístico, assim como Marx “inverteu” Hegel, Brecht faz uma operação análoga na área da poética.
+
+…para Hegel o personagem é inteiramente livre…; para Brecht (e para Marx) o personagem é objeto de forças sociais… Sobretudo, Hegel insiste em um ponto fundamental que marcará sua profunda diferença com a poética marxista de Brecht; “a ação não parece nascer de circunstâncias exteriores mas sim da vontade interior e dos caracteres dos personagens’’,
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+É interessante notar como as visões destes artistas de como a arte deveria ser divergem baseado na sua concepção idealista ou materialista do mundo. Para Hegel, a única restrição que deveria existir nos personagens é interna, por isso ele vai defender personagens que estejam livres das preocupações materiais, personagens que não tenham restrições econômicas, que podem mais facilmente tornar sua vontade em realidade.
+
+Já em Brecht, existe uma preocupação em mostrar a realidade social e as restrições que esta realidade impõe ao personagem. Ele não é livre, sua vontade interior não é soberana, este personagem ocupa uma posição central na poética para Brecht. Ainda que alguém em posição de poder seja representado no teatro, ele se encontra com determinadas restrições devido ao cargo que ocupa. Boal dá de exemplo uma peça onde o Papa como pessoa demonstra boa vontade com Galileu, mas esta mesma pessoa, como alguém na posição de Papa o condena. Para Brecht é necessário mostrar essa restrição social que se impõe à vontade interior dos personagens.
+
+Ou seja, enquanto Hegel busca uma poética que busca apresentar uma história no qual as ações nascem das vontades interiores, Brecht propõe uma poética onde as restrições da vida social estão explícitas e consistem precisamente na origem de muitas das ações.
+
+Estas diferentes posturas surgem pois seus teóricos possuem diferentes objetivos políticos com a arte. Para Hegel, ao final do espetáculo o equilíbrio deveria ser restabelecido, e ela deveria estimular uma coerência entre os valores defendidos pela sociedade atual e a plateia, assim como Platão, purificando os pensamentos “errados” da plateia através do consumo da obra.
+
+Brecht, de certa forma,  também visa atingir uma conformidade entre a sociedade e os sentimentos da plateia, mas não através do expurgo dos sentimentos da plateia que vão contra ao sistema socioeconômico estabelecido, mas pelo contrário, motivando a plateia a alterar a sociedade, para que então esta nova sociedade esteja de acordo com seus sentimentos. Neste sentido Hegel promove a restauração do equilíbrio (conservador) através da modificação dos sentimentos da plateia, e Brecht a promove a transformação (revolucionário), através da modificação da Sociedade.
+
+Para isso, Hegel propõe histórias em que as ações dos personagens têm causa interna e se externalizam no mundo (idealismo); já Brecht propõe histórias nas quais as ações possuem causas sociais que moldam o homem e o transformam contra suas vontades internas (materialismo).
+
+Os primeiros desejam uma quieta sonolência ao final do espetáculo: Brecht deseja que o espetáculo teatral seja o início da ação, o equilíbrio deve ser buscado transformando-se a sociedade e não purgando o indivíduo dos seus justos reclamos e de suas necessidades.
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+É por isso também, que o público alvo do Brecht, não é uma elite aristocrática, mas o povo.
+
+Nossas representações da vida social devem estar destinadas aos técnicos fluviais, aos cuidadores das árvores, aos construtores de veículos e aos revolucionários. Nós os convidamos para que venham aos nossos teatros e lhes pedimos que não se esqueçam de suas ocupações (alegres ocupações), para que nos seja possível entregar o mundo e nossa visão do mundo às suas mentes e aos seus corações, para que eles modifiquem O MUNDO AO SEU critério
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+Acho interessante observar que a arte sob este uso político, possui um teor de normatividade. Porém essa normatividade é pragmática, operacional. Ela cumpre um programa político. A arte é feita de determinada forma e com determinado conteúdo, para que determinados fins políticos sejam alcançados.
+
+Podemos entender melhor o uso político da arte através de um exemplo, acompanhando a discussão sobre o teatro grego desenvolvida também por Boal no mesmo livro. Primeiro precisamos destacar que a tragédia grega era patrocinada pelo estado diretamente ou indiretamente através dos mecenas, então não é ao acaso que ela sirva de ferramenta política para a manutenção do poder pela classe dominante.
+
+Para entender como isso funciona, precisamos entender que a arte era concebida por Aristóteles como tendo um papel de correção. Para Aristóteles, as coisas tenderiam sempre à perfeição, mas não significa que conseguiriam alcançar esta perfeição. A arte e a ciência surgem então para recolocar o desenvolvimento humano “nos trilhos”.
+
+… para isso serve a arte e serve a ciência: para, “recriando o princípio criador " das coisas criadas, corrigir a natureza naquilo em que haja fracassado.
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas).
+
+E aqui, a gente precisa ter em mente que o bem supremo, para Aristóteles, é a busca pela felicidade. E que a felicidade não é outra coisa, senão obedecer às leis.
+
+“A Tragédia imita as ações da alma racional do homem, suas paixões tomadas hábitos, em busca da felicidade, que consiste no comportamento virtuoso, que é aquele que se afasta dos extremos possíveis em cada situação dada concreta» cujo bem supremo é a Justiça, cuja expressão máxima é a Constituição\!”… Em última instância, a felicidade consiste em obedecer às leis\!
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+Temos então uma produção teatral que visa corrigir o desenvolvimento daqueles que não se encontram inclinados a seguir a constituição, ou seja, que desafiam as normas sociais e leis correntes.
+
+O homem, como parte da natureza, tem certos fins em vista: a saúde, a vida gregária no Estado, a felicidade, a virtude, a justiça, etc. Quando falha na consecução desses objetivos, intervém a arte da Tragédia. Esta correção das ações do homem, do cidadão, chama-se “catarse”.
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+E isso é feito através da “catarse”, que é exatamente esse processo de destruir uma “impureza” no consumidor do teatro. Ou seja, o teatro trágico descrito por Aristóteles é intrinsecamente repressivo, pois ela visa corrigir o homem que não segue as leis como ideal de busca da felicidade.
+
+A impureza que o processo trágico vai destruir é pois algo que atenta contra as leis.
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+Como se busca alcançar esse efeito é bastante interessante e educativo. Apesar deste modelo clássico ser antigo, ele continua em uso e também deu origem a algumas variações modernas, mas todos estes formatos compartilham desse objetivo comum de “destruir a impureza”.
+
+O formato clássico de Aristóteles funciona então, resumidamente do seguinte modo: primeiro somos apresentados a um personagem que é dotado de muitas qualidades (conforme as ideias dominantes da sociedade) e apenas um defeito, preferencialmente um defeito que é o responsável por levar o protagonista na boa situação que ele se encontra no começo da história. Nesta fase, somos levados a sentir empatia pelo personagem, a ideia é que alguém que possui tão poucas falhas, não merece um fim tão trágico como o para o qual a história se encaminha.
+
+Em um segundo momento, o sentimento que deve surgir na plateia é o terror. A plateia deve agora, perceber que a falha no caráter do protagonista é o que o levará a sua ruína, e não só isso, mas que é uma falha que ele próprio também é capaz de possuir. Sentimos então o terror por reconhecermos esta falha em nós mesmos.
+
+E por fim, a única coisa que resta ao nosso protagonista é o desfecho trágico. Afinal, ele deve ser punido pela sua falha, pelo vício no qual carrega. E nós então, como plateia, somos educados a combater este vício em nós mesmos. Temos então, um jogo de empatia e terror mediado por signos que visa combater determinados sentimentos na plateia. Evidentemente, como um teatro patrocinado pelo estado, quem define o sentimento a ser combatido, é o estado, ou seja, a classe dominante.
+
+Podemos agora concluir que, quando o homem falha nas suas ações, no seu comportamento virtuoso em busca da felicidade, através da virtude máxima que é a obediência às leis, a arte da Tragédia intervém para corrigir essa falha… O herói trágico surge quando o Estado começa a utilizar o teatro para fins políticos de coerção do povo.
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+Podemos notar que a empatia cumpre um papel central na dinâmica do teatro trágico de Aristóteles. É por isso, que Boal considera a empatia como uma “arma terrível”:
+
+A empatia tem que ser entendida como a arma terrível que realmente é. A empatia é a arma mais perigosa de todo o arsenal do teatro de artes afins (cinema e TV).
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+Gostaria de recomendar o trecho inteiro de “Empatia ou osmosis?”, porém para poupar o leitor, tentarei resumir a ideia. O mecanismo no qual a arte opera com a empatia, consiste em justapor duas pessoas (uma fictícia e uma real) e fazer com que uma dessas pessoas ofereça a outra seu poder de decisão. Isto é, a pessoa real abdica em favor do personagem fictício seu poder de decisão.
+
+Esta justaposição de dois universos (real e fictício) faz com que o espectador vivencie a ficção e incorpore elementos da ficção. Porém, o espectador que é um homem real e vive, assume então, como realidade o que se apresenta como ficção na obra de arte. É isto que Boal chama de: *osmosis estética*.
+
+Mas existe aqui algo monstruoso: o homem, quando ele­ge, elege em uma situação real, vital, elege em sua própria vida; o personagem quando elege, ( e por isso, quando induz o homem a eleger), elege em uma situação fictícia, irreal, des­provida de toda densidade de fatos, matizes e complicações que a vida oferece. Isto faz com que o homem, real, eleja segundo situações e critérios irreais.
+
+(Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
+Como consequência disto, o homem real em uma situação real toma decisões na sua própria vida influenciado por um personagem que elege (e com isso induz o homem real a fazer a mesma escolha) em uma situação fictícia, irreal e desprovida de toda densidade da vida real. Assim, um homem real faz suas decisões segundo situações e critérios irreais.
+
+Concluindo então, podemos dizer que:
+
+* Não há critério universal/objetivo para definir arte;  
+* Toda vida social é mediada por signos;  
+* Não há signos neutros;  
+* A arte é trabalho humano intencional que se insere na vida social.
+
+Portanto:
+
+* Arte é uma forma específica de comunicação mediada por signos;  
+* Seu status como “arte” é determinado social/historicamente;  
+* Sendo 	comunicação, é sempre política (transmite mensagens que não são 	neutras).
+
+Ou seja, “artes” são diferentes tecnologias de mediação simbólica que reforçam ou combatem determinados valores. Portanto, o que chamamos de “arte” não é uma categoria metafísica, mas um evento comunicativo socialmente consagrado. As diversas artes (do teatro à literatura) são linguagens materiais que as sociedades desenvolvem para dizer, com especial complexidade e intensidade, aquilo que julgam merecer ser reforçado ou combatido para além do discurso comum. São estratégias de significação complexas, mas no princípio e no fim, é sempre gente tentando falar com gente, apenas com melhores ferramentas.
+
+*Conceber a existência da Arte como algo distinto da comunicação mediada por signos, é despolitizar a arte.*
+
+# 
+
+# **Bakhtin**
+
 Grande parte das minhas ideias sobre cultura e arte são fortemente baseadas nos trabalhos de Bakhtin. Sendo assim acho pertinente que eu realize pelo menos uma pequena exposição sobre as ideias deste pensador.
+
 Bakhtin aprofunda a discussão de que é a matéria que cria a consciência, ele discute como isso acontece partindo da ideia de que a ideologia é um fenômeno social, criticando algumas abordagens que tratam ideologia como algo individual, algo que existe na mente de um indivíduo como um fenômeno psicológico. Podemos dizer que ele é contra um psicologismo da ideologia.
+
 Todo signo é ideológico; a ideologia é um reflexo das estruturas sociais; assim, toda modificação da ideologia encadeia uma modificação da língua.
+
 (Mikhail Bakhtin em marxismo e Filosofia da Linguagem)
+
 Precisamos entender o que é ideologia para Bakhtin:
+
 Para o Círculo de Bakhtin, a palavra ideologia tem significado diferente daquele usado por parte da tradição marxista… a palavra ideologia é usada em geral para designar o universo dos produtos do “espírito humano”, aquilo que algumas vezes é chamado por outros autores de cultura imaterial ou produção espiritual… Assim, ideologia para o Círculo de Bakhtin, abrange um grande universo: a arte, a filosofia, a ciência, religião,ética, política. Todo produto ideológico parte de uma realidade (natural ou social), possui um significado e remete a algo que lhe é exterior, ou seja, é um signo.
+
 (Ideologia e dialogismo: Mikhail Bakhtin, história e conceitos que cabem na sala de aula.)
+
 Bakhtin defende então que a ideologia existe de forma exterior a nós, ela está nos signos que utilizamos na vida social. Com os importantes detalhes de que esta significação do signo está sempre inserido em uma luta ideológica e que não existe objeto físico neutro, isto é, ele já entra na vida social sendo mediado por algum signo.
+
 Uma foice e um martelo, o objeto físico seria só isso, um objeto material, em um mundo sem humanos. Mas ao interagirmos com os objetos e entre nós, construímos signos para mediar nossa interação. Um exemplo explícito consiste no fato de que o signo da foice e o martelo por um lado está relacionado aos respectivos objetos físicos, mas por outro, atualmente é socialmente entendido como simbolizando as ideias comunistas. Os signos que mediam nossa vida social nos fazem ir além do mero objeto físico em si, ele reflete outra coisa, transfere nosso pensamento para outro lugar. Você olha uma foice e um martelo, o objeto físico, mas o que ‘vê’ é o comunismo.
+
 Bakhtin defende que nossa própria consciência emerge da vida social mediada por signos. Devemos lembrar também que o próprio signo não tem uma existência meramente abstrata, ele precisa ter uma existência material, ele precisa existir como algo que possa ser percebido e compartilhado, mesmo que seja um som ou um registro escrito, já que não temos telepatia. Isso faz com o meio material que estamos inserido se torne mais determinante para nossa consciência do que normalmente estamos acostumados a  pensar.
+
 Esta posição combate diretamente à ideia de que precisamos apenas de “boas ideias” para convencer as pessoas. Também relaciona a forma e o conteúdo, de maneira indissociável. A forma com que algo se apresenta não é independente do seu conteúdo, toda interação do qual participamos é mediada por signos, e cada signo possui um significante em disputa. Quando emitimos uma mensagem, a forma não é independente do conteúdo para definir a mensagem que queremos propagar. Por exemplo, podemos dizer “uma mesma coisa” com diferentes palavras, ou até mesmo, uma mesma palavra pode ser pronunciada de diferentes formas e expressar diferentes mensagens.
+
 Me parece que com isso caminhamos para ter condições de explicar como que o meio material onde estamos inseridos opera para definir as ideias dominantes de uma época de uma forma mais profunda do que normalmente é considerado. A classe dominante domina também os meios materiais por onde os signos se produzem e se transmitem. Com isso somos obrigados a politizar a vida social por completo. Porque agora a política e propagação ou combate de ideologias vão muito além de materiais de cunho explicitamente político, mas é algo que se faz presente em toda vida social.
+
 … a “ideologia do cotidiano”, que se exprime na vida corrente, é o cadinho onde se formam e se renovam as ideologias constituídas… A ideologia do cotidiano constitui o domínio da palavra interior e exterior desordenada e não fixada num sistema, que acompanha cada um dos nossos atos ou gestos e cada um dos nossos estados de consciência. Considerando a natureza sociológica da estrutura da expressão e da atividade mental, podemos dizer que a ideologia do cotidiano corresponde, no essencial, àquilo que se designa, na literatura marxista, sob o nome de “psicologia social”.
+
 (Mikhail Bakhtin em marxismo e Filosofia da Linguagem)
-Bakhtin vai defender também que a palavra é um instrumento da consciência e é devido a esse papel que a “… palavra funciona como elemento essencial que acompanha toda criação ideológica, seja ela qual for.” Juntamos a isso o fato de que a consciência tem o poder de abordar cada signo, independente da sua natureza, de modo verbalmente, então a palavra se torna “…o objeto fundamental do estudo das ideologias”. Por isso então:
+
+Bakhtin vai defender também que a palavra é um instrumento da consciência e é devido a esse papel que a “*… palavra funciona como elemento essencial que acompanha toda criação ideológica, seja ela qual for*.” Juntamos a isso o fato de que a consciência tem o poder de abordar cada signo, independente da sua natureza, de modo verbalmente, então a palavra se torna “*…o objeto fundamental do estudo das ideologias*”. Por isso então:
+
 A única maneira de fazer com que o método sociológico marxista dê conta de todas as profundidades e de todas as sutilezas das estruturas ideológicas “imanentes” consiste em partir da filosofia da linguagem concebida como filosofia do signo ideológico.
+
 (Mikhail Bakhtin em marxismo e Filosofia da Linguagem)
+
 Tenho que uma das coisas mais geniais do Bakhtin é “diluir” a fronteira entre a atividade mental interior e a comunicação como atividade exterior. Ambos são tratados como um mesmo processo, uma mesma atividade, interpretando a atividade mental interior como uma “conversa interna”. A diferença entre ambos é mais de grau que de qualidade, a atividade mental tende a ser mais confusa e fragmentada, ela ganha clareza à medida que passa a se transformar em uma comunicação externa, quando organizamos nossas ideias como uma auto explicação, ela já se aproxima desta dimensão de exteriorização da atividade mental. Isso também parece corroborar minha própria experiência pessoal de escrever para organizar os pensamentos.
+
 Essa forma de entender a consciência é bastante radical quando se une ao fato que os signos utilizados na comunicação tem uma origem social. Isso imprime uma natureza social na nossa própria atividade mental interior, isso nos proíbe que estejamos, a qualquer momento, totalmente isolados das influências culturais da sociedade. E a natureza social dos signos, também vincula eles a uma realidade material no qual essa realidade social é construída.
+
 Nossa existência então, como animais sociais se dá tanto em uma dimensão material onde a vida material se desenrola, quanto em uma dimensão simbólica (ou como Bakhtin chama: dimensão ideológica) onde a vida social acontece, mas ambas dimensões relacionam-se entre si de forma dialética. Dessa forma conectamos a questão da infraestrutura e superestrutura e chegamos à questão sobre como as ideias dominantes de uma época são as ideias da classe dominante. Reduzimos pouco a pouco a abstração na discussão sobre a cultura.
+
 Claro que ainda há sempre algo a mais para ser explicado, mas aqui partimos de duas categorias (no sentido mais vulgar do termo) mais gerais como infra e superestrutura e agora temos uma questão mais específica e objetiva de responder, a abstração foi reduzida. Queremos entender agora como os signos pertencentes a dimensão ideológica afetam e são afetados pela dimensão material, uma vez que já fomos convencidos da importância dos signos em nossa atividade social.
+
 Podemos pensar em um exemplo concreto. Lembrando da posição central que a palavra ocupa, é fácil perceber como o surgimento de novos signos dependem das condições materiais no qual os indivíduos se encontram, não teremos a palavra “telefone” se não existir algo ser chamado de telefone. Não é ao acaso que a bíblia nunca nos advertiu sobre os riscos do tik tok.
+
 E à medida que as palavras são os mesmos signos que mobilizamos tanto para comunicação como para a atividade mental, assim são capazes de influenciar e moldar nossa concepção de mundo. Afetando não apenas como o percebemos, mas também como nos posicionamos diante deste mundo. Estamos em uma situação melhor de entender agora como os signos influenciam o modo no qual agimos no mundo, o que em última instância, nos leva a alterar o próprio mundo material no qual estamos inseridos e serve de base para a dimensão ideológica.
+
 Você precisa que o modo de produção capitalista exista para que existam signos relacionados ao capitalismo, sem esta condição satisfeita não podem existir signos que carregam ideias anticapitalistas. Mas a partir do momento que o capitalismo existe, estes signos sob determinadas condições, podem desempenhar um papel relevante para a formação de uma concepção de mundo anticapitalista que induza as pessoas a agir pela superação do próprio capitalismo no qual estes mesmos signos se originaram.
+
 Entre a infra e a superestrutura, entre a dimensão material e a ideológica, temos a palavra como um signo de posição especial que permeia tanto nossa comunicação externa com o mundo quanto nossa atividade mental em nosso próprio mundo interior. Tornando assim impossível que nossa concepção de mundo permaneça inalterada diante da realidade material e social mediada que se desenrola diante de nós. E é a partir disso que entendo que podemos refletir sobre a importância da arte e da cultura de forma verdadeira materialista.
+
 Podemos dizer que:
-não existe pensamento sem signos;
-não existe vida social sem signos;
-não existe signo que não seja social;
-logo, a consciência individual é sempre atravessada pela vida social.
+
+* não existe pensamento sem signos;  
+* não existe vida social sem signos;  
+* não existe signo que não seja social;  
+* logo, a consciência individual é sempre atravessada pela vida social.
+
 Ou seja, nossa atividade externa (comunicação) e interna (atividade mental) e consequentemente nossa própria apreensão da realidade não se dá apenas por palavras, mas de forma mais geral, por signos. E não há elementos na nossa organização social e comunicação desprovida de signos.
-Isso se conecta à uma antiga reflexão que tenho feito sobre o método de aprendizado (passivo) estético através dos sentidos, em comparação com um método de aprendizado (ativo) racional. O segundo seria o tradicional sentar e refletir sobre algo, o primeiro é aquela apreensão que temos diretamente pelos sentidos ao entrarmos em contato com o mundo.
+
+Isso se conecta à uma antiga reflexão que tenho feito sobre o método de aprendizado (passivo) estético através dos sentidos, em comparação com um método de aprendizado (ativo) racional. O segundo seria o tradicional sentar e refletir sobre algo, o primeiro é aquela apreensão que temos diretamente pelos sentidos ao entrarmos em contato com o mundo. 
+
 Por exemplo, podemos ter um aprendizado racional ao estudarmos sobre a história dos EUA de forma intencional. Mas podemos ter também um aprendizado estético não intencional que nos induz a construir uma opinião sobre os EUA baseado em filmes  e séries. O elemento em comum que une os dois processos de aprendizado é o uso de signos. Pode-se argumentar que o método de aprendizado racional faz uso da palavra como principal signo, e o estético tende a trabalhar com um conjunto maior de signos, porém ambos aprendizados são mediados por signos.
+
 Assim sendo, me parece natural concluir que uma teoria estética integra de forma mais ampla, uma teoria do conhecimento.
+
 Como toda concepção do mundo, o marxismo possui a sua própria teoria estética, que integra, de modo geral, a sua teoria do conhecimento.
+
 (Leandro Konder em Os Marxistas e a Arte)
 
-Economia
-A terceira componente então que vai interligar ambos os temas é a economia marxista. Afinal, é preciso investigar os aspectos econômicos da sociedade capitalista para saber como superá-lo. Assim como é natural supor que é preciso possuir uma teoria adequada para gerenciar a produção e distribuição de bens no comunismo.
-Podemos notar como na verdade o materialismo dialético, o socialismo científico e a economia marxista não podem ser entendidos como disciplinas isoladas. É preciso mobilizar todos os conhecimentos para uma efetiva transformação da realidade. Por exemplo, quanto a primeira fase do comunismo, Marx nos fornece alguns detalhes da organização socioeconômica que ele visava para esta etapa histórica:
-O que o produtor deu à sociedade constitui sua cota individual de trabalho. Assim, por exemplo, a jornada social de trabalho compõe-se da soma das horas de trabalho Individual; o tempo Individual de trabalho de cada produtor em separado é a parte da jornada social de trabalho com que ele contribui, é sua participação nela. A sociedade entrega-lhe um bônus consignando que prestou tal ou qual quantidade de trabalho … e com este bônus ele retira dos depósitos sociais de meios de consumo a parte equivalente à quantidade de trabalho que prestou. A mesma quantidade de trabalho que deu à sociedade sob uma forma, recebe-a desta sob uma outra forma diferente.
-…
-Variaram a forma e o conteúdo, porque sob as novas condições ninguém pode dar senão seu trabalho, e porque, de outra parte, agora nada pode passar a ser propriedade do indivíduo, fora dos meios individuais de consumo.
-(Marx em Crítica ao programa de Gotha)
-Agora para entendermos melhor como se daria a construção desta sociedade, sobre como este bônus deve operar e como ele difere do dinheiro, acabamos tendo que nos dedicarmos ao estudo da economia marxista.
-Quando Marx afirma que os certificados de trabalho não valem mais do que um ingresso de teatro, podemos inferir certas implicações:
-(1) Os certificados não circulam; eles só podem ser trocados diretamente por bens de consumo.
-(2) … Somente a pessoa que realizou o trabalho poderia usá-los.
-(3) Eles seriam cancelados após um único uso… A loja, como uma organização comunitária, não precisa comprar mercadorias, apenas as recebe, portanto, seu único interesse nos comprovantes de trabalho é para fins de registro.
-(4) Eles não serviriam como reserva de valor. Eles poderiam ter uma data de validade…
-(Paul Cockshott em Towards a New Socialism)
-Evidentemente, a forma com que esta ciência será abordada, irá depender de como entendemos o materialismo dialético, e isto impactará por sua vez no desenvolvimento do socialismo científico. Por exemplo, a nossa interpretação de o que é a teoria do valor-trabalho apresentada por Marx, depende de como entendemos o materialismo dialético.
-Ou seja, apesar de tradicionalmente discutirmos que o marxismo tem três componentes, estes três componentes não podem ser entendidos de maneira isolada. Faço esta discussão com o propósito de contextualizar a defesa de que quando vamos estudar economia política, temos hoje ferramentas disponíveis mais interessantes e úteis do que as que Marx dispôs em sua época, de forma que é natural adotarmos novas abordagens. Em outras palavras, reafirmo a ideia expressa anteriormente de que a dialética hegeliana não é mais a principal ferramenta para realizar esta investigação.
-Sendo assim, defendo que uma economia marxista que se afasta de Hegel ainda pode ser marxista, desde que mantenha os pressupostos do materialismo dialético expostos anteriormente. Seguindo esta linha de raciocínio, só para citar alguns exemplos, Farjoun e Machover vão desenvolver uma formulação probabilística da economia política e da teoria do valor ao longo de suas principais obras: “Laws of Chaos: A Probabilistic Approach to Political Economy” e “How Labor Powers the Global Economy”.
-Paul Cockshott vai escrever “Classical Econophysics”. Esta é uma contribuição para a continuação da tradição marxista que se inicia com o trabalho de Marx, mas que não abre mão do uso de ferramentas científicas modernas.
-Após uma análise das trocas básicas de mercadorias, passamos a examinar o dinheiro e o que Marx denominou ‘a forma do valor’. A obra de Marx permanece interessante, pois tentou aplicar uma análise formal à troca e ao dinheiro, utilizando as ferramentas então disponíveis: a lógica hegeliana. Tentamos reanalisar o aspecto formal do valor de troca utilizando uma tríade de conceitos extraídos de teorias modernas de sistemas formais:
-(1) o conceito de espaço métrico,
-(2) a noção de simetria e
-(3) a ideia de assinatura.
-(Paul Cockshott em Classical Econophysics)
-Ian Wright vai também contribuir com abordagens probabilísticas e estatísticas que investigam temas como a arquitetura social do capitalismo (“The Social Architecture of Capitalism”) e a lei do valor(“The Emergence of the Law of Value in a Dynamic Simple Commodity Economy”), etc.
-Este não é um espaço para me aprofundar em nenhum tema, apenas uma exposição geral sobre minha posição em diferentes temas, e principalmente de que não só podemos, mas que devemos nos apropriar das ferramentas modernas mais eficientes que a ciência produziu. De certa forma, eu entendo por economia marxista simplesmente uma abordagem da economia que respeita os pressupostos do materialismo dialético. De modo geral podemos falar em:
-Economia Marxista: quando realizamos uma investigação econômica coerente com o materialismo dialético e nasce da crítica à economia política inglesa.
-Socialismo científico: quando realizamos uma investigação (e prática) acerca da superação do capitalismo coerente com o materialismo dialético e nasce da crítica ao socialismo utópico francês.
-Materialismo 	Histórico: quando realizamos uma investigação acerca da realidade histórica e social da humanidade em particular, e evidentemente, coerente com o materialismo dialético.
+# 
 
-Religião
+# **Economia**
+
+A terceira componente então que vai interligar ambos os temas é a economia marxista. Afinal, é preciso investigar os aspectos econômicos da sociedade capitalista para saber como superá-lo. Assim como é natural supor que é preciso possuir uma teoria adequada para gerenciar a produção e distribuição de bens no comunismo.
+
+Podemos notar como na verdade o materialismo dialético, o socialismo científico e a economia marxista não podem ser entendidos como disciplinas isoladas. É preciso mobilizar todos os conhecimentos para uma efetiva transformação da realidade. Por exemplo, quanto a primeira fase do comunismo, Marx nos fornece alguns detalhes da organização socioeconômica que ele visava para esta etapa histórica:
+
+O que o produtor deu à sociedade constitui sua cota individual de trabalho. Assim, por exemplo, a jornada social de trabalho compõe-se da soma das horas de trabalho Individual; o tempo Individual de trabalho de cada produtor em separado é a parte da jornada social de trabalho com que ele contribui, é sua participação nela. A sociedade entrega-lhe um bônus consignando que prestou tal ou qual quantidade de trabalho … e com este bônus ele retira dos depósitos sociais de meios de consumo a parte equivalente à quantidade de trabalho que prestou. A mesma quantidade de trabalho que deu à sociedade sob uma forma, recebe-a desta sob uma outra forma diferente.
+
+…
+
+Variaram a forma e o conteúdo, porque sob as novas condições ninguém pode dar senão seu trabalho, e porque, de outra parte, agora nada pode passar a ser propriedade do indivíduo, fora dos meios individuais de consumo.
+
+(Marx em Crítica ao programa de Gotha)
+
+Agora para entendermos melhor como se daria a construção desta sociedade, sobre como este bônus deve operar e como ele difere do dinheiro, acabamos tendo que nos dedicarmos ao estudo da economia marxista.
+
+Quando Marx afirma que os certificados de trabalho não valem mais do que um ingresso de teatro, podemos inferir certas implicações:
+
+(1) Os certificados não circulam; eles só podem ser trocados diretamente por bens de consumo.
+
+(2) … Somente a pessoa que realizou o trabalho poderia usá-los.
+
+(3) Eles seriam cancelados após um único uso… A loja, como uma organização comunitária, não precisa comprar mercadorias, apenas as recebe, portanto, seu único interesse nos comprovantes de trabalho é para fins de registro.
+
+(4) Eles não serviriam como reserva de valor. Eles poderiam ter uma data de validade…
+
+(Paul Cockshott em Towards a New Socialism)
+
+Evidentemente, a forma com que esta ciência será abordada, irá depender de como entendemos o materialismo dialético, e isto impactará por sua vez no desenvolvimento do socialismo científico. Por exemplo, a nossa interpretação de o que é a teoria do valor-trabalho apresentada por Marx, depende de como entendemos o materialismo dialético.
+
+Ou seja, apesar de tradicionalmente discutirmos que o marxismo tem três componentes, estes três componentes não podem ser entendidos de maneira isolada. Faço esta discussão com o propósito de contextualizar a defesa de que quando vamos estudar economia política, temos hoje ferramentas disponíveis mais interessantes e úteis do que as que Marx dispôs em sua época, de forma que é natural adotarmos novas abordagens. Em outras palavras, reafirmo a ideia expressa anteriormente de que a dialética hegeliana não é mais a principal ferramenta para realizar esta investigação.
+
+Sendo assim, defendo que uma economia marxista que se afasta de Hegel ainda pode ser marxista, desde que mantenha os pressupostos do materialismo dialético expostos anteriormente. Seguindo esta linha de raciocínio, só para citar alguns exemplos, Farjoun e Machover vão desenvolver uma formulação probabilística da economia política e da teoria do valor ao longo de suas principais obras: “Laws of Chaos: A Probabilistic Approach to Political Economy” e “How Labor Powers the Global Economy”.
+
+Paul Cockshott vai escrever “Classical Econophysics”. Esta é uma contribuição para a continuação da tradição marxista que se inicia com o trabalho de Marx, mas que não abre mão do uso de ferramentas científicas modernas.
+
+Após uma análise das trocas básicas de mercadorias, passamos a examinar o dinheiro e o que Marx denominou ‘a forma do valor’. A obra de Marx permanece interessante, pois tentou aplicar uma análise formal à troca e ao dinheiro, utilizando as ferramentas então disponíveis: a lógica hegeliana. Tentamos reanalisar o aspecto formal do valor de troca utilizando uma tríade de conceitos extraídos de teorias modernas de sistemas formais:
+
+(1) o conceito de espaço métrico,
+
+(2) a noção de simetria e
+
+(3) a ideia de assinatura.
+
+(Paul Cockshott em Classical Econophysics)
+
+Ian Wright vai também contribuir com abordagens probabilísticas e estatísticas que investigam temas como a arquitetura social do capitalismo (“The Social Architecture of Capitalism”) e a lei do valor(“The Emergence of the Law of Value in a Dynamic Simple Commodity Economy”), etc.
+
+Este não é um espaço para me aprofundar em nenhum tema, apenas uma exposição geral sobre minha posição em diferentes temas, e principalmente de que não só podemos, mas que devemos nos apropriar das ferramentas modernas mais eficientes que a ciência produziu. De certa forma, eu entendo por economia marxista simplesmente uma abordagem da economia que respeita os pressupostos do materialismo dialético. De modo geral podemos falar em:
+
+* Economia Marxista: quando realizamos uma investigação econômica coerente com o materialismo dialético e nasce da crítica à economia política inglesa.  
+* Socialismo científico: quando realizamos uma investigação (e prática) acerca da superação do capitalismo coerente com o materialismo dialético e nasce da crítica ao socialismo utópico francês.  
+* Materialismo 	Histórico: quando realizamos uma investigação acerca da realidade histórica e social da humanidade em particular, e evidentemente, coerente com o materialismo dialético.
+
+# 
+
+# **Religião**
+
 Quero fazer uma rápida discussão sobre a relação entre marxismo e religião, pois este foi talvez o primeiro tópico que me fez realmente estudar um pouco mais de marxismo, e ainda é um tema que costuma trazer bastante controvérsia.
+
 Partirmos da ideia de que o materialismo dialético é uma concepção de mundo, precisamos entender então que toda religião também é uma própria concepção de mundo. Partindo da definição de filosofia como uma unidade entre concepção de mundo e método de investigação, Spirkin vai nos dizer que a história do pensamento filosófico é uma história de disputa entre diferentes concepções de mundo. Assim fica nítido a origem do conflito entre marxismo e religião.
+
 Toda a história do pensamento filosófico é, de fato, uma disputa entre várias visões de mundo…
+
 (Dialectical Materialism)
+
 É evidente que duas concepções de mundo que entram em conflito não podem estar corretas ao mesmo tempo. Logo é uma consequência natural que exista uma disputa de natureza filosófica tanto entre diferentes filosofias, quanto entre diferentes religiões, e também entre diferentes filosofias e religiões.. É o próprio Marx, nos Manuscritos Econômico-Filosóficos vai dizer:
+
 A grande realização de Feuerbach é … ter mostrado a filosofia nada mais ser do que a religião trazida para o pensamento e desenvolvida por este, devendo ser igualmente condenada como outra forma e modo de existência da alienação humana;
+
 (Marx nos Manuscritos Econômico-Filosóficos)
+
 Porém devemos agora desenvolver uma outra discussão. O que é religião? Essa é uma discussão bastante profunda e eu não tenho condições de concluir. É um fato histórico que esta discussão assume normalmente como referência as maiores religiões do mundo, e em particular as abraâmicas. Mais particularmente ainda o cristianismo. Hegel (Lições sobre a filosofia da religião), Feuerbach (A Essência do Cristianismo) e Engels (Contribuição Para a História do Cristianismo Primitivo), por exemplo, centraram suas discussões de filosofia da religião no cristianismo.
+
 A compreensão exata de como funciona o materialismo é complexa, pois não se trata de um reducionismo simplista do tipo “só existe matéria”, mas sim da ideia de que a realidade fundamental é constituída por processos materiais regrados em constante transformação. Esses processos são responsáveis pela formação tanto do mundo físico quanto da consciência. A percepção e a consciência emergem das interações materiais, sem existir independentemente da matéria. A matéria, nesse sentido, não é uma entidade estática ou sólida, mas um conjunto dinâmico de processos em desenvolvimento contínuo. É essa base material, com sua organização dinâmica e regrada, que permite o conhecimento objetivo do mundo.
-É evidente que esta concepção de mundo conflita diretamente com as visões mais tradicionais de religião que estamos acostumados. Nosso senso comum é acostumado a utilizar o catolicismo como uma régua no qual comparamos diferentes religiões para definirmos o que é ou não religião. Ressaltamos aqui a importância do fato de que para discutir a relação do marxismo com a religião, primeiro precisamos definir o que é marxismo - ao qual em grande parte este trabalho se dedicou - e depois definir o que é religião.
+
+É evidente que esta concepção de mundo conflita diretamente com as visões mais tradicionais de religião que estamos acostumados. Nosso senso comum é acostumado a utilizar o catolicismo como uma régua no qual comparamos diferentes religiões para definirmos o que é ou não religião. Ressaltamos aqui a importância do fato de que para discutir a relação do marxismo com a religião, primeiro precisamos definir o que é marxismo \- ao qual em grande parte este trabalho se dedicou \- e depois definir o que é religião.
+
 Porém, até onde meu conhecimento se limita, por “religiões”, na crítica marxista à religião, temos frequentemente o modelo cristão de religião em mente. Logo, quanto mais distante estivermos deste modelo de religiosidade, provavelmente maior a probabilidade da crítica não ser precisa.
+
 Na minha experiência pessoal, eu percebo que tradicionalmente os marxistas quando criticam a religião, concentram suas críticas em três elementos que estão presentes na forma mais popular de cristianismo:
-A existência de um deus pessoal que transcende a matéria e existe 	independente dela. Isto é, uma consciência incorpórea com intenção e capacidade de criar, destruir e interferir na matéria existente de forma totalmente livre;
-A existência de alma, espíritos, fantasmas e afins concebidos como consciências que existem de forma independente à matéria.
-Um começo e um fim do universo.
-Os dois primeiros pontos dizem mais (mas não exclusivamente) respeito a concepção materialista do mundo, pois ambos pontos exigem que seja concebido a possibilidade da consciência existir de forma independente e/ou anterior da matéria, além de conceber uma consciência (deus) com capacidade de interferir no mundo de forma independente de qualquer regra que regule o movimento da matéria.
+
+1. A existência de um deus pessoal que transcende a matéria e existe 	independente dela. Isto é, uma consciência incorpórea com intenção e capacidade de criar, destruir e interferir na matéria existente de forma totalmente livre;  
+2. A existência de alma, espíritos, fantasmas e afins concebidos como consciências que existem de forma independente à matéria.  
+3. Um começo e um fim do universo. 
+
+Os dois primeiros pontos dizem mais (mas não exclusivamente) respeito a concepção materialista do mundo, pois ambos pontos exigem que seja concebido a possibilidade da consciência existir de forma independente e/ou anterior da matéria, além de conceber uma consciência (deus) com capacidade de interferir no mundo de forma independente de qualquer regra que regule o movimento da matéria. 
+
 O terceiro ponto eu entendo se relacionar mais (mas não exclusivamente) à dialética. O universo não poderia ter início nem fim, pois a ideia da criação ou do fim do universo, representaria um momento antes e um tempo do próprio universo, e neste momento então não haveria mais mudanças. O que de certa forma, conflita com o que está no coração da dialética. Evidentemente tem uma discussão profunda sobre o tempo surgir com o Big Bang, portanto levanta-se o argumento de que não existiria um antes, mas não cabe aqui entrar em detalhes, apenas apontar um ponto de potencial conflito.
+
 Mas e se concebermos uma religião onde por definição não há fenômenos sobrenaturais e onde todos os fenômenos são compreendidos como parte da natureza? Onde o universo não tem começo nem fim. Ainda é uma religião? E se os espíritos forem concebidos de forma que que não existam independente da natureza e da matéria? Ainda é religião? É compatível com o marxismo?
+
 A própria tentativa de definir a religião, de encontrar alguma essência ou conjunto de qualidades distintivo ou possivelmente único que distinga o religioso do resto da vida humana, é principalmente uma preocupação ocidental. A tentativa é uma consequência natural da disposição especulativa, intelectualista e científica do Ocidente. É também o produto do modo religioso ocidental dominante, o que é chamado de tradição judaico-cristã ou, mais precisamente, a herança teísta do judaísmo, do cristianismo e do islamismo. A forma teísta de crença nesta tradição, mesmo quando rebaixada culturalmente, é formativa da dicotômica visão ocidental da religião. Ou seja, a estrutura básica do teísmo é essencialmente uma distinção entre uma divindade transcendente e tudo o mais, entre o criador e sua criação, entre Deus e o homem.
+
 (Enciclopédia de Religiões MacMillan)
-Eu não trago respostas. Minha intenção é apontar que a questão é mais complexa do que é tradicionalmente pensado. Como não somos capazes de encontrar uma definição precisa de religião, eu percebo que nos resta são duas opções: cabe então aos marxistas criar uma definição da religião que será criticada. Assim podemos delimitar melhor a que manifestações religiosas nossa crítica se refere.
+
+Eu não trago respostas. Minha intenção é apontar que a questão é mais complexa do que é tradicionalmente pensado. Como não somos capazes de encontrar uma definição precisa de religião, eu percebo que nos resta são duas opções: cabe então aos marxistas criar uma definição da religião que será criticada. Assim podemos delimitar melhor a que manifestações religiosas nossa crítica se refere. 
+
 Ou então, simplesmente tratamos cada religião como uma tradição independente e avaliamos então seus credos ponto a ponto. Assim podemos discutir especificamente onde a concepção de mundo de determinada religião converge ou diverge da concepção de mundo comunista. Esta prática é independente de qual tipo de tradição estamos avaliando. Seja religião, filosofia, ou qualquer outro nome que queiramos dar.
+
 Em resumo, a minha leitura do tópico é que se não estamos em condições de afirmar que o materialismo dialético se opõe necessariamente a toda religião (pois não definimos o que é uma religião) podemos dizer que ele limita quais conceitos religiosos são compatíveis com o marxismo. Dessa forma o que nos resta é discutir que elementos de determinadas religiões entram em conflito com o marxismo, analisando cada elemento de forma particular. Lembrando que este é um trabalho extremamente exaustivo pois mesmo dentro do que tradicionalmente é concebido como uma única religião, encontramos uma grande variedade de concepções de mundo diferentes.
 
-Luta Indígena
+# 
+
+# **Luta Indígena**
+
 Lendo “A Terra dos Mil Povos” (Kaká Werá Jecupé) e “Futuro Ancestral” (Ailton Krenak), eu percebi que o Brasil possui uma contracultura anticapitalista com raízes materiais que antecedem ao próprio capitalismo e eu preciso falar disto. Eu defendo que a principal tarefa atual da militância comunista no Brasil é a disputa pela consciência política dos trabalhadores. E mais do que isso, essa disputa passa pela necessidade da defesa de uma contracultura anticapitalista.
+
 E não precisamos inventar uma cultura nova. O que podemos e devemos é reconhecer uma luta que se desenvolve em nosso solo desde que o colonialismo chegou por aqui.
+
 As culturas indígenas, em toda sua diversidade, já são culturas anti-hegemônicas que têm resistido e se desenvolvido ao longo de séculos de capitalismo. Com o grande diferencial de que estas culturas não são uma cultura artificial importada do estrangeiro sem raízes, são culturas ancestrais. Possuem uma longa história e uma sólida base material.
-Nenhuma cultura pode se desenvolver de fato sem raízes. É por isso, que nós, como comunistas, devemos reconhecer e dar a devida importância ao fato de que a dimensão material das culturas dos povos originários possuírem raízes firmes em nossa terra. Não é sem razão que a luta indígena adota o seguinte lema: “A nossa luta é uma luta ancestral”.
+
+Nenhuma cultura pode se desenvolver de fato sem raízes. É por isso, que nós, como comunistas, devemos reconhecer e dar a devida importância ao fato de que a dimensão material das culturas dos povos originários possuírem raízes firmes em nossa terra. Não é sem razão que a luta indígena adota o seguinte lema: “*A nossa luta é uma luta ancestral*”.
+
 Assim sendo, não precisamos “partir do zero” para construir uma cultura anticapitalista no Brasil, e muito menos devemos importar uma cultura estrangeira. Devemos (se você não é indígena como eu) nos aliar à luta dos povos originários.
+
 Já faz um tempo que eu carrego a ideia de que nosso imaginário foi colonizado. Defendo que uma das principais violências do capitalismo foi que nos tiraram a capacidade de sequer imaginar um mundo melhor. Esta ideia pode ser lida também em “Futuro Ancestral”, onde Ailton Krenak a expressa da seguinte forma:
+
 As pessoas acham mais fácil acabar com o mundo do que acabar com o capitalismo.
+
 (Ailton Krenak em Futuro Ancestral)
-Para lidar com este problema, Ailton Krenak propôs então que “temos que reflorestar nosso imaginário”. Em outras palavras, é preciso combater esta concepção de mundo capitalista com uma outra concepção de mundo anticapitalista. Um imaginário reflorestado para combater um imaginário colonizado.
+
+Para lidar com este problema, Ailton Krenak propôs então que “*temos que reflorestar nosso imaginário*”. Em outras palavras, é preciso combater esta concepção de mundo capitalista com uma outra concepção de mundo anticapitalista. Um imaginário reflorestado para combater um imaginário colonizado.
+
 Isto ressoa com tudo que tenho refletido e discutido. A necessidade de fomentar uma contracultura para disputar a cultura hegemônica, passa pela necessidade de defender os povos originários.
+
 De fato, todo marxista sempre fala de que o marxismo não é uma fórmula para ser mecanicamente copiada de um lugar para outro. Sabe que é uma teoria que se desenvolve de forma diferente em diferentes contextos. Mas me parece que ainda encontramos dificuldades para saber exatamente como esse marxismo tipicamente brasileiro deve ser desenvolvido. Hoje, eu tenho que isso passa necessariamente pela da luta índigena;
+
 Os povos originários compõem um movimento de resistência ao capitalismo anterior ao próprio marxismo. Poderíamos pensar na questão de forma superficial, e concluir que deveríamos nos inspirar nesta luta. Mas eu acredito que a união deve ser mais profunda. Não basta apenas nos inspirar, devemos aprender e nos aliar a este movimento, devemos ouvir e dar voz. Me arriscando, mas tendo a pensar que um marxismo adaptado a nossa cultura é um marxismo que respeite e seja absorvido pela luta indígena.
+
 Evidentemente a luta indígena é diversa. As nações indígenas são diversas. Não devemos esquecer disso em momento nenhum. Mas é preciso ser enfático que existe este movimento anticapitalista na luta indígena. Recorrendo novamente a Ailton Krenak, respeitado e importante porta-voz da causa indígena, ele também denuncia o capitalismo com a seguinte declaração:
+
 O cancro do capitalismo só admite propriedade privada e é incompatível com qualquer outra perspectiva de uso coletivo da terra”.
+
 (Ailton Krenak em Futuro Ancestral)
+
 O próprio nascimento da Aliança dos Povos da Floresta é descrito como uma insurgência para eliminar a figura do patrão. Estamos diante de um discurso anticapitalista por excelência, que se nega a fazer coro com qualquer discurso colonial. A lógica capitalista que faz com que as cidades sejam invadidas pela indústria e pela produção transformando a lógica da vida coletiva em vida privada é denunciada ao longo de todo “Futuro Ancestral”.
+
 Um assunto que eu sempre busco discutir, que é a linguagem linguagem, também é abordado por Krenak, Krenak diz ver nela um fator determinante nas relações sociais. Se juntando a nossa denúncia contra a mercadorização da vida promovida pelo capitalismo, em “A Queda do Céu” (Davi Kopenawa Yanomami) os brancos são chamados de “povo da mercadoria”.
+
 O que eu estou tentando realizar aqui é trazer o reconhecimento desta luta para o interior do movimento comunista. Para que o movimento comunista por sua vez busque a luta indígena. Se, como eu defendo, o primeiro campo de batalha contra o capitalismo é cultural, historicamente os povos originários estão entre os primeiros a liderar esta frente de batalha. E nós temos muito a aprender com eles.
+
 Falando sobre o marxismo, especialmente em sua formulação mais tradicional, é conhecido que ele traz uma concepção de mudo própria. Mas os povos originários já trazem em si suas próprias concepções de mundo. Ainda que ambas sejam anti capitalistas, para além disso, até que ponto elas convergem?
+
 Mesmo admitindo a existência de uma convergência quanto a postura anticapitalista não implica que exista uma convergência geral entre a luta indígena e o movimento marxista. Devo me aprofundar nisso futuramente, mas eu gostaria de esboçar uma discussão.
+
 Vamos começar relembrando a típica organização do marxismo em três componentes: política (socialismo), econômica e filosófica. Podemos dizer que até aqui apresentamos, ainda que grosseiramente, uma convergência no eixo político. Pelo menos no que tange ao objetivo de superação do capitalismo
+
 Vamos agora comentar os dois eixos restantes. Eles nos ajudarão a entender melhor as convergências e divergências entre a luta indígena e o movimento marxista. A questão principal é: Admitindo que ambos queiram superar o capitalismo, ambos querem construir a mesma sociedade pós-capitalista?
-Economia: entre os dois eixos que restam, acredito que este é o mais simples, por isso opto por começar por ele. Tendo em mente que a economia comunista visa a superação do capitalismo, e que a luta indígena expressa por pensadores como Ailton Krenak é também anticapitalista, temos um sinal favorável de convergência neste aspecto.
+
+**Economia**: entre os dois eixos que restam, acredito que este é o mais simples, por isso opto por começar por ele. Tendo em mente que a economia comunista visa a superação do capitalismo, e que a luta indígena expressa por pensadores como Ailton Krenak é também anticapitalista, temos um sinal favorável de convergência neste aspecto.
+
 A proposta de modo de produção comunista visa colocar diretamente nas mãos dos trabalhadores todo o poder político de gerenciar a produção e a distribuição destes bens produzidos. Assim, os povos originários, em uma sociedade comunista, por definição, devem possuir completa autonomia para decidir como gerir a produção, a distribuição e sua vida como um todo.
+
 Acredito ser um fator determinante de convergência entre as lutas, a reorientação da finalidade da produção. A produção no capitalismo visa a maximização do lucro acima de qualquer coisa. Já o ideal comunista de produção é a maximização do bem estar dos membros da sociedade. Esta mudança de foco na produção me parece alinhar claramente as ideias comunistas à luta indígena.
+
 Pode existir um conflito com uma visão marxista 'industrial' que já foi popular, mas que deve ser denunciada como inadequada. Esta concepção vulgar de marxismo se aproxima de um certo modo de desenvolvimentismo, vê como necessidade que a sociedade persiga um desenvolvimento desenfreado das suas indústrias acima de qualquer coisa.
+
 Esta é uma concepção inspirada em uma espécie de visão de desenvolvimento linear e hierárquica da história da humanidade. Onde quanto mais e maiores as indústrias mais desenvolvida estaria a sociedade.
+
 Apesar de ter gozado de certa popularidade, é preciso ter em mente que esta não é uma posição inerente ao comunismo. Ela vem sendo combatida desde o próprio Marx. Quando acusado de que estaria defendendo uma “inevitabilidade histórica” do desenvolvimento das formas de produção, Marx afirmou ter sido mal compreendido e que o curso de desenvolvimento descrito em “O Capital” não é uma afirmação sobre uma inevitabilidade histórica universal, mas apenas a descrição da gênese da produção capitalista no contexto dos países da Europa Ocidental.
+
 A “inevitabilidade histórica” desse curso está, portanto, expressamente restrita aos países da Europa Ocidental.
+
 (Karl Marx em carta para Zasulich de 08/03/1881)
+
 O que é inerente ao comunismo é uma defesa da total autonomia para que os trabalhadores tenham controle sobre como gerir sua vida. Uma marxista atual que se opõe a esta perspectiva de desenvolvimento inevitável do capitalismo é Ellen Wood. Criticando argumentos que naturalizam o capitalismo e a indústria como resultados inevitáveis da "natureza humana", ela também escreve:
+
 Mais particularmente, esses argumentos tendem a reforçar a visão profundamente eurocêntrica de que a ausência do capitalismo, é, de algum modo, uma falha histórica (linha de pensamento que é especialmente contraproducente para os críticos do capitalismo).
+
 (A origem do capitalismo)
+
 Ainda sobre questões econômicas, devemos citar a abolição do dinheiro. Característica também inerente do comunismo que combinado então com o controle da produção nas mãos dos trabalhadores, cria um cenário bastante flexível quanto a sociedade pós-capitalista. Contrariando essa concepção de exaltação do trabalho industrial e da urbanização desenfreada da vida, podemos recorrer novamente ao próprio Marx:
-Logo que o trabalho começa a ser distribuído [no capitalismo], cada um passa a ter um campo de atividade exclusivo e determinado, que lhe é imposto e ao qual não pode escapar; o indivíduo é caçador, pescador, pastor ou crítico crítico, e assim deve permanecer se não quiser perder seu meio de vida – ao passo que, na sociedade comunista, onde cada um não tem um campo de atividade exclusivo, mas pode aperfeiçoar-se em todos os ramos que lhe agradam, a sociedade regula a produção geral e me confere, assim, a possibilidade de hoje fazer isto, amanhã aquilo, de caçar pela manhã, pescar à tarde, à noite dedicar-me à criação de gado, criticar após o jantar, exatamente de acordo com a minha vontade, sem que eu jamais me torne caçador, pescador, pastor ou crítico.
+
+Logo que o trabalho começa a ser distribuído \[no capitalismo\], cada um passa a ter um campo de atividade exclusivo e determinado, que lhe é imposto e ao qual não pode escapar; o indivíduo é caçador, pescador, pastor ou crítico crítico, e assim deve permanecer se não quiser perder seu meio de vida – ao passo que, na sociedade comunista, onde cada um não tem um campo de atividade exclusivo, mas pode aperfeiçoar-se em todos os ramos que lhe agradam, a sociedade regula a produção geral e me confere, assim, a possibilidade de hoje fazer isto, amanhã aquilo, de caçar pela manhã, pescar à tarde, à noite dedicar-me à criação de gado, criticar após o jantar, exatamente de acordo com a minha vontade, sem que eu jamais me torne caçador, pescador, pastor ou crítico.
+
 (Karl Marx em Ideologia Alemã)
-Concepção de mundo: Este é certamente o eixo onde o conflito surge diretamente. O marxismo historicamente tem se mostrado hostil à religião e se portado como um defensor do ateísmo. Ser também uma concepção de mundo é a principal característica do marxismo que tem se mostrado difícil de adequar a diferentes culturas não-europeias sem recorrer a um novo tipo de colonialismo. E é portanto, o tópico mais sensível e polêmico.
+
+**Concepção de mundo**: Este é certamente o eixo onde o conflito surge diretamente. O marxismo historicamente tem se mostrado hostil à religião e se portado como um defensor do ateísmo. Ser também uma concepção de mundo é a principal característica do marxismo que tem se mostrado difícil de adequar a diferentes culturas não-europeias sem recorrer a um novo tipo de colonialismo. E é portanto, o tópico mais sensível e polêmico.
+
 Há diversos exemplos de pensadores que não sendo europeus, apesar de verem o marxismo interessante sob certos aspectos, não conseguem se sentir representados pelo mesmo devido a aspectos da sua própria cultura e concepção de mundo.
+
 Podemos citar por exemplo Fausto Reinaga na Bolívia ou Ali Shariati no Irã. Ambos vão descrever o marxismo como portador de uma concepção de mundo eurocêntrica, de forma que sua imposição nas culturas locais acarretaria em uma nova espécie de colonialismo.
+
 Eu não estou aqui para contrariar nenhum deles, pelo contrário, o que estou propondo é que a solução para este impasse tenha por foco não a adequação da cultura dos povos originários à uma teoria europeia, mas que esta concepção de mundo muito restrita e simplista que historicamente tem sido defendida por alguns marxistas, seja uma abordagem inadequada tal qual a abordagem "desenvolvimentista" discutida anteriormente no plano econômico.
-O fato do marxismo tradicionalmente ser visto como necessariamente ateu, me parece nascer de uma leitura simplista tanto do próprio materialismo defendido pelo marxismo, quanto de outras visões de mundo. É importante destacar que o materialismo no marxismo não significa algo tão simples como uma afirmação do tipo de que “só existe matéria”. Significa sobretudo o reconhecimento de que o mundo existe objetivamente e se organiza segundo leis impessoais e naturais. É a partir desse reconhecimento que o marxismo busca analisar de forma mais rigorosa a dinâmica concreta do capitalismo.
+
+O fato do marxismo tradicionalmente ser visto como necessariamente ateu, me parece nascer de uma leitura simplista tanto do próprio materialismo defendido pelo marxismo, quanto de outras visões de mundo. É importante destacar que o materialismo no marxismo **não** significa algo tão simples como uma afirmação do tipo de que “só existe matéria”. Significa sobretudo o reconhecimento de que o mundo existe objetivamente e se organiza segundo leis impessoais e naturais. É a partir desse reconhecimento que o marxismo busca analisar de forma mais rigorosa a dinâmica concreta do capitalismo.
+
 Evidentemente isto ainda é polêmico, mas se afasta da leitura mais simplista da questão, de uma simples defesa irrestrita de um ateísmo inconsequente. Possíveis conflitos entre o marxismo e uma concepção de mundo qualquer, deve ser analisada ponto a ponto para entender de forma mais criteriosa exatamente qual é este conflito e como podemos lidar com ele.
+
 De toda forma, é preciso evitar uma leitura simplista de materialismo. E vale dizer, mesmo no marxismo mais tradicional, esta questão já figurava como uma questão secundária. Falando sobre o contexto cristão da Rússia, Lênin disse:
+
 A unidade desta luta realmente revolucionária da classe oprimida pela criação do paraíso na terra é mais importante para nós do que a unidade de opiniões dos proletários sobre o paraíso no céu.
+
 (Lênin em O Socialismo e a Religião)
+
 O que eu busco defender é a ideia de que o marxismo pode ser absorvido pela luta indígena sem adotar um tom paternalista ou condescendente. Meu objetivo com este texto, é incentivar o movimento marxista brasileiro de forma que ele consiga se transformar em uma ferramenta de transformação social empunhada também pelos povos originários.
+
 Se eu for ser acusado de algo, espero que me acusem de deformar o marxismo, mas não por deformar a luta dos povos originários para caber em uma versão eurocêntrica da teoria marxista. Evidentemente eu não tenho uma resposta final. Isto só pode ser desenvolvido de forma coletiva.
+
 O que trago nada mais é que uma simples proposta de reflexão sujeita ao escrutínio público. Ainda que eu não seja indígena, para concluir gostaria de me dar a liberdade de reproduzir algumas palavras famosas de um indígena de minha terra:
-Esta terra tem dono!
-Djekupé A Djú
-Nação
-Este é um trecho escrito por Ingorar Hã hã hãe que eu encontrei no Etnias. Espero não haver problemas na reprodução do mesmo, uma vez que não tenho fins monetários com este texto. Eu estou compartilhando pois acredito que complementa perfeitamente o que eu tenho tentado discutir sobre a importância da dimensão cultural na luta anticapitalista. Então, com a palavra, Ignorar Hã Hã hãe:  
-Introdução
+
+Esta terra tem dono\!
+
+*Djekupé A Djú*
+
+# **Nação**
+
+Este é um trecho escrito por [Ingorar Hã hã hãe](https://etnias.site/Ingorar) que eu encontrei no [Etnias](https://etnias.site/). Espero não haver problemas na reprodução do mesmo, uma vez que não tenho fins monetários com este texto. Eu estou compartilhando pois acredito que complementa perfeitamente o que eu tenho tentado discutir sobre a importância da dimensão cultural na luta anticapitalista. Então, com a palavra, Ignorar Hã Hã hãe:																  
+**Introdução**
+
 A terminologia utilizada para designar os povos originários não é neutra; carrega consigo séculos de visões de mundo, relações de poder e projetos coloniais. Para as comunidades indígenas, a escolha entre palavras como "etnia", "tribo" ou "nação" é profundamente política, refletindo e influenciando sua luta por autodeterminação, território e reconhecimento. Este texto busca analisar o peso político desses termos, argumentando "nação" como o conceito mais adequado e potente para afirmar os direitos e a soberania dos povos originários.
-1. A Crítica aos Termos Coloniais: "Etnia" e "Tribo"
+
+**1\. A Crítica aos Termos Coloniais: "Etnia" e "Tribo"**
+
 Os termos "etnia" e, principalmente, "tribo" são construções europeias nascidas de uma visão colonialista que hierarquizava as sociedades humanas.
-"Tribo": Este conceito foi forjado sob a luz de pensamentos hegelianos, que postulavam uma evolução linear da humanidade, desde estágios "simples" e "primitivos" (mais próximos da natureza) até estágios "complexos" e "superiores" (próximos do intelecto europeu). A designação "tribo" coloca os povos originários num patamar inferior de desenvolvimento, ignorando sua complexidade social, política e espiritual. Seu uso serve para mascarar conflitos políticos e econômicos sob o rótulo de "conflitos tribais", ocultando suas reais causas.
-"Etnia": Embora definida na Antropologia como uma coletividade diferenciada por sua especificidade sociocultural (língua, religião, costumes), a palavra "etnia" tem origem europeia e foi instrumentalizada pela filosofia colonialista para classificar agrupamentos humanos nos territórios conquistados. Parte da antropologia atual evita o termo por sua imprecisão conceitual, considerando-o uma "ficção etnográfica e acadêmica" que apaga as especificidades históricas dos povos, agrupando-os sob um rótulo comum.
+
+"**Tribo**": Este conceito foi forjado sob a luz de pensamentos hegelianos, que postulavam uma evolução linear da humanidade, desde estágios "simples" e "primitivos" (mais próximos da natureza) até estágios "complexos" e "superiores" (próximos do intelecto europeu). A designação "tribo" coloca os povos originários num patamar inferior de desenvolvimento, ignorando sua complexidade social, política e espiritual. Seu uso serve para mascarar conflitos políticos e econômicos sob o rótulo de "conflitos tribais", ocultando suas reais causas.
+
+"**Etnia**": Embora definida na Antropologia como uma coletividade diferenciada por sua especificidade sociocultural (língua, religião, costumes), a palavra "etnia" tem origem europeia e foi instrumentalizada pela filosofia colonialista para classificar agrupamentos humanos nos territórios conquistados. Parte da antropologia atual evita o termo por sua imprecisão conceitual, considerando-o uma "ficção etnográfica e acadêmica" que apaga as especificidades históricas dos povos, agrupando-os sob um rótulo comum.
+
 Conceitos como tribo, tribalismo e etnicidade trazem um forte vício colonialista e neocolonialista, tendo servido aos interesses europeus de domínio político, e não à genuína compreensão das realidades que pretendiam retratar.
-2. O Conceito de "Nação" e seu Poder Político
+
+**2\. O Conceito de "Nação" e seu Poder Político**
+
 Em contraste, o conceito de "Nação" carrega um peso político significativamente maior e mais adequado à auto identificação dos povos originários.
+
 Definição: Nação significa uma união de pessoas com um sentimento de pertencimento e união, compartilhando uma cultura, práticas sociais, idioma e história comuns. Está relacionada a fatores políticos, culturais, sociais e históricos que agregam o sentimento de pertença dos indivíduos.
+
 Nação x Estado: Crucialmente, uma nação nem sempre equivale a um Estado ou a um país. Existem muitas nações sem um território soberano ou um Estado constituído. Uma nação é reconhecida pela Organização das Nações Unidas (ONU), cuja Carta constitutiva tem como propósito desenvolver relações amistosas entre nações e conseguir cooperação internacional. A ONU luta por nações, não por etnias.
+
 Exemplos Internacionais: Esta realidade é ilustrada por nações sem Estado reconhecido internacionalmente, como os Curdos (maior nação sem Estado, com aproximadamente 26 milhões de pessoas), Palestinos, Tibetanos, Bascos, Chechenos e Caxemires. Suas lutas por autonomia e autodeterminação são reconhecidas no cenário global.
-3. Abya Yala: Somos Nações
+
+**3\. Abya Yala: Somos Nações**
+
 A realidade dos povos originários das Américas (Abya Yala) se encaixa perfeitamente na definição de nação, muitas vezes sem Estado.
+
 Fundamento Legal: A Constituição Federal Brasileira de 1988, em seu Artigo 231, reconhece aos índios "sua organização social, costumes, línguas, crenças e tradições", o que corrobora a existência de nações distintas dentro do Estado brasileiro. Existem mais de 365 nações originárias, com diferentes visões de mundo e troncos linguísticos próprios (Macro-Jê, Tupi, Tikuna, Aruák, Pano, Karib, entre outros).
-Direito ao Território: O território é um espaço delimitado e apropriado por relações de poder. O território político é aquele com soberania reconhecida internacionalmente. No entanto, como afirmado: "Nós somos nações que sempre estivemos e vivemos em nosso território em PINDÓ MAR'ANHÃN, em Abya yala, os colonizadores estão em nosso território, mas aínda é nosso território!!". A ocupação ancestral, que ultrapassa 50.000 anos segundo a antropóloga Niéde Guidon, confirma esse direito originário, independentemente da documentação colonial.
-Exemplo Concreto: A Nação Huni Kuin: Originária do sul de Abya Yala, a nação Huni Kuin é composta por mais de 20 aldeias no Acre (Brasil), Peru e Bolívia. Eles possuem:
-Língua própria: Hatxã Kuin.
-Organização política autônoma: Com presidente, caciques, conselhos e uma federação indígena (FEPHAC) para representação.
-Cosmovisão e espiritualidade próprias: Com pajés, cantos sagrados e medicinas tradicionais.
-Identidade cultural unificada: Transnacional, mantendo tradições apesar das fronteiras impostas.
-Reconhecimento internacional: São reconhecidos oficialmente como nação por organismos internacionais.
+
+Direito ao Território: O território é um espaço delimitado e apropriado por relações de poder. O território político é aquele com soberania reconhecida internacionalmente. No entanto, como afirmado: "Nós somos nações que sempre estivemos e vivemos em nosso território em PINDÓ MAR'ANHÃN, em Abya yala, os colonizadores estão em nosso território, mas aínda é nosso território\!\!". A ocupação ancestral, que ultrapassa 50.000 anos segundo a antropóloga Niéde Guidon, confirma esse direito originário, independentemente da documentação colonial.
+
+**Exemplo Concreto**: A Nação Huni Kuin: Originária do sul de Abya Yala, a nação Huni Kuin é composta por mais de 20 aldeias no Acre (Brasil), Peru e Bolívia. Eles possuem:
+
+- Língua própria: Hatxã Kuin.  
+- Organização política autônoma: Com presidente, caciques, conselhos e uma federação indígena (FEPHAC) para representação.  
+- Cosmovisão e espiritualidade próprias: Com pajés, cantos sagrados e medicinas tradicionais.  
+- Identidade cultural unificada: Transnacional, mantendo tradições apesar das fronteiras impostas.  
+- Reconhecimento internacional: São reconhecidos oficialmente como nação por organismos internacionais.
+
 Na visão ancestral, uma nação não depende de um Estado formal ou exército, mas é definida pela espiritualidade, língua, território ancestral, organização social e memória coletiva.
-Conclusão
+
+**Conclusão**
+
 A palavra "nação" tem mais peso político do que "etnia" ou "tribo" porque está intrinsecamente ligada à autodeterminação, ao direito territorial e ao reconhecimento internacional. Enquanto os termos coloniais servem ao apagamento metódico e à negação de direitos, "nação" afirma a soberania e a existência complexa e organizada dos povos originários.
+
 A luta pelo uso correto da terminologia é uma luta pela descolonização do pensamento. Como conclui o texto, "Ou reencontramos nosso próprio método de estudo e pensar ou estaremos para sempre colonizados". Afirmar que somos NAÇÃO é o passo fundamental para desconstruir as ficções acadêmicas eurocêntricas e reivindicar nosso lugar de direito no mundo, com nossa própria voz e nossa própria força política. É uma saudação ancestral espiritual é um ato de resistência.
+
 🐍🙇🏾‍♂️🐆
 
-Bônus: realismo
+# 
+
+# **Bônus: realismo**
+
 Acredito que já nos estendemos demais. Mas quando falamos de arte e cultura, o marxismo historicamente sempre discutiu a questão do realismo. Não estou certo se minha posição sobre o realismo diz respeito a uma análise sobre a arte em geral, ou apenas sobre o meu gosto pessoal. Então em um primeiro momento eu pensei em não adicionar nada sobre, mas então eu pensei novamente e decidi adicionar como um bônus. Este é um texto então em grande parte sobre meu gosto pessoal sobre a arte, e que pode ou não, ser generalizado. Esta é uma discussão também bastante centrada em obras de arte que possuem uma narrativa.
+
 Vamos começar então com uma afirmação de Konder, no qual ele não apenas afirma que toda obra de arte “autêntica” é realista, mas ele possui uma preocupação muito grande em separar a “grande arte” de “modismos passageiros”.
+
 Toda autêntica obra de arte é realista, dizem os marxistas. Mas o que é que caracteriza a validade estética da representação do real na arte? … Na medida em que renuncia aos padrões que a história da arte poderia lhe fornecer para a caracterização do realismo, Garaudy poderá distinguir a grande arte dos modismos passageiros, que causam poderoso impacto mas logo se hão de desvanecer? Em que critérios objetivos ele poderá se basear para estabelecer essa distinção?
+
 (Leandro Konder em Os Marxistas e a Arte)
+
 Se buscarmos entender “grande arte”, não como um título concedido a uma obra de arte devido a um valor intrínseco que a obra possui, mas apenas devido a sua persistência histórica, sem que para isso ignoramos os motivos históricos e sociais que permitiram que a obra continuasse viva, pode ser então interessante buscarmos os motivos pelo quais determinadas obras continuam a serem lembradas tempos depois de que foram produzidas.
+
 Explicar a longevidade das obras de arte é uma típica questão levantada por marxistas que discutem arte. A chave da questão, segundo Konder, está em ver a arte não apenas como um reflexo da realidade, mas em uma relação dialética, ver a arte também como uma prática criadora da própria realidade.
+
 A concepção marxista da história pressupõe uma interação recíproca entre o passado, o presente e o futuro. Para a consciência humana, encarada da perspectiva marxista, não existe presente sem projeção para o futuro: dado o caráter essencialmente projetivo da consciência humana (vinculado ao caráter essencialmente teleológico do trabalho humano), o futuro é um fator estrutural do presente. No entanto, o futuro também não existe como um porvir inteiramente desligado do presente. O futuro existe já no presente como possibilidade, existe em germe: sua determinação não é indiferente às condições atuais do presente. Por outro lado, o marxismo entende que não há presente sem passado. O passado é um agente vivo na plasmação do presente e, por meio do presente, condiciona o futuro. Reconhecida essa capacidade do passado de marcar sua presença na criação do futuro, é fácil compreender por que o passado não morre todo, é fácil compreender por que ele consegue persistir como força ativa no presente.
+
 (Leandro Konder em Os Marxistas e a Arte)
+
 Dessa forma, se entendermos a arte, ou de forma mais geral a cultura como um processo com capacidade de produzir nossa própria consciência, promovendo e combatendo determinados valores, signos e práticas, é fácil de entender como é que a cultura hoje afeta o futuro. Assim como também podemos supor que sob certas condições históricas e sociais, os signos mobilizados por determinadas obras de arte conseguem continuar a fazer parte da nossa cultura, ainda que de forma ressignificada. Dessa forma esta obra de arte que carrega estes signos que conseguem persistir na cultura hegemônica através dos tempos consegue então continuar “viva” muito tempo depois de ser produzida.
+
 Aqui deve ficar nítido que me afasto de algumas posições mais normativas que buscam hierarquizar a produção artística, separando a “grande arte” do resto por valores intrínsecos às próprias obras. Estou atribuindo a sobrevivência da arte ao longo do tempo à fatores puramente histórico-sociais. Há uma postura típica no marxismo de avaliar a qualidade de uma dada obra de arte pelo quão realista é. Neste sentido, a sobrevivência de uma dada obra de arte seria dada então pelo quanto realismo está contido na obra. Mas o que queremos dizer por realismo?
+
 Eu novamente vou recorrer a Boal. Até certo ponto, eu simpatizo com a proposta do Lukács de analisar o realismo em uma obra, ainda que eu opte por um caminho mais descritivo que normativo. Busco evitar a hierarquização da arte ou mesmo conceber o desenvolvimento da arte como dotada de uma natureza teleológica, onde este desenvolvimento ocorreria visando cumprir um determinado fim.
+
 O que me parece, é que obras de arte mais realistas tendem a capturar melhor meu gosto. Mas tendo a pensar, e seria preciso mais pesquisas para confirmar esta hipótese, que artes realistas tendem a conseguir se manter culturalmente relevantes por mais tempo. Uma conquista que talvez possa ser explicada se seus signos se mostrarem mais flexíveis a ressignificação quando consumidas em diferentes contextos de culturas hegemônicas. Isto permitiria que a obra se mantenha interessante para diferentes públicos mesmo quando a cultura no qual foi produzida não mais exista. Seria necessário uma pesquisa completa para confirmar ou descartar esta hipótese.
+
 Mas de modo algum uma obra “mais realista” é intrinsecamente superior a outra, e muito menos é o suficiente para qualquer obra sobreviver ao tempo, há importantes aspectos econômicos, históricos e sociais em jogo.
+
 De toda forma, é preciso comentar o que é que entendo pelo realismo. É normal dizer que para Aristóteles, a arte é uma “imitação da natureza”, mas segundo Boal, esta é uma tradução bastante imprecisa. Pois por “imitação” não seria uma mera cópia, e por “natureza” não seria simplesmente as coisas que existem.
+
 Portanto, que quer dizer “imitar” para Aristóteles? Quer dizer: recriar esse movimento interno das coisas que se dirigem à perfeição. “Natureza” era esse movimento e não o conjunto de coisas já feitas, acabadas, visíveis. “Imitar”, por tanto, não tem nada a ver com “realismo”, “cópia” ou “improvisação”.
+
 (Augusto Boal em Teatro do Oprimido e outras poéticas políticas)
+
 Para Aristóteles então, a arte devia recriar o processo natural de desenvolvimento das coisas, essa tendência de desenvolvimento e evolução. Assim, podemos pensar no artista como um deus que cria um mundo e dota este mundo com um princípio de desenvolvimento que permite que esse mundo evolua de forma análoga ao que existe no mundo real.
+
 O “realismo” então passa a ser entendido como a recriação do princípio (real) de movimento interno das coisas que existe na natureza, o realismo diz respeito à um processo de mudança. Esse realismo não é então uma mera cópia das coisas que existem. Entendo então que esta concepção de realismo diz respeito a ter um processo de desenvolvimento realista, desenvolvimento seja de qual forem os elementos que constituam a história. Enquanto a concepção mais vulgar de realismo diz respeito não a um processo, mas à cenas estáticas, busca ser a todo instante como uma fotografia onde os elementos que compõem a cena sejam uma cópia de algo que existe ou poderia existir em nosso dia a dia.
+
 Então este princípio de realismo, da forma que concebo, pode estar contido em qualquer tipo de mundo fictício. Isto é, independente do cenário construído, talvez até mesmo independente de onde parta a história, o elemento realista que o cenário deve conter é o princípio de crescimento e transformação. O potencial de desenvolvimento de seus elementos se reflete na forma com que a própria história evolui, seja o cenário uma cópia do mundo real ou uma alta fantasia.
+
 É  então este o tipo de realismo quanto ao processo que uma obra precisa respeitar para ser encarada como “coerente” com a realidade e sobreviver ao crivo do tempo (ou ao menos ao meu gosto pessoal). Mas se quisermos adicionar um tom crítico sobre que tipo de realismo em específico deveria ser promovido pelo movimento socialista, podemos buscar alguns comentários de marxistas consagrados. Brecht expressa um compromisso de denunciar o ponto de vista imperante como o ponto de vista da classe dominante.
+
 Ser realista significa: revelar o complexo de causalidade social / desmascarar as opiniões dominantes como opiniões daqueles que dominam / escrever do ponto de vista da classe que dispõe das soluções mais amplas para os problemas mais urgentes com que a sociedade humana se debate / acentuar o factor da evolução / ser concreto e abrir possibilidade de abstração.
+
 (Brecht em Realismo, materialismo, utopia: Uma polêmica 1935–1940)
+
 Lukács por sua vez comenta sobre a necessidade de pensarmos na obra com uma ênfase especial na vida social dos personagens, uma vez que todos elementos extra-humanos na história só aparecem como mediação das relações dos homens. Assim podemos construir uma definição “própria” de “realismo crítico”[^8] como:
-O “realismo crítico” então passa a ser entendido como realista no que diz respeito a recriação do princípio real de movimento interno das coisas que existe na natureza com uma especial ênfase na vida social dos homens, e crítico no que diz respeito ao compromisso que possui com a tarefa de revelar as concepções da classe dominante como concepções pertencentes a uma classe, e não valores atemporais.
+
+*O “realismo crítico” então passa a ser entendido como realista no que diz respeito a recriação do princípio real de movimento interno das coisas que existe na natureza com uma especial ênfase na vida social dos homens, e crítico no que diz respeito ao compromisso que possui com a tarefa de revelar as concepções da classe dominante como concepções pertencentes a uma classe, e não valores atemporais.*
+
 O realismo assim definido tem apenas um caráter descritivo de como concebo que uma obra de arte poderia ser útil para o movimento socialista, ou que pelo menos, eu gostaria de consumir. Não estou dizendo que uma obra de arte deve se aproximar deste realismo para ser arte, e nem que ela seja intrinsecamente superior à outras obras de arte. Apresento apenas uma estrutura teórica para pensar sobre as obras.
+
 O que eu de fato defendo é que podemos promover uma arte que busque revelar a totalidade social a partir da visão de mundo da classe proletária. E o que eu critico é ver isto como um resultado inevitável do desenvolvimento da arte ou mesmo como uma espécie de evolução para uma forma superior de arte. Para mim, isto consiste apenas em uma decisão com fins políticos.
+
 [^1]:  No sentido tradicionalmente dado por dicionários: “processo organizado, lógico e sistemático de pesquisa, instrução, investigação, apresentação etc.”
+
 [^2]:   É o nome que Gramsci dá à filosofia marxista, ou como eu chamo, materialismo dialético.
+
 [^3]:  Se não estou enganado, Lukács de certa forma busca reformular as teorias desenvolvidas do Lenin sob a luz da dialética hegeliana.
-[^4]:  Das 767 cadeiras, os bolcheviques eram o segundo maior partido, ocupando 183.
+
+[^4]:  Das 767 cadeiras, os bolcheviques eram o segundo maior partido, ocupando 183\.
+
 [^5]:  Classe baixa, média e alta não são sinônimos de proletariado, pequena burguesia e burguesia, mas há entre elas uma correspondência aproximada.
-[^6]:  Sobre o desenvolvimento da classe média no século passado, “O Capital no Século XXI” de Thomas Piketty é uma interessante leitura.
-[^7]:  Não estou dizendo que não há também disputa de consciência em uma revolução armada, mas que neste cenário surgem outras questões de grande prioridade para disputar a atenção da organização, como por exemplo, questões de ordem militar.
+
+[^6]:  Sobre o desenvolvimento da classe média no século passado, “*O Capital no Século XXI*” de Thomas Piketty é uma interessante leitura.
+
+[^7]:  Não estou dizendo que não há também disputa de consciência em uma revolução armada, mas que neste cenário surgem outras questões de grande prioridade para disputar a atenção da organização, como por exemplo, questões de ordem militar. 	
+
 [^8]:  Não ser confundido com o realismo crítico de Lukács.
