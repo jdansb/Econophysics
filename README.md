@@ -10,11 +10,12 @@
 10. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
 11. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
 12. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*in progress*)
-13. Labor Content: Properties and Postulates
-14. Some Universal Patterns in Income Distribution: An Econophysics Approach??
-15. On the Statistical Physics of Wealth Distribution??
-16. Laws of Chaos: A Probabilistic Approach to Political Economy??
-17. ??
+13. [Introduction to Econometrics](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb)
+14. Labor Content: Properties and Postulates
+15. Some Universal Patterns in Income Distribution: An Econophysics Approach??
+16. On the Statistical Physics of Wealth Distribution??
+17. Laws of Chaos: A Probabilistic Approach to Political Economy??
+18. ??
 ----
 
 # Statistical Laws, Agent-Based Modeling, and Econophysics
