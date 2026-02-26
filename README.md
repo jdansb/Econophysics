@@ -1,7 +1,5 @@
 > Econophysics can be understood as a specific set of unorthodox approaches within economics that conceive of the economic system as a complex system. Its specificity lies, on the one hand, in its historical origin and methodological inspiration in physics and, on the other hand, above all, in a strongly data-based orientation, focused on the identification, reconstruction, and explanation of stylized facts as empirically observed statistical regularities.
 
-1. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
-
 **Overview**:
 1. [Marxism](https://github.com/jdansb/Econophysics/blob/main/files/marxism.md) (*portugese*)
 2. [Economy](https://github.com/jdansb/Econophysics/blob/main/files/Economy.md) (*portugese*)
@@ -16,11 +14,12 @@
 7. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
 8. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*portuguese; in progress*)
 
-**Economcetrics**
+**Econometrics**
 1. [Introduction to Econometrics](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*portuguese; in progress*)
 
 **Extra**
-2. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
+1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
+2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
 
 **Future**:
 1. Labor Content: Properties and Postulates
