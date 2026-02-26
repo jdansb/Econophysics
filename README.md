@@ -1,16 +1,16 @@
 1. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
 2. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
-3. [Overview of Marxism](https://github.com/jdansb/Econophysics/blob/main/files/marxism.md)
+3. [Overview of Marxism](https://github.com/jdansb/Econophysics/blob/main/files/marxism.md) (*portugese*)
 4. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
 5. [Monetary economics from econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/monetary.ipynb)
-6. [Complexity Economics](https://github.com/jdansb/Econophysics/blob/main/files/economia_da_complexidade.md)
-7. [Overview of Economy](https://github.com/jdansb/Econophysics/blob/main/files/Economy.md)
+6. [Complexity Economics](https://github.com/jdansb/Econophysics/blob/main/files/economia_da_complexidade.md) 
+7. [Overview of Economy](https://github.com/jdansb/Econophysics/blob/main/files/Economy.md) (*portugese*)
 8. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb) 
 9. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
 10. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
 11. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-12. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*in progress*)
-13. [Introduction to Econometrics](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb)
+12. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*portuguese; in progress*)
+13. [Introduction to Econometrics](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*portuguese; in progress*)
 14. Labor Content: Properties and Postulates
 15. Some Universal Patterns in Income Distribution: An Econophysics Approach??
 16. On the Statistical Physics of Wealth Distribution??
