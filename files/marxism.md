@@ -1,4 +1,6 @@
-	 	 	 	 	 	
+**Warning**: In a nutshell, Marxism for me is about adopting a certain worldview (Marxist theory, philosophy of praxis, dialectical materialism, whatever you want to call it). This worldview will influence how we believe to be the most efficient way to investigate reality in different fields of knowledge, as well as how we position ourselves on certain social issues. In other words, Marxism is not about supporting a particular party or political figure, but rather having a materialist conception of the world in terms of its foundation and a dialectical conception in terms of its evolution.
+
+---
 
 # **Introdução**
 
