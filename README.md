@@ -20,6 +20,8 @@
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
 2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
+3. 
+**Warning**: This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material.
 
 **Future**:
 1. Labor Content: Properties and Postulates
