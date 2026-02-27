@@ -15,7 +15,7 @@
 8. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*portuguese; in progress*)
 
 **Econometrics**
-1. [Introduction to Econometrics](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*portuguese; in progress*)
+1. [Single-equation regression models](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*portuguese; in progress*)
 
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
