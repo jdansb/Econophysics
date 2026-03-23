@@ -1,8 +1,5 @@
 > Econophysics can be understood as a specific set of unorthodox approaches within economics that conceive of the economic system as a complex system. Its specificity lies, on the one hand, in its historical origin and methodological inspiration in physics and, on the other hand, above all, in a strongly data-based orientation, focused on the identification, reconstruction, and explanation of stylized facts as empirically observed statistical regularities.
 
-**Overview**:
-1. [Marxism](https://github.com/jdansb/Econophysics/blob/main/files/marxism.md) (*portugese*)
-2. [Economy](https://github.com/jdansb/Econophysics/blob/main/files/Economy.md) (*portugese*)
 
 **Econophysics** 
 1. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
