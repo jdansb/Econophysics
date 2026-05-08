@@ -25,7 +25,8 @@
 2. Some Universal Patterns in Income Distribution: An Econophysics Approach??
 3. On the Statistical Physics of Wealth Distribution??
 4. Laws of Chaos: A Probabilistic Approach to Political Economy??
-5. ??
+5. Quantitative Marxism
+6. Mathematical approach of Theory f Value
 
 ----
 
