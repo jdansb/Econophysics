@@ -9,10 +9,6 @@
 5. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
 6. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
 7. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-8. [A Probabilistic Framework for Labor](https://github.com/jdansb/Econophysics/blob/main/files/Probabilistic_Framework.ipynb) (*portuguese; in progress*)
-
-**Econometrics**
-1. [Single-equation regression models](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*portuguese; in progress*)
 
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
