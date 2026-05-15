@@ -1,14 +1,14 @@
 **Notes on the Study of Econophysics**
 1. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
 2. [Monetary economics from econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/monetary.ipynb)
-3. [Complexity Economics](https://github.com/jdansb/Econophysics/blob/main/files/economia_da_complexidade.md)  
+3. [Complexity economics](https://github.com/jdansb/Econophysics/blob/main/files/economia_da_complexidade.md)  
 4. [Social Architecture of Capitalism](https://github.com/jdansb/Econophysics/blob/main/files/social_architecture.ipynb)
 5. [Inequality in a model of capitalist economy](https://arxiv.org/html/2410.22369v2)
 6. [Can rising consumption deepen inequality?](https://arxiv.org/html/2601.15537v1)
 7. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
 8. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
-9. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-10. [Probabilistic Law of the Decrease in Contained Work](https://github.com/jdansb/Econophysics/blob/main/files/dynamic_labor.ipynb)
+9. [Possible measure of labor content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
+10. [Probabilistic law of the decrease in labor content](https://github.com/jdansb/Econophysics/blob/main/files/dynamic_labor.ipynb)
 
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
