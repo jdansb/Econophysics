@@ -1,7 +1,4 @@
-> Econophysics can be understood as a specific set of unorthodox approaches within economics that conceive of the economic system as a complex system. Its specificity lies, on the one hand, in its historical origin and methodological inspiration in physics and, on the other hand, above all, in a strongly data-based orientation, focused on the identification, reconstruction, and explanation of stylized facts as empirically observed statistical regularities.
-
-
-**Econophysics** 
+**Notes on the Study of Econophysics**
 1. [Philosophy of Econophysics](https://github.com/jdansb/Econophysics/blob/main/files/Filosofia%20da%20Econof%C3%ADsica.md)
 2. [Monetary economics from econophysics perspective](https://github.com/jdansb/Econophysics/blob/main/files/monetary.ipynb)
 3. [Complexity Economics](https://github.com/jdansb/Econophysics/blob/main/files/economia_da_complexidade.md)  
@@ -16,14 +13,6 @@
 2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
 
 **Warning**: This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material.
-
-**Future**:
-1. Labor Content: Properties and Postulates
-2. Some Universal Patterns in Income Distribution: An Econophysics Approach??
-3. On the Statistical Physics of Wealth Distribution??
-4. Laws of Chaos: A Probabilistic Approach to Political Economy??
-5. Quantitative Marxism
-6. Mathematical approach of Theory f Value
 
 ----
 
