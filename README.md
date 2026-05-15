@@ -8,13 +8,13 @@
 7. [Statistical approximation of the law of value (ABM)](https://github.com/jdansb/Econophysics/blob/main/files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
 8. [Statistical approximation of the law of value (EBM)](https://github.com/jdansb/Econophysics/blob/main/files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
 9. [Possible Measure of Labor Content](https://github.com/jdansb/Econophysics/blob/main/files/medida_do_trabalho_contido.ipynb)
-10. [Probabilistic Law of the Decrease in Contained Work](https://colab.research.google.com/github/jdansb/Econophysics/blob/main/files/dynamic_labor.ipynb)
+10. [Probabilistic Law of the Decrease in Contained Work](https://github.com/jdansb/Econophysics/blob/main/files/dynamic_labor.ipynb)
 
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
 2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
 
-**Warning**: This repository largerly consists of study notes. Critical thinking and skepticism are recommended when reading this material.
+**Warning**: This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material.
 
 ----
 
