@@ -14,7 +14,7 @@
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
 2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
-3. [Single-equation regression models](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*ongoing*)
+3. [OLS (FE;weighted) and correlation](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*ongoing*)
 
 
 **Warning**: This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material.
