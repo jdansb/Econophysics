@@ -1,4 +1,3 @@
-[Check the Jupyter Book](https://jdansb.github.io/Econophysics/)
 # Notes on the Study of Econophysics
 
 1. [Philosophy of Econophysics](files/Filosofia%20da%20Econof%C3%ADsica.md)
