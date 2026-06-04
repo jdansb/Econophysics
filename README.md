@@ -10,7 +10,8 @@
 8. [Statistical approximation of the law of value (EBM)](files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
 9. [Possible measure of labor content](files/medida_do_trabalho_contido.ipynb)
 10. [Probabilistic law of the decrease in labor content](files/dynamic_labor.ipynb)
-11. [Kinetic model with a marginalist approach](files/gas_market.ipynb)
+11. [Kinetic model with a marginalist approach](files/gas_market.ipynb) (*ongoing*)
+12. [Problema da transformação]()(*ongoing*)
 
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
