@@ -36,10 +36,8 @@ project:
       url: https://arxiv.org/html/2601.15537v1
     - title: Economics
       children:
-        - file:
-        - title: Political Economy
         - file: files/ecopol.ipynb
-        - title: Social accounting
+        - title: Political Economy
         - file: files/Intro_Econo.ipynb
         - title: Econometrics
     - title: Appendix
