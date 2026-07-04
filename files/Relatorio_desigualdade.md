@@ -1,6 +1,6 @@
 Since much of my research focuses on investigating inequality in the distribution of income and wealth under capitalism, it seems appropriate to include a brief discussion on this topic. For that purpose, I draw on two recent and widely recognized reports: the [*Sustainable Development Outlook 2019*](https://digitallibrary.un.org/record/3841597?v=pdf) published by the United Nations, and the [*Global Wealth Report 2022*](https://www.ubs.com/us/en/wealth-management/insights/global-wealth-report.html) produced by UBS.
 
-# Sutainable Development Outlook 2019
+## Sutainable Development Outlook 2019
 The Sustainable Development Goals were conceived within the 2030 Agenda for Sustainable Development and are among the greatest hopes for a sustainable future, but they have faced significant challenges. In the words of the report’s preface:
 
 > Persistently high levels of inequality entrench uncertainty and insecurity among people, reinforcing divisions and undermining trust in institutions and government.
@@ -67,7 +67,7 @@ As a wealth redistribution measure, there is the proposal of a universal basic i
 
 Opponents, however, argue that there is a negative incentive, functioning as a disincentive to work. It is important to note that the effectiveness of any public policy depends on how the program interacts with a broader welfare system. As a complement, UBI can have an equalizing effect; however, as a substitute for all programs, it could worsen inequality. The greatest challenge concerns the resources required to fund the program. Finland conducted a pilot study between 2017 and 2018, and preliminary results indicate that UBI had no effect on employment levels but increased confidence in individuals' physical and mental well-being, as well as trust in institutions.
 
-# Global Wealth Report
+## Global Wealth Report
 
 The UN report is already quite comprehensive for an introduction. For a deeper dive into the topic, I would recommend Piketty's book *Capital in the Twenty-First Century*. However, since I already have some notes on the UBS report, I will use them to make a few additional comments. This report was created by two banks and is the most up-to-date source on wealth distribution in the world; interestingly, one of the two banks self-declares as the largest global wealth manager.
 
