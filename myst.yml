@@ -28,6 +28,8 @@ project:
       title: Measure of labor content
     - file: files/dynamic_labor.ipynb
       title: Decrease in labor content
+    - file: files/gas_market.ipynb
+      title: A model with a marginalist approach
     - title: Inequality in a model of capitalist economy
       url: https://arxiv.org/html/2410.22369v2
     - title: Can rising consumption deepen inequality? 
