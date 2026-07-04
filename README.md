@@ -1,29 +1,6 @@
 # Notes on the Study of Econophysics
 
-1. [Philosophy of Econophysics](files/Filosofia%20da%20Econof%C3%ADsica.md)
-2. [Monetary economics from econophysics perspective](files/monetary.ipynb)
-3. [Complexity economics](files/economia_da_complexidade.md)  
-4. [Social Architecture of Capitalism](files/social_architecture.ipynb)
-5. [Inequality in a model of capitalist economy](https://arxiv.org/html/2410.22369v2)
-6. [Can rising consumption deepen inequality?](https://arxiv.org/html/2601.15537v1)
-7. [Statistical approximation of the law of value (ABM)](files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
-8. [Statistical approximation of the law of value (EBM)](files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
-9. [Possible measure of labor content](files/medida_do_trabalho_contido.ipynb)
-10. [Probabilistic law of the decrease in labor content](files/dynamic_labor.ipynb)
-11. [Kinetic model with a marginalist approach](files/gas_market.ipynb) (*ongoing*)
-12. [Problema da transformação]()(*ongoing*)
-13. [Contabilidade social](https://github.com/jdansb/Econophysics/blob/main/files/contsocial.ipynb)(*ongoing*)
-14. [Some universal patterns in income distribution](https://github.com/jdansb/Econophysics/blob/main/files/shaikh.ipynb)(*ongoing*)
-
-**Extra**
-1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
-2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
-3. [OLS (FE;weighted) and correlation](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*ongoing*)
-
-
 **Warning**: This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material.
-
-----
 
 ## Statistical Laws, Agent-Based Modeling, and Econophysics
 My intention in this section is to provide a general overview of how research in this field is conducted and, to some extent, what motivates its existence. For those who wish to delve deeper, virtually every book in the area begins by offering a historical contextualization of the field’s development. Below, I highlight three works that I consider particularly useful for those seeking an introduction to the subject:
@@ -178,6 +155,28 @@ Traditionally, econophysics has focused on issues such as the flow of money and 
 In conclusion, based on everything studied and discussed so far, econophysics can be understood as a methodology for investigating economic problems, which explains the ‘econo’ part of its name. Developed by physicists, it often applies methods inspired by techniques from physics, hence the ‘physics’ in the name. This methodology, especially when discussing wealth distribution, includes obtaining and verifying statistical laws and developing generative models (often based on agent-based modeling) capable of generating these statistical laws as an emergent phenomenon. Importantly, econophysics is not intended to propose an economic theory; rather, its focus is on providing quantitative tools and methods that support and complement existing theoretical frameworks. Furthermore, it can be noted that interdisciplinary endeavors of this nature contribute to bridging the natural sciences and the human sciences. As Karl Marx[^9] stated:
 
 > “We know only one science, the science of history. History can be examined from two sides, divided into the history of nature and the history of humanity. The two sides, however, cannot be separated; as long as humanity exists, the history of nature and the history of humanity will condition each other.”
+
+## Table of Contents
+
+1. [Philosophy of Econophysics](files/Filosofia%20da%20Econof%C3%ADsica.md)
+2. [Monetary economics from econophysics perspective](files/monetary.ipynb)
+3. [Complexity economics](files/economia_da_complexidade.md)  
+4. [Social Architecture of Capitalism](files/social_architecture.ipynb)
+5. [Inequality in a model of capitalist economy](https://arxiv.org/html/2410.22369v2)
+6. [Can rising consumption deepen inequality?](https://arxiv.org/html/2601.15537v1)
+7. [Statistical approximation of the law of value (ABM)](files/aproximacao_estatistica_da_lei_do_valor_ABM.ipynb)
+8. [Statistical approximation of the law of value (EBM)](files/Statistical_approximation_of_the_law_of_value_(EBM).ipynb)
+9. [Possible measure of labor content](files/medida_do_trabalho_contido.ipynb)
+10. [Probabilistic law of the decrease in labor content](files/dynamic_labor.ipynb)
+11. [Kinetic model with a marginalist approach](files/gas_market.ipynb)
+12. [Problema da transformação]()(*ongoing*)
+13. [Contabilidade social](https://github.com/jdansb/Econophysics/blob/main/files/contsocial.ipynb)(*ongoing*)
+14. [Some universal patterns in income distribution](https://github.com/jdansb/Econophysics/blob/main/files/shaikh.ipynb)(*ongoing*)
+
+**Extra**
+1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
+2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
+3. [OLS (FE;weighted) and correlation](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*ongoing*)
 
 
 [^1]: There is also an interesting popular science article entitled *[The Physics of Human Particles](https://cienciahoje.periodicos.capes.gov.br/storage/acervo/ch/ch_342.pdf)* (Celia Anteneodo).  
