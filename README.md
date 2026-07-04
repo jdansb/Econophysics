@@ -2,6 +2,8 @@
 
 **Warning**: This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material. It has happened more than once that I wrote a note, believed I had fully understood the material, and only upon closer inspection—by implementing a simulation or working through the problem analytically—realized that I had made mistakes. In addition, some chapters are exploratory in nature and serve as a means of learning new tools; it is not necessarily the case that they represent the most appropriate way of addressing the subject.
 
+There is also a Portuguese PDF version available [here](files/Tese.pdf), with some supplementary texts.
+
 ## Statistical Laws, Agent-Based Modeling, and Econophysics
 My intention in this section is to provide a general overview of how research in this field is conducted and, to some extent, what motivates its existence. For those who wish to delve deeper, virtually every book in the area begins by offering a historical contextualization of the field’s development. Below, I highlight three works that I consider particularly useful for those seeking an introduction to the subject:
 
