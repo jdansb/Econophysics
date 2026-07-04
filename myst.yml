@@ -37,9 +37,11 @@ project:
     - title: Economics
       children:
         - file: files/ecopol.ipynb
-        - title: Political Economy
+          title: Political Economy
         - file: files/Intro_Econo.ipynb
-        - title: Econometrics
+          title: Econometrics
+        - file: files/contsocial.ipynb
+          title: Social accounting
     - title: Appendix
       children:
         - file: files/Relatorio_desigualdade.md
