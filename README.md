@@ -176,7 +176,8 @@ In conclusion, based on everything studied and discussed so far, econophysics ca
 2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
 3. [OLS (FE;weighted) and correlation](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*ongoing*)
 4. [Contabilidade social](https://github.com/jdansb/Econophysics/blob/main/files/contsocial.ipynb)(*ongoing*)
-5. [Economia Marxista]()
+5. [Economia Marxista]()(*ongoing*)
+6. [Apêndice Matemático]()(*ongoing*)
 [^1]: There is also an interesting popular science article entitled *[The Physics of Human Particles](https://cienciahoje.periodicos.capes.gov.br/storage/acervo/ch/ch_342.pdf)* (Celia Anteneodo).  
 [^2]: The full discussion can be found in the book [*Statistical Laws in Complex Systems*](https://arxiv.org/abs/2407.19874) (Altmann).  
 [^3]: [*In Search of the Applicability of Artificial Societies in Educational Informatics*](https://lume.ufrgs.br/bitstream/handle/10183/12181/000617438.pdf?sequence=1&isAllowed=y) (Henrique Oliveira da Silva) and *[Combinatorial Optimization and Linear Programming: Models and Algorithms](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)* (Marco Goldbarg) serve as references for this discussion on models.  
