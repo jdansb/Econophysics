@@ -169,8 +169,7 @@ In conclusion, based on everything studied and discussed so far, econophysics ca
 9. [Possible measure of labor content](files/medida_do_trabalho_contido.ipynb)
 10. [Probabilistic law of the decrease in labor content](files/dynamic_labor.ipynb)
 11. [Kinetic model with a marginalist approach](files/gas_market.ipynb)
-12. [Problema da transformação]()(*ongoing*)
-13. [Some universal patterns in income distribution](https://github.com/jdansb/Econophysics/blob/main/files/shaikh.ipynb)(*ongoing*)
+12. [Some universal patterns in income distribution](https://github.com/jdansb/Econophysics/blob/main/files/shaikh.ipynb)(*ongoing*)
 
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
