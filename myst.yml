@@ -37,10 +37,10 @@ project:
     - title: Economics
       children:
         - file:
-        - title: Marxist economics
-        - file:
+        - title: Political Economy
+        - file: files/ecopol.ipynb
         - title: Social accounting
-        - file:
+        - file: files/Intro_Econo.ipynb
         - title: Econometrics
     - title: Appendix
       children:
@@ -48,8 +48,7 @@ project:
           title: Inequality report
         - file: files/leitura.md
           title: Suggested readings
-        - file: files/Intro_Econo.ipynb
-          title: OLS (FE;weighted) and correlation 
+        
     
 site:
   template: book-theme
