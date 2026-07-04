@@ -1,6 +1,6 @@
 # Notes on the Study of Econophysics
 
-**Warning**: This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material.
+**Warning**: This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material. It has happened more than once that I wrote a note, believed I had fully understood the material, and only upon closer inspection—by implementing a simulation or working through the problem analytically—realized that I had made mistakes. In addition, some chapters are exploratory in nature and serve as a means of learning new tools; it is not necessarily the case that they represent the most appropriate way of addressing the subject.
 
 ## Statistical Laws, Agent-Based Modeling, and Econophysics
 My intention in this section is to provide a general overview of how research in this field is conducted and, to some extent, what motivates its existence. For those who wish to delve deeper, virtually every book in the area begins by offering a historical contextualization of the field’s development. Below, I highlight three works that I consider particularly useful for those seeking an introduction to the subject:
@@ -175,8 +175,8 @@ In conclusion, based on everything studied and discussed so far, econophysics ca
 1. [Inequality report](files/Relatorio_desigualdade.md)
 2. [Suggested readings](files/leitura.md)
 3. [OLS (FE;weighted) and correlation](files/Intro_Econo.ipynb)
-4. [Contabilidade social](https://github.com/jdansb/Econophysics/blob/main/files/contsocial.ipynb)(*ongoing*)
-5. [Economia Marxista]()(*ongoing*)
+4. [Political Economy](files/ecopol.ipynb)
+5. [Contabilidade social](https://github.com/jdansb/Econophysics/blob/main/files/contsocial.ipynb)(*ongoing*)
 6. [Apêndice Matemático]()(*ongoing*)
 [^1]: There is also an interesting popular science article entitled *[The Physics of Human Particles](https://cienciahoje.periodicos.capes.gov.br/storage/acervo/ch/ch_342.pdf)* (Celia Anteneodo).  
 [^2]: The full discussion can be found in the book [*Statistical Laws in Complex Systems*](https://arxiv.org/abs/2407.19874) (Altmann).  
