@@ -29,11 +29,19 @@ project:
     - file: files/dynamic_labor.ipynb
       title: Decrease in labor content
     - file: files/gas_market.ipynb
-      title: A model with a marginalist approach
+      title: Marginalist approach
     - title: Inequality in a model of capitalist economy
       url: https://arxiv.org/html/2410.22369v2
     - title: Can rising consumption deepen inequality? 
       url: https://arxiv.org/html/2601.15537v1
+    - title: Economics
+      children:
+        - file:
+        - title: Marxist economics
+        - file:
+        - title: Social accounting
+        - file:
+        - title: Econometrics
     - title: Appendix
       children:
         - file: files/Relatorio_desigualdade.md
