@@ -172,9 +172,9 @@ In conclusion, based on everything studied and discussed so far, econophysics ca
 12. [Some universal patterns in income distribution](https://github.com/jdansb/Econophysics/blob/main/files/shaikh.ipynb)(*ongoing*)
 
 **Extra**
-1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
-2. [Suggested readings](https://github.com/jdansb/Econophysics/blob/main/files/leitura.md)
-3. [OLS (FE;weighted) and correlation](https://github.com/jdansb/Econophysics/blob/main/files/Intro_Econo.ipynb) (*ongoing*)
+1. [Inequality report](files/Relatorio_desigualdade.md)
+2. [Suggested readings](files/leitura.md)
+3. [OLS (FE;weighted) and correlation](files/Intro_Econo.ipynb)
 4. [Contabilidade social](https://github.com/jdansb/Econophysics/blob/main/files/contsocial.ipynb)(*ongoing*)
 5. [Economia Marxista]()(*ongoing*)
 6. [Apêndice Matemático]()(*ongoing*)
