@@ -13,6 +13,7 @@
 11. [Kinetic model with a marginalist approach](files/gas_market.ipynb) (*ongoing*)
 12. [Problema da transformação]()(*ongoing*)
 13. [Contabilidade social](https://github.com/jdansb/Econophysics/blob/main/files/contsocial.ipynb)(*ongoing*)
+14. [Some universal patterns in income distribution](https://github.com/jdansb/Econophysics/blob/main/files/shaikh.ipynb)(*ongoing*)
 
 **Extra**
 1. [Inequality report](https://github.com/jdansb/Econophysics/blob/main/files/Relatorio_desigualdade.md)
