@@ -32,6 +32,8 @@ project:
       title: Marginalist approach
     - file: files/shaikh.ipynb
       title: Universal patterns
+    - file: files/fkkerplanck.ipynb
+      title: Fokker-Planck Description
     - title: Inequality in a model of capitalist economy
       url: https://arxiv.org/html/2410.22369v2
     - title: Can rising consumption deepen inequality? 
