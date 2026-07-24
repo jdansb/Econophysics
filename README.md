@@ -2,7 +2,7 @@
 
 **Warnings**: 
 1. This repository largely consists of study notes. Critical thinking and skepticism are recommended when reading this material. It has happened more than once that I wrote a note, believed I had fully understood the material, and only upon closer inspection—by implementing a simulation or working through the problem analytically—realized that I had made mistakes. In addition, some chapters are exploratory in nature and serve as a means of learning new tools; it is not necessarily the case that they represent the most appropriate way of addressing the subject.
-2. There is also a Portuguese PDF version available [here](files/Tese.pdf), with some supplementary texts.
+2. There is also a Portuguese PDF version available [here](https://github.com/jdansb/Econophysics/blob/main/files/Tese.pdf), with some supplementary texts.
 3. The notebooks are rendered in three different places: Google Colab, GitHub, and JupyterBook. I always aim to ensure correct rendering, but sometimes it may fail in one of these environments. I am 100% certain that it renders correctly in Google Colab, so please choose that option if you encounter any issues.
 
 ## Statistical Laws, Agent-Based Modeling, and Econophysics
