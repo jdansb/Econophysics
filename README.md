@@ -173,7 +173,7 @@ In conclusion, based on everything studied and discussed so far, econophysics ca
 10. [Probabilistic law of the decrease in labor content](files/dynamic_labor.ipynb)
 11. [Kinetic model with a marginalist approach](files/gas_market.ipynb)
 12. [Some universal patterns in income distribution](/files/shaikh.ipynb)
-13. [Fokker-Planck Description of Wealth Dynamics and the Origin of Pareto's Law](https://github.com/jdansb/Econophysics/blob/main/files/fkkerplanck.ipynb)(*ongoing*)
+13. [Fokker-Planck Description of Wealth Dynamics and the Origin of Pareto's Law](/files/fkkerplanck.ipynb)
 
 **Extra**
 1. [Inequality report](files/Relatorio_desigualdade.md)
