@@ -181,7 +181,8 @@ In conclusion, based on everything studied and discussed so far, econophysics ca
 3. [OLS (FE;weighted) and correlation](files/Intro_Econo.ipynb)
 4. [Political Economy](files/ecopol.ipynb)
 5. [Social accounting](files/contsocial.ipynb)
-6. [Apêndice Matemático (Estatística, Markov, e outros)]()(*ongoing*)
+6. [Simple Models](files/Simple_Model.ipynb)(*ongoing*)
+7. [Apêndice Matemático (Estatística, Markov, e outros)]()(*ongoing*)
 
 [^1]: There is also an interesting popular science article entitled *[The Physics of Human Particles](https://cienciahoje.periodicos.capes.gov.br/storage/acervo/ch/ch_342.pdf)* (Celia Anteneodo).  
 [^2]: The full discussion can be found in the book [*Statistical Laws in Complex Systems*](https://arxiv.org/abs/2407.19874) (Altmann).  
